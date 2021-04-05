@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>兑换</title>
+    <g id="H5主页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="兑换1" transform="translate(-101.000000, -834.000000)">
+            <g id="底部栏" transform="translate(0.000000, 827.000000)">
+                <g id="2" transform="translate(75.000000, 0.000000)">
+                    <g id="兑换" transform="translate(26.000000, 7.000000)">
+                        <polygon id="路径" points="0 24 24 24 24 0 0 0"></polygon>
+                        <path d="M14.4129,3.143 C14.4129,3.143 19.2579,2.499 20.6269,7.491 C20.6199,5.708 20.7199,3.83 20.7199,3.83" id="Stroke-51" stroke="#393939" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M8.493,19.852 C8.493,19.852 3.626,19.405 3.399,14.234 C3.011,15.974 2.496,17.782 2.496,17.782" id="Stroke-52" stroke="#393939" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M21.5043,15.1352 C21.5043,18.3112 18.9293,20.8852 15.7543,20.8852 C12.5783,20.8852 10.0043,18.3112 10.0043,15.1352 C10.0043,11.9592 12.5783,9.3852 15.7543,9.3852 C18.9293,9.3852 21.5043,11.9592 21.5043,15.1352 Z" id="Stroke-53" stroke="#EDB802" stroke-width="2"></path>
+                        <path d="M12.9042,6.7152 C12.2792,4.8482 10.5362,3.4932 8.4592,3.4932 C5.8602,3.4932 3.7522,5.6012 3.7522,8.2002 C3.7522,10.3762 5.2362,12.1902 7.2422,12.7292" id="Stroke-54" stroke="#EDB802" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
