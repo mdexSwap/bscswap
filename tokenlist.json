@@ -1,0 +1,418 @@
+{
+  "name": "MDEX token List",
+  "timestamp": "2020-08-11T22:55:13.889Z",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 6
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
+  "keywords": [
+    "MDEX",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped Ether",
+      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 42,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png"
+    },
+    {
+      "name": "Maker",
+      "address": "0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85",
+      "symbol": "MKR",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 42,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa/logo.png"
+    },
+    {
+      "name": "Maker",
+      "address": "0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD",
+      "symbol": "MKR",
+      "decimals": 18,
+      "chainId": 42,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x88A1F698Ef36Bb6C128c2F600Fc9d610AB7de708",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x3A2ED283117A7f8b835f07A50Af24cBab4c007B7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "ETT Token",
+      "address": "0x071a50263f6BCE9Ce51B8b0aD75ae8244deA8102",
+      "symbol": "ETT",
+      "decimals": 18,
+      "chainId": 4
+    },
+    {
+      "name": "ATT Token",
+      "address": "0x8fDaeB331e1537056f5745830f32868eD42fDc62",
+      "symbol": "ATT",
+      "decimals": 18,
+      "chainId": 4
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x44aC129675f250CfA1b171E20dd4Ffd0Dbe17555",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 42
+    },
+    {
+      "name": "ATT Token",
+      "address": "0xdd251371CB1513074C36C205b9d2269C76cFE655",
+      "symbol": "ATT",
+      "decimals": 18,
+      "chainId": 42
+    },
+    {
+      "name": "AAA",
+      "address": "0x108a277F3CB612bB868Ae825Bd78FaD58d2FB8E9",
+      "symbol": "AAA",
+      "decimals": 18,
+      "chainId": 97
+    },
+    {
+      "name": "BBB",
+      "address": "0xa874f94083c739E40BB75D3AC2d1dF4C3134f461",
+      "symbol": "BBB",
+      "decimals": 18,
+      "chainId": 97
+    },
+    {
+      "name": "CCC",
+      "address": "0xc67dd064d70C6f391598cB979521488dc13aE416",
+      "symbol": "CCC",
+      "decimals": 18,
+      "chainId": 97
+    },
+    {
+      "name": "Wrapped BNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://mdex.com/token-icons/bsc/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "Binance-Peg BUSD Token",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://mdex.com/token-icons/bsc/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "name": "Binance-Peg BTCB Token",
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
+    },
+    {
+      "name": "Binance-Peg Ethereum Token",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+    },
+    {
+      "name": "Binance-Peg BUSD-T",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x55d398326f99059ff775485246999027b3197955.png"
+    },
+    {
+      "name": "Swipe",
+      "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
+      "symbol": "SXP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x47bead2563dcbf3bf2c9407fea4dc236faba485a.png"
+    },
+    {
+      "name": "Binance-Peg Polkadot Token",
+      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "symbol": "DOT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png"
+    },
+    {
+      "name": "Binance Beacon ETH",
+      "address": "0x250632378e573c6be1ac2f97fcdf00515d0aa91b",
+      "symbol": "BETH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x250632378e573c6be1ac2f97fcdf00515d0aa91b.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
+    },
+    {
+      "name": "Binance-Peg Cardano Token",
+      "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+      "symbol": "ADA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47.png"
+    },
+    {
+      "name": "Binance-Peg ChainLink Token",
+      "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://mdex.com/token-icons/bsc/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd.png"
+    },   
+    {
+      "name": "Binance-Peg Dai Token",
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
+    },    
+    {
+      "name": "Binance-Peg Litecoin Token",
+      "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+      "symbol": "LTC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x4338665cbb7b2485a8855a139b75d5e34ab0db94.png"
+    },    
+    {
+      "name": "Binance-Peg XRP Token",
+      "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+      "symbol": "XRP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe.png"
+    },   
+    {
+      "name": "Binance-Peg Uniswap",
+      "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xbf5140a22578168fd562dccf235e5d43a02ce9b1.png"
+    },    
+    {
+      "name": "Binance-Peg Bitcoin Cash Token",
+      "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+      "symbol": "BCH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x8ff795a6f4d97e7887c79bea79aba5cc76444adf.png"
+    },    
+    {
+      "name": "Binance-Peg Band Protocol Token",
+      "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+      "symbol": "BAND",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18.png"
+    },    
+    {
+      "name": "Binance-Peg Compound Coin",
+      "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
+      "symbol": "COMP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x52ce071bd9b1c4b00a0b92d298c512478cad67e8.png"
+    }, 
+    {
+      "name": "Injective Protocol",
+      "address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+      "symbol": "INJ",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xa2b726b1145a4773f68593cf171187d8ebe4d495.png"
+    },
+    {
+      "name": "Binance-Peg EOS Token",
+      "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+      "symbol": "EOS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6.png"
+    }, 
+    {
+      "name": "Binance-Peg yearn.finance",
+      "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
+      "symbol": "YFI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e.png"
+    }, 
+    {
+      "name": "Binance-Peg Cosmos Token",
+      "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+      "symbol": "ATOM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x0eb3a705fc54725037cc9e008bdede697f62f335.png"
+    }, 
+    {
+      "name": "Binance-Peg Filecoin",
+      "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+      "symbol": "FIL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153.png"
+    }, 
+    {
+      "name": "Binance-Peg Tezos Token",
+      "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
+      "symbol": "XTZ",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x16939ef78684453bfdfb47825f8a5f714f12623a.png"
+    }, 
+    {
+      "name": "Binance-Peg IoTeX Network",
+      "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
+      "symbol": "IOTX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x9678e42cebeb63f23197d726b29b1cb20d0064e5.png"
+    }, 
+    {
+      "name": "Bella Protocol",
+      "address": "0x8443f091997f06a61670b735ed92734f5628692f",
+      "symbol": "BEL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x8443f091997f06a61670b735ed92734f5628692f.png"
+    }, 
+    {
+      "name": "Binance-Peg YFII.finance Token",
+      "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
+      "symbol": "YFII",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x7f70642d88cf1c4a3a7abb072b53b929b653eda5.png"
+    }, 
+    {
+      "name": "Binance-Peg Synthetix Network Token",
+      "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
+      "symbol": "SNX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x9ac983826058b8a9c7aa1c9171441191232e8404.png"
+    }, 
+    {
+      "name": "Binance-Peg Ontology Token",
+      "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
+      "symbol": "ONT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xfd7b3a77848f1c2d67e05e54d78d174a0c850335.png"
+    }, 
+    {
+      "name": "Binance-Peg Dogecoin",
+      "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+      "symbol": "DOGE",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xba2ae424d960c26247dd6c32edc70b295c744c43.png"
+    }, 
+    {
+      "name": "Binance-Peg Basic Attention Token",
+      "address": "0x101d82428437127bf1608f699cd651e6abf9766e",
+      "symbol": "BAT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x101d82428437127bf1608f699cd651e6abf9766e.png"
+    }, 
+    {
+      "name": "Binance-Peg Zcash Token",
+      "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+      "symbol": "ZEC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb.png"
+    }, 
+    {
+      "name": "Binance-Peg Maker",
+      "address": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
+      "symbol": "MKR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x5f0da599bb2cccfcf6fdfd7d81743b6020864350.png"
+    }, 
+    {
+      "name": "Binance-Peg NEAR Protocol",
+      "address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
+      "symbol": "NEAR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x1fa4a73a3f0133f0025378af00236f3abdee5d63.png"
+    }, 
+    {
+      "name": "Binance-Peg Paxos Standard",
+      "address": "0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094",
+      "symbol": "PAX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094.png"
+    } 
+  ]
+}
