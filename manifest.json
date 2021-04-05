@@ -1,0 +1,16 @@
+{
+  "short_name": "HSWAP",
+  "name": "HSWAP",
+  "icons": [
+    {
+      "src": "./images/200x200_App_Icon.png",
+      "sizes": "200x200",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#ff007a",
+  "background_color": "#fff"
+}
