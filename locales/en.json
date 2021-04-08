@@ -104,7 +104,7 @@
   "text5": "Personal Reward",
   "text6": "Pool‘s Rewards",
   "text7": "Withdrawable Rewards",
-  "charts": "Charts",
+  "charts": "Chart",
   "Slippagetolerance": "Slippage Tolerance",
   "enterAmount": "Enter amount",
   "connectWallet": "Connect Wallet",
@@ -168,5 +168,7 @@
   "tab4": "Chart",
   "tab5": "Boardroom",
   "langSet": "Language Settings",
-  "crossChain": "Bridge"
+  "crossChain": "Bridge",
+  "announcement": "Announcement",
+  "Cooperation": "Cooperation"
 }
