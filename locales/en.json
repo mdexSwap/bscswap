@@ -88,7 +88,7 @@
   "brokenToken": "The selected token is not compatible with Uniswap V1. Adding liquidity will result in locked funds.",
   "toleranceExplanation": "Lowering this limit decreases your risk of frontrunning. However, this makes more likely that your transaction will fail due to normal price movements.",
   "tokenSearchPlaceholder": "Search name or paste address",
-  "note": "BSC Eco-Currency Trading Choose MDEX.COM for faster and better",
+  "note": "With free MDX on every trade, fees are free!",
   "note1": "Create the largest DeFi ecosystem integrating DEX, IMO and DAO",
   "reward": "Trading",
   "wihtdrawlMine": "Withdrawal Reward",
