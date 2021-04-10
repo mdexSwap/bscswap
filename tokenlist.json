@@ -413,6 +413,102 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094.png"
-    } 
+    },
+    {
+      "name": "Binance-Peg HMDX",
+      "address": "0xaee4164c1ee46ed0bbc34790f1a3d1fc87796668",
+      "symbol": "HMDX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xaee4164c1ee46ed0bbc34790f1a3d1fc87796668.png"
+    },
+    {
+      "name": "Binance-Peg SUSHI",
+      "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x947950bcc74888a40ffa2593c5798f11fc9124c4.png"
+    },
+    {
+      "name": "Binance-Peg CAKE",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "symbol": "CAKE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "Binance-Peg AUTO",
+      "address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
+      "symbol": "AUTO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xa184088a740c695e156f91f5cc086a06bb78b827.png"
+    },
+    {
+      "name": "Binance-Peg XVS",
+      "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+      "symbol": "XVS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63.png"
+    },
+    {
+      "name": "Binance-Peg BELT",
+      "address": "0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f",
+      "symbol": "BELT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xe0e514c71282b6f4e823703a39374cf58dc3ea4f.png"
+    },
+    {
+      "name": "Binance-Peg EPS",
+      "address": "0xa7f552078dcc247c2684336020c03648500c6d9f",
+      "symbol": "EPS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xa7f552078dcc247c2684336020c03648500c6d9f.png"
+    },
+    {
+      "name": "Binance-Peg ALPACA",
+      "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
+      "symbol": "ALPACA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x8f0528ce5ef7b51152a59745befdd91d97091d2f.png"
+    },
+    {
+      "name": "Binance-Peg DEGO",
+      "address": "0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC",
+      "symbol": "DEGO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x3fda9383a84c05ec8f7630fe10adf1fac13241cc.png"
+    },
+    {
+      "name": "Binance-Peg HELMET",
+      "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
+      "symbol": "HELMET",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8.png"
+    },
+    {
+      "name": "Binance-Peg MDX",
+      "address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
+      "symbol": "MDX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x9c65ab58d8d978db963e63f2bfb7121627e3a739.png"
+    },
+    {
+      "name": "Binance-Peg BOR",
+      "address": "0x92d7756c60dcfd4c689290e8a9f4d263b3b32241",
+      "symbol": "BOR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x92d7756c60dcfd4c689290e8a9f4d263b3b32241.png"
+    }                 
   ]
 }
