@@ -170,5 +170,7 @@
   "langSet": "Language Settings",
   "crossChain": "Bridge",
   "announcement": "Announcement",
-  "Cooperation": "Cooperation"
+  "Cooperation": "Cooperation",
+  "rewardTip": "Transaction mining rewards, the specific rewards received shall prevail.",
+  "rewardText": "Reward"
 }

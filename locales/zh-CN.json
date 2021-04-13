@@ -157,5 +157,7 @@
   "langSet": "语言设置",
   "crossChain": "跨链桥",
   "announcement": "公告",
-  "Cooperation": "商务合作"
+  "Cooperation": "商务合作",
+  "rewardTip": "交易挖矿奖励，具体以收到的奖励为准",
+  "rewardText": "挖矿奖励"
 }
