@@ -533,6 +533,38 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xe64e30276c2f826febd3784958d6da7b55dfbad3.png"
+    },
+    {
+      "name": "FRONT",
+      "address": "0x928e55dab735aa8260af3cedada18b5f70c72f1b",
+      "symbol": "FRONT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x928e55dab735aa8260af3cedada18b5f70c72f1b.png"
+    },
+    {
+      "name": "UBU",
+      "address": "0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f",
+      "symbol": "UBU",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f.png"
+    },
+    {
+      "name": "vBSWAP",
+      "address": "0x4f0ed527e8a95ecaa132af214dfd41f30b361600",
+      "symbol": "vBSWAP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x4f0ed527e8a95ecaa132af214dfd41f30b361600.png"
+    },
+    {
+      "name": "HAKKA",
+      "address": "0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac",
+      "symbol": "HAKKA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac.png"
     }
   ]
 }
