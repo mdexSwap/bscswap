@@ -517,6 +517,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xf1932ec9784b695520258f968b9575724af6efa8.png"
+    },
+    {
+      "name": "xBLZD",
+      "address": "0x9a946c3cb16c08334b69ae249690c236ebd5583e",
+      "symbol": "xBLZD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x9a946c3cb16c08334b69ae249690c236ebd5583e.png"
+    },
+    {
+      "name": "SWFTC",
+      "address": "0xe64e30276c2f826febd3784958d6da7b55dfbad3",
+      "symbol": "SWFTC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xe64e30276c2f826febd3784958d6da7b55dfbad3.png"
     }
   ]
 }
