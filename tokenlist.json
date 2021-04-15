@@ -565,6 +565,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac.png"
+    },
+    {
+      "name": "BRY",
+      "address": "0xf859bf77cbe8699013d6dbc7c2b926aaf307f830",
+      "symbol": "BRY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xf859bf77cbe8699013d6dbc7c2b926aaf307f830.png"
     }
   ]
 }
