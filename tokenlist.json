@@ -573,6 +573,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xf859bf77cbe8699013d6dbc7c2b926aaf307f830.png"
+    },
+    {
+      "name": "MOK",
+      "address": "0x75a998c5023eb955a371eea5038b7c2776dbc22e",
+      "symbol": "MOK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x75a998c5023eb955a371eea5038b7c2776dbc22e.png"
     }
   ]
 }
