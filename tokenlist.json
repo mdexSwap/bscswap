@@ -581,6 +581,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x75a998c5023eb955a371eea5038b7c2776dbc22e.png"
+    },
+    {
+      "name": "NAUT",
+      "address": "0x05b339b0a346bf01f851dde47a5d485c34fe220c",
+      "symbol": "NAUT",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x05b339b0a346bf01f851dde47a5d485c34fe220c.png"
+    },
+    {
+      "name": "SWAMP",
+      "address": "0xc5a49b4cbe004b6fd55b30ba1de6ac360ff9765d",
+      "symbol": "SWAMP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xc5a49b4cbe004b6fd55b30ba1de6ac360ff9765d.png"
     }
   ]
 }
