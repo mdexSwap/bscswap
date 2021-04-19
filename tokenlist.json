@@ -597,6 +597,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xc5a49b4cbe004b6fd55b30ba1de6ac360ff9765d.png"
+    },
+    {
+      "name": "ACS",
+      "address": "0x4197c6ef3879a08cd51e5560da5064b773aa1d29",
+      "symbol": "ACS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x4197c6ef3879a08cd51e5560da5064b773aa1d29.png"
+    },
+    {
+      "name": "ACSI",
+      "address": "0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389",
+      "symbol": "ACSI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389.png"
     }
   ]
 }
