@@ -613,6 +613,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389.png"
+    },
+    {
+      "name": "WATCH",
+      "address": "0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0",
+      "symbol": "WATCH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0.png"
     }
   ]
 }
