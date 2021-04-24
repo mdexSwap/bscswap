@@ -91,7 +91,7 @@
   "note": "With free MDX on every trade, fees are free!",
   "note1": "Create the largest DeFi ecosystem integrating DEX, IMO and DAO",
   "reward": "Trading",
-  "wihtdrawlMine": "Withdrawal",
+  "wihtdrawlMine": "Withdraw",
   "help1": "The rewards that can be allocated to the pool currently.",
   "help2": "Total historical trading volume of this pool.",
   "help3": "The current trading volume of the pool.",
@@ -171,6 +171,6 @@
   "crossChain": "Bridge",
   "announcement": "Announcement",
   "Cooperation": "Cooperation",
-  "rewardTip": "Transaction mining rewards, the specific rewards received shall prevail.",
+  "rewardTip": "Transactsion mining reward shall subject to the reward received",
   "rewardText": "Reward"
 }
