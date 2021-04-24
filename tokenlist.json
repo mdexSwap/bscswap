@@ -645,6 +645,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xca3f508b8e4dd382ee878a314789373d80a5190a.png"
+    },
+    {
+      "name": "DEK",
+      "address": "0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98",
+      "symbol": "DEK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98.png"
     }
   ]
 }
