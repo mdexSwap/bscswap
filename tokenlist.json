@@ -661,6 +661,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x60b3bc37593853c04410c4f07fe4d6748245bf77.png"
+    },
+    {
+      "name": "FOR",
+      "address": "0x658a109c5900bc6d2357c87549b651670e5b0539",
+      "symbol": "FOR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x658a109c5900bc6d2357c87549b651670e5b0539.png"
     }
   ]
 }
