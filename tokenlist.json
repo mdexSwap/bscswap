@@ -669,6 +669,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x658a109c5900bc6d2357c87549b651670e5b0539.png"
+    },
+    {
+      "name": "TOKEN",
+      "address": "0x3b73c1b2ea59835cbfcadade5462b6ab630d9890",
+      "symbol": "TOKEN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x3b73c1b2ea59835cbfcadade5462b6ab630d9890.png"
     }
   ]
 }
