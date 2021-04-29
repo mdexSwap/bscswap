@@ -677,6 +677,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x3b73c1b2ea59835cbfcadade5462b6ab630d9890.png"
+    },
+    {
+      "name": "BIRD",
+      "address": "0x7f1296e5aa692a98d86eaae3ac1cd7723e74878d",
+      "symbol": "BIRD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x7f1296e5aa692a98d86eaae3ac1cd7723e74878d.png"
     }
   ]
 }
