@@ -685,6 +685,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x7f1296e5aa692a98d86eaae3ac1cd7723e74878d.png"
+    },
+    {
+      "name": "FREN",
+      "address": "0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af",
+      "symbol": "FREN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af.png"
     }
   ]
 }
