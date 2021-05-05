@@ -693,6 +693,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af.png"
+    },
+    {
+      "name": "LION",
+      "address": "0x7969dc3c6e925bccbea9f7fc466a63c74f0115b8",
+      "symbol": "LION",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x7969dc3c6e925bccbea9f7fc466a63c74f0115b8.png"
     }
   ]
 }
