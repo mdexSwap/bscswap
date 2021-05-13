@@ -741,6 +741,22 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3.png"
+    },
+    {
+      "name": "ECP",
+      "address": "0x375483cfa7fc18f6b455e005d835a8335fbdbb1f",
+      "symbol": "ECP",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x375483cfa7fc18f6b455e005d835a8335fbdbb1f.png"
+    },
+    {
+      "name": "SAFEMARS",
+      "address": "0x3ad9594151886ce8538c1ff615efa2385a8c3a88",
+      "symbol": "SAFEMARS",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x3ad9594151886ce8538c1ff615efa2385a8c3a88.png"
     }
   ]
 }
