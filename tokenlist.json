@@ -733,6 +733,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x680052792714e10e1ef7cda551abca8667862053.png"
+    },
+    {
+      "name": "SAFEMOON",
+      "address": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+      "symbol": "SAFEMOON",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3.png"
     }
   ]
 }
