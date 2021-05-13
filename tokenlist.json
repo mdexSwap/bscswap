@@ -757,6 +757,14 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x3ad9594151886ce8538c1ff615efa2385a8c3a88.png"
+    },
+    {
+      "name": "MSI",
+      "address": "0xa0f23f46ac0b1d82fa212085782e0c597b8d7154",
+      "symbol": "MSI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xa0f23f46ac0b1d82fa212085782e0c597b8d7154.png"
     }
   ]
 }
