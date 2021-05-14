@@ -765,6 +765,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xa0f23f46ac0b1d82fa212085782e0c597b8d7154.png"
+    },
+    {
+      "name": "XFORCE",
+      "address": "0x0ab9bc77f365fc5ad4d98a81d464d4588c361776",
+      "symbol": "XFORCE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x0ab9bc77f365fc5ad4d98a81d464d4588c361776.png"
     }
   ]
 }
