@@ -781,6 +781,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xee9801669c6138e84bd50deb500827b776777d28.png"
+    },
+    {
+      "name": "cCBD",
+      "address": "0x131ded61462cb0f8034656d9294f79247f72ad0b",
+      "symbol": "cCBD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x131ded61462cb0f8034656d9294f79247f72ad0b.png"
     }
   ]
 }
