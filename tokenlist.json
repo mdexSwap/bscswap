@@ -789,6 +789,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x131ded61462cb0f8034656d9294f79247f72ad0b.png"
+    },
+    {
+      "name": "BGO",
+      "address": "0x579a6277a6c2c63a5b25006f63bce5dc8d9c25e7",
+      "symbol": "BGO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x579a6277a6c2c63a5b25006f63bce5dc8d9c25e7.png"
+    },
+    {
+      "name": "Ysoy",
+      "address": "0x57488fcc3dc72edb0a4c06a356c2c43c08bdfb42",
+      "symbol": "Ysoy",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x57488fcc3dc72edb0a4c06a356c2c43c08bdfb42.png"
     }
   ]
 }
