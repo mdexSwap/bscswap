@@ -805,6 +805,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x57488fcc3dc72edb0a4c06a356c2c43c08bdfb42.png"
+    },
+    {
+      "name": "PEKC",
+      "address": "0x050787de0cf5da03d9387b344334d51cae5dd0fd",
+      "symbol": "PEKC",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x050787de0cf5da03d9387b344334d51cae5dd0fd.png"
+    },
+    {
+      "name": "WENMOON",
+      "address": "0xb93ba7dc61ecfced69067151fc00c41ca369a797",
+      "symbol": "WENMOON",
+      "decimals": 7,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xb93ba7dc61ecfced69067151fc00c41ca369a797.png"
     }
   ]
 }
