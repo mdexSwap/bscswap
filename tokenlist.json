@@ -829,6 +829,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x95a1199eba84ac5f19546519e287d43d2f0e1b41.png"
+    },
+    {
+      "name": "COW",
+      "address": "0x422e3af98bc1de5a1838be31a56f75db4ad43730",
+      "symbol": "COW",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x422e3af98bc1de5a1838be31a56f75db4ad43730.png"
     }
   ]
 }
