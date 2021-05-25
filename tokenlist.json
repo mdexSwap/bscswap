@@ -837,6 +837,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x422e3af98bc1de5a1838be31a56f75db4ad43730.png"
+    },
+    {
+      "name": "XY",
+      "address": "0x819f74886e145d97d24c4d72b889ec93e8247702",
+      "symbol": "XY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x819f74886e145d97d24c4d72b889ec93e8247702.png"
     }
   ]
 }
