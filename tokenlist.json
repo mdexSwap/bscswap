@@ -845,6 +845,30 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x819f74886e145d97d24c4d72b889ec93e8247702.png"
+    },
+    {
+      "name": "NEWB",
+      "address": "0x545f90dc35ca1e6129f1fed354b3e2df12034261",
+      "symbol": "NEWB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x545f90dc35ca1e6129f1fed354b3e2df12034261.png"
+    },
+    {
+      "name": "BHC",
+      "address": "0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4",
+      "symbol": "BHC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4.png"
+    },
+    {
+      "name": "SAVEANIMAL",
+      "address": "0xaa2c290bf62b7d100d2d7f87b7223e3a71b737f7",
+      "symbol": "SAVEANIMAL",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xaa2c290bf62b7d100d2d7f87b7223e3a71b737f7.png"
     }
   ]
 }
