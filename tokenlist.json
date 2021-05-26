@@ -869,6 +869,14 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xaa2c290bf62b7d100d2d7f87b7223e3a71b737f7.png"
+    },
+    {
+      "name": "WOO",
+      "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+      "symbol": "WOO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x4691937a7508860f876c9c0a2a617e7d9e945d4b.png"
     }
   ]
 }
