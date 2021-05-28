@@ -877,6 +877,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x4691937a7508860f876c9c0a2a617e7d9e945d4b.png"
+    },
+    {
+      "name": "LEV",
+      "address": "0xbc194e6f748a222754c3e8b9946922c09e7d4e91",
+      "symbol": "LEV",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xbc194e6f748a222754c3e8b9946922c09e7d4e91.png"
     }
   ]
 }
