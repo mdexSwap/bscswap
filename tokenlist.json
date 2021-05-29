@@ -885,6 +885,38 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xbc194e6f748a222754c3e8b9946922c09e7d4e91.png"
+    },
+    {
+      "name": "Lss",
+      "address": "0xf375f9d91809a5615331d7f28a5024804193ba0d",
+      "symbol": "Lss",
+      "decimals": 0,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xf375f9d91809a5615331d7f28a5024804193ba0d.png"
+    },
+    {
+      "name": "CIFI",
+      "address": "0x89f2a5463ef4e4176e57eef2b2fdd256bf4bc2bd",
+      "symbol": "CIFI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x89f2a5463ef4e4176e57eef2b2fdd256bf4bc2bd.png"
+    },
+    {
+      "name": "DPET",
+      "address": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+      "symbol": "DPET",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xfb62ae373aca027177d1c18ee0862817f9080d08.png"
+    },
+    {
+      "name": "TENFI",
+      "address": "0xd15c444f1199ae72795eba15e8c1db44e47abf62",
+      "symbol": "TENFI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xd15c444f1199ae72795eba15e8c1db44e47abf62.png"
     }
   ]
 }
