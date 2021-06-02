@@ -917,6 +917,38 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xd15c444f1199ae72795eba15e8c1db44e47abf62.png"
+    },
+    {
+      "name": "LAS",
+      "address": "0x735ebe3ed47877a11023b904054a0ffe44e91ab7",
+      "symbol": "LAS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x735ebe3ed47877a11023b904054a0ffe44e91ab7.png"
+    },
+    {
+      "name": "EnergyX",
+      "address": "0xbbe899c61198d1826a43e20ea19efc46e50c2b00",
+      "symbol": "EnergyX",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xbbe899c61198d1826a43e20ea19efc46e50c2b00.png"
+    },
+    {
+      "name": "BONDLY",
+      "address": "0x96058f8c3e16576d9bd68766f3836d9a33158f89",
+      "symbol": "BONDLY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x96058f8c3e16576d9bd68766f3836d9a33158f89.png"
+    },
+    {
+      "name": "ARI",
+      "address": "0xbe9605a0bf1ef8a4235e2c1da83dd3aa7702c7ce",
+      "symbol": "ARI",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xbe9605a0bf1ef8a4235e2c1da83dd3aa7702c7ce.png"
     }
   ]
 }
