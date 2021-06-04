@@ -949,6 +949,22 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xbe9605a0bf1ef8a4235e2c1da83dd3aa7702c7ce.png"
+    },
+    {
+      "name": "LESS",
+      "address": "0xb698ac9bc82c718d8eba9590564b9a5aa53d58e6",
+      "symbol": "LESS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xb698ac9bc82c718d8eba9590564b9a5aa53d58e6.png"
+    },
+    {
+      "name": "bMXX",
+      "address": "0x4131b87f74415190425ccd873048c708f8005823",
+      "symbol": "bMXX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x4131b87f74415190425ccd873048c708f8005823.png"
     }
   ]
 }
