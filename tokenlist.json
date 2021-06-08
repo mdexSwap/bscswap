@@ -965,6 +965,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x4131b87f74415190425ccd873048c708f8005823.png"
+    },
+    {
+      "name": "GSSIT",
+      "address": "0xd20595346ca72f82be355e2a603bfa8b0fd86e33",
+      "symbol": "GSSIT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xd20595346ca72f82be355e2a603bfa8b0fd86e33.png"
     }
   ]
 }
