@@ -973,6 +973,38 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xd20595346ca72f82be355e2a603bfa8b0fd86e33.png"
+    },
+    {
+      "name": "BODA",
+      "address": "0x81cfb5e400eb2caa319130a0dae3b32cfb19392d",
+      "symbol": "BODA",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x81cfb5e400eb2caa319130a0dae3b32cfb19392d.png"
+    },
+    {
+      "name": "RSD",
+      "address": "0x61ed1c66239d29cc93c8597c6167159e8f69a823",
+      "symbol": "RSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x61ed1c66239d29cc93c8597c6167159e8f69a823.png"
+    },
+    {
+      "name": "TWIN",
+      "address": "0xaf83f292fced83032f52ced45ef7dbddb586441a",
+      "symbol": "TWIN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xaf83f292fced83032f52ced45ef7dbddb586441a.png"
+    },
+    {
+      "name": "OUP",
+      "address": "0x07340f61633fc21b59edef1d4fb5c36cf1f098e2",
+      "symbol": "OUP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x07340f61633fc21b59edef1d4fb5c36cf1f098e2.png"
     }
   ]
 }
