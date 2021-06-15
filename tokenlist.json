@@ -1013,6 +1013,30 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xf823f18d13df1ffdced206708d389dd455bb802b.png"
+    },
+    {
+      "name": "bFLUX",
+      "address": "0x1ab6478b47270ff05af11a012ac17b098758e193",
+      "symbol": "bFLUX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x1ab6478b47270ff05af11a012ac17b098758e193.png"
+    },
+    {
+      "name": "DFN",
+      "address": "0xcb52860adb0556999b13ddf58967a881d1aa1c10",
+      "symbol": "DFN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xcb52860adb0556999b13ddf58967a881d1aa1c10.png"
+    },
+    {
+      "name": "PRV",
+      "address": "0x7762a14082ab475c06d3868b385e46ae27017231",
+      "symbol": "PRV",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x7762a14082ab475c06d3868b385e46ae27017231.png"
     }
   ]
 }
