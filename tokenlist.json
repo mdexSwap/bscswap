@@ -1037,6 +1037,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x7762a14082ab475c06d3868b385e46ae27017231.png"
+    },
+    {
+      "name": "TRUXTR",
+      "address": "0xda004bdc11cdcadd3c75a66e117a26927d24b373",
+      "symbol": "TRUXTR",
+      "decimals": 12,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xda004bdc11cdcadd3c75a66e117a26927d24b373.png"
     }
   ]
 }
