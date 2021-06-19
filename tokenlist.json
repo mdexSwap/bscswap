@@ -1045,6 +1045,14 @@
       "decimals": 12,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xda004bdc11cdcadd3c75a66e117a26927d24b373.png"
+    },
+    {
+      "name": "GMY",
+      "address": "0x4b71bd5e1db6cce4179e175a3a2033e4f17b7432",
+      "symbol": "GMY",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x4b71bd5e1db6cce4179e175a3a2033e4f17b7432.png"
     }
   ]
 }
