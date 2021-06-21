@@ -1053,6 +1053,14 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x4b71bd5e1db6cce4179e175a3a2033e4f17b7432.png"
+    },
+    {
+      "name": "CLUB",
+      "address": "0xf378b36a55a52fb9181dffc26882a4b08a044361",
+      "symbol": "CLUB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0xf378b36a55a52fb9181dffc26882a4b08a044361.png"
     }
   ]
 }
