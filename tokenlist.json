@@ -1061,14 +1061,6 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xf378b36a55a52fb9181dffc26882a4b08a044361.png"
-    },
-    {
-      "name": "CCF",
-      "address": "0xf823f18d13df1ffdced206708d389dd455bb802b",
-      "symbol": "CCF",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xf823f18d13df1ffdced206708d389dd455bb802b.png"
     }
   ]
 }
