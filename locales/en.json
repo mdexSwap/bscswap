@@ -172,5 +172,12 @@
   "announcement": "Announcement",
   "Cooperation": "Cooperation",
   "rewardTip": "Transactsion mining reward shall subject to the reward received",
-  "rewardText": "Reward"
+  "rewardText": "Reward",
+
+  "Apply": "Listing Token",
+  "Fluidity": "Liquidity Mining Whitelist",
+  "Notice": "Notice",
+  "Repurchase": "Repurchase & Burn",
+  "Vulnerability": "Bug Bounty Campaign",
+  "MdexApplication": "MDEX Ecological Fund Application"
 }

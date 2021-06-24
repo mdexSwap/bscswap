@@ -159,5 +159,12 @@
   "announcement": "公告",
   "Cooperation": "商务合作",
   "rewardTip": "交易挖矿奖励，具体以收到的奖励为准",
-  "rewardText": "挖矿奖励"
+  "rewardText": "挖矿奖励",
+
+  "Apply": "上币申请",
+  "Fluidity": "申请流动性激励",
+  "Notice": "公告",
+  "Repurchase": "回购销毁",
+  "Vulnerability": "漏洞赏金计划",
+  "MdexApplication":"MDEX生态基金申请"
 }
