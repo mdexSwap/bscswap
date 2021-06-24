@@ -140,7 +140,7 @@
       "symbol": "WBNB",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://mdex.com/token-icons/bsc/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+      "logoURI": "https://mdex.co/token-icons/bsc/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
     },
     {
       "name": "Binance-Peg BUSD Token",
@@ -148,7 +148,7 @@
       "symbol": "BUSD",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://mdex.com/token-icons/bsc/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+      "logoURI": "https://mdex.co/token-icons/bsc/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
     },
     {
       "name": "Binance-Peg BTCB Token",
@@ -156,7 +156,7 @@
       "symbol": "BTCB",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
     },
     {
       "name": "Binance-Peg Ethereum Token",
@@ -164,7 +164,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
     },
     {
       "name": "Binance-Peg BUSD-T",
@@ -172,7 +172,7 @@
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x55d398326f99059ff775485246999027b3197955.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x55d398326f99059ff775485246999027b3197955.png"
     },
     {
       "name": "Swipe",
@@ -180,7 +180,7 @@
       "symbol": "SXP",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x47bead2563dcbf3bf2c9407fea4dc236faba485a.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x47bead2563dcbf3bf2c9407fea4dc236faba485a.png"
     },
     {
       "name": "Binance-Peg Polkadot Token",
@@ -188,7 +188,7 @@
       "symbol": "DOT",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png"
     },
     {
       "name": "Binance Beacon ETH",
@@ -196,7 +196,7 @@
       "symbol": "BETH",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x250632378e573c6be1ac2f97fcdf00515d0aa91b.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x250632378e573c6be1ac2f97fcdf00515d0aa91b.png"
     },
     {
       "name": "USD Coin",
@@ -204,7 +204,7 @@
       "symbol": "USDC",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
     },
     {
       "name": "Binance-Peg Cardano Token",
@@ -212,7 +212,7 @@
       "symbol": "ADA",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47.png"
     },
     {
       "name": "Binance-Peg ChainLink Token",
@@ -220,7 +220,7 @@
       "symbol": "LINK",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://mdex.com/token-icons/bsc/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd.png"
+      "logoURI": "https://mdex.co/token-icons/bsc/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd.png"
     },   
     {
       "name": "Binance-Peg Dai Token",
@@ -228,7 +228,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
     },    
     {
       "name": "Binance-Peg Litecoin Token",
@@ -236,7 +236,7 @@
       "symbol": "LTC",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x4338665cbb7b2485a8855a139b75d5e34ab0db94.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4338665cbb7b2485a8855a139b75d5e34ab0db94.png"
     },    
     {
       "name": "Binance-Peg XRP Token",
@@ -244,7 +244,7 @@
       "symbol": "XRP",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe.png"
     },   
     {
       "name": "Binance-Peg Uniswap",
@@ -252,7 +252,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xbf5140a22578168fd562dccf235e5d43a02ce9b1.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbf5140a22578168fd562dccf235e5d43a02ce9b1.png"
     },    
     {
       "name": "Binance-Peg Bitcoin Cash Token",
@@ -260,7 +260,7 @@
       "symbol": "BCH",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x8ff795a6f4d97e7887c79bea79aba5cc76444adf.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8ff795a6f4d97e7887c79bea79aba5cc76444adf.png"
     },    
     {
       "name": "Binance-Peg Band Protocol Token",
@@ -268,7 +268,7 @@
       "symbol": "BAND",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18.png"
     },    
     {
       "name": "Binance-Peg Compound Coin",
@@ -276,7 +276,7 @@
       "symbol": "COMP",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x52ce071bd9b1c4b00a0b92d298c512478cad67e8.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x52ce071bd9b1c4b00a0b92d298c512478cad67e8.png"
     }, 
     {
       "name": "Injective Protocol",
@@ -284,7 +284,7 @@
       "symbol": "INJ",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xa2b726b1145a4773f68593cf171187d8ebe4d495.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa2b726b1145a4773f68593cf171187d8ebe4d495.png"
     },
     {
       "name": "Binance-Peg EOS Token",
@@ -292,7 +292,7 @@
       "symbol": "EOS",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6.png"
     }, 
     {
       "name": "Binance-Peg yearn.finance",
@@ -300,7 +300,7 @@
       "symbol": "YFI",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e.png"
     }, 
     {
       "name": "Binance-Peg Cosmos Token",
@@ -308,7 +308,7 @@
       "symbol": "ATOM",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x0eb3a705fc54725037cc9e008bdede697f62f335.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0eb3a705fc54725037cc9e008bdede697f62f335.png"
     }, 
     {
       "name": "Binance-Peg Filecoin",
@@ -316,7 +316,7 @@
       "symbol": "FIL",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153.png"
     }, 
     {
       "name": "Binance-Peg Tezos Token",
@@ -324,7 +324,7 @@
       "symbol": "XTZ",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x16939ef78684453bfdfb47825f8a5f714f12623a.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x16939ef78684453bfdfb47825f8a5f714f12623a.png"
     }, 
     {
       "name": "Binance-Peg IoTeX Network",
@@ -332,7 +332,7 @@
       "symbol": "IOTX",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x9678e42cebeb63f23197d726b29b1cb20d0064e5.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9678e42cebeb63f23197d726b29b1cb20d0064e5.png"
     }, 
     {
       "name": "Bella Protocol",
@@ -340,7 +340,7 @@
       "symbol": "BEL",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x8443f091997f06a61670b735ed92734f5628692f.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8443f091997f06a61670b735ed92734f5628692f.png"
     }, 
     {
       "name": "Binance-Peg YFII.finance Token",
@@ -348,7 +348,7 @@
       "symbol": "YFII",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x7f70642d88cf1c4a3a7abb072b53b929b653eda5.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7f70642d88cf1c4a3a7abb072b53b929b653eda5.png"
     }, 
     {
       "name": "Binance-Peg Synthetix Network Token",
@@ -356,7 +356,7 @@
       "symbol": "SNX",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x9ac983826058b8a9c7aa1c9171441191232e8404.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9ac983826058b8a9c7aa1c9171441191232e8404.png"
     }, 
     {
       "name": "Binance-Peg Ontology Token",
@@ -364,7 +364,7 @@
       "symbol": "ONT",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xfd7b3a77848f1c2d67e05e54d78d174a0c850335.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xfd7b3a77848f1c2d67e05e54d78d174a0c850335.png"
     }, 
     {
       "name": "Binance-Peg Dogecoin",
@@ -372,7 +372,7 @@
       "symbol": "DOGE",
       "decimals": 8,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xba2ae424d960c26247dd6c32edc70b295c744c43.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xba2ae424d960c26247dd6c32edc70b295c744c43.png"
     }, 
     {
       "name": "Binance-Peg Basic Attention Token",
@@ -380,7 +380,7 @@
       "symbol": "BAT",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x101d82428437127bf1608f699cd651e6abf9766e.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x101d82428437127bf1608f699cd651e6abf9766e.png"
     }, 
     {
       "name": "Binance-Peg Zcash Token",
@@ -388,7 +388,7 @@
       "symbol": "ZEC",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb.png"
     }, 
     {
       "name": "Binance-Peg Maker",
@@ -396,7 +396,7 @@
       "symbol": "MKR",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x5f0da599bb2cccfcf6fdfd7d81743b6020864350.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5f0da599bb2cccfcf6fdfd7d81743b6020864350.png"
     }, 
     {
       "name": "Binance-Peg NEAR Protocol",
@@ -404,7 +404,7 @@
       "symbol": "NEAR",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x1fa4a73a3f0133f0025378af00236f3abdee5d63.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1fa4a73a3f0133f0025378af00236f3abdee5d63.png"
     }, 
     {
       "name": "Binance-Peg Paxos Standard",
@@ -412,7 +412,7 @@
       "symbol": "PAX",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094.png"
     },
     {
       "name": "Binance-Peg HMDX",
@@ -420,7 +420,7 @@
       "symbol": "HMDX",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xaee4164c1ee46ed0bbc34790f1a3d1fc87796668.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xaee4164c1ee46ed0bbc34790f1a3d1fc87796668.png"
     },
     {
       "name": "Binance-Peg SUSHI",
@@ -428,7 +428,7 @@
       "symbol": "SUSHI",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x947950bcc74888a40ffa2593c5798f11fc9124c4.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x947950bcc74888a40ffa2593c5798f11fc9124c4.png"
     },
     {
       "name": "Binance-Peg CAKE",
@@ -436,7 +436,7 @@
       "symbol": "CAKE",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
     },
     {
       "name": "Binance-Peg AUTO",
@@ -444,7 +444,7 @@
       "symbol": "AUTO",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xa184088a740c695e156f91f5cc086a06bb78b827.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa184088a740c695e156f91f5cc086a06bb78b827.png"
     },
     {
       "name": "Binance-Peg XVS",
@@ -452,7 +452,7 @@
       "symbol": "XVS",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63.png"
     },
     {
       "name": "Binance-Peg BELT",
@@ -460,7 +460,7 @@
       "symbol": "BELT",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xe0e514c71282b6f4e823703a39374cf58dc3ea4f.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe0e514c71282b6f4e823703a39374cf58dc3ea4f.png"
     },
     {
       "name": "Binance-Peg EPS",
@@ -468,7 +468,7 @@
       "symbol": "EPS",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xa7f552078dcc247c2684336020c03648500c6d9f.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa7f552078dcc247c2684336020c03648500c6d9f.png"
     },
     {
       "name": "Binance-Peg ALPACA",
@@ -476,7 +476,7 @@
       "symbol": "ALPACA",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x8f0528ce5ef7b51152a59745befdd91d97091d2f.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8f0528ce5ef7b51152a59745befdd91d97091d2f.png"
     },
     {
       "name": "Binance-Peg DEGO",
@@ -484,7 +484,7 @@
       "symbol": "DEGO",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x3fda9383a84c05ec8f7630fe10adf1fac13241cc.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3fda9383a84c05ec8f7630fe10adf1fac13241cc.png"
     },
     {
       "name": "Binance-Peg HELMET",
@@ -492,7 +492,7 @@
       "symbol": "HELMET",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8.png"
     },
     {
       "name": "Binance-Peg MDX",
@@ -500,7 +500,7 @@
       "symbol": "MDX",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x9c65ab58d8d978db963e63f2bfb7121627e3a739.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9c65ab58d8d978db963e63f2bfb7121627e3a739.png"
     },
     {
       "name": "Binance-Peg BOR",
@@ -508,7 +508,7 @@
       "symbol": "BOR",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x92d7756c60dcfd4c689290e8a9f4d263b3b32241.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x92d7756c60dcfd4c689290e8a9f4d263b3b32241.png"
     },
     {
       "name": "Binance-Peg sBGO",
@@ -516,7 +516,7 @@
       "symbol": "sBGO",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x53f39324fbb209693332b87aa94d5519a1a49ab0.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x53f39324fbb209693332b87aa94d5519a1a49ab0.png"
     },
     {
       "name": "GURU",
@@ -524,7 +524,7 @@
       "symbol": "GURU",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xf1932ec9784b695520258f968b9575724af6efa8.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf1932ec9784b695520258f968b9575724af6efa8.png"
     },
     {
       "name": "xBLZD",
@@ -532,7 +532,7 @@
       "symbol": "xBLZD",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x9a946c3cb16c08334b69ae249690c236ebd5583e.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9a946c3cb16c08334b69ae249690c236ebd5583e.png"
     },
     {
       "name": "SWFTC",
@@ -540,7 +540,7 @@
       "symbol": "SWFTC",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xe64e30276c2f826febd3784958d6da7b55dfbad3.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe64e30276c2f826febd3784958d6da7b55dfbad3.png"
     },
     {
       "name": "FRONT",
@@ -548,7 +548,7 @@
       "symbol": "FRONT",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x928e55dab735aa8260af3cedada18b5f70c72f1b.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x928e55dab735aa8260af3cedada18b5f70c72f1b.png"
     },
     {
       "name": "UBU",
@@ -556,7 +556,7 @@
       "symbol": "UBU",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f.png"
     },
     {
       "name": "vBSWAP",
@@ -564,7 +564,7 @@
       "symbol": "vBSWAP",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x4f0ed527e8a95ecaa132af214dfd41f30b361600.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4f0ed527e8a95ecaa132af214dfd41f30b361600.png"
     },
     {
       "name": "HAKKA",
@@ -572,7 +572,7 @@
       "symbol": "HAKKA",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac.png"
     },
     {
       "name": "BRY",
@@ -580,7 +580,7 @@
       "symbol": "BRY",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xf859bf77cbe8699013d6dbc7c2b926aaf307f830.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf859bf77cbe8699013d6dbc7c2b926aaf307f830.png"
     },
     {
       "name": "MOK",
@@ -588,7 +588,7 @@
       "symbol": "MOK",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x75a998c5023eb955a371eea5038b7c2776dbc22e.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x75a998c5023eb955a371eea5038b7c2776dbc22e.png"
     },
     {
       "name": "NAUT",
@@ -596,7 +596,7 @@
       "symbol": "NAUT",
       "decimals": 8,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x05b339b0a346bf01f851dde47a5d485c34fe220c.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x05b339b0a346bf01f851dde47a5d485c34fe220c.png"
     },
     {
       "name": "SWAMP",
@@ -604,7 +604,7 @@
       "symbol": "SWAMP",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xc5a49b4cbe004b6fd55b30ba1de6ac360ff9765d.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc5a49b4cbe004b6fd55b30ba1de6ac360ff9765d.png"
     },
     {
       "name": "ACS",
@@ -612,7 +612,7 @@
       "symbol": "ACS",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x4197c6ef3879a08cd51e5560da5064b773aa1d29.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4197c6ef3879a08cd51e5560da5064b773aa1d29.png"
     },
     {
       "name": "ACSI",
@@ -620,7 +620,7 @@
       "symbol": "ACSI",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389.png"
     },
     {
       "name": "WATCH",
@@ -628,7 +628,7 @@
       "symbol": "WATCH",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0.png"
     },
     {
       "name": "bcFLUX",
@@ -636,7 +636,7 @@
       "symbol": "bcFLUX",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x0747cda49c82d3fc6b06df1822e1de0c16673e9f.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0747cda49c82d3fc6b06df1822e1de0c16673e9f.png"
     },
     {
       "name": "BIFI",
@@ -644,7 +644,7 @@
       "symbol": "BIFI",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xca3f508b8e4dd382ee878a314789373d80a5190a.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xca3f508b8e4dd382ee878a314789373d80a5190a.png"
     },
     {
       "name": "DEK",
@@ -652,7 +652,7 @@
       "symbol": "DEK",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98.png"
     },
     {
       "name": "SHIELD",
@@ -660,7 +660,7 @@
       "symbol": "SHIELD",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x60b3bc37593853c04410c4f07fe4d6748245bf77.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x60b3bc37593853c04410c4f07fe4d6748245bf77.png"
     },
     {
       "name": "FOR",
@@ -668,7 +668,7 @@
       "symbol": "FOR",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x658a109c5900bc6d2357c87549b651670e5b0539.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x658a109c5900bc6d2357c87549b651670e5b0539.png"
     },
     {
       "name": "TOKEN",
@@ -676,7 +676,7 @@
       "symbol": "TOKEN",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x3b73c1b2ea59835cbfcadade5462b6ab630d9890.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3b73c1b2ea59835cbfcadade5462b6ab630d9890.png"
     },
     {
       "name": "BIRD",
@@ -684,7 +684,7 @@
       "symbol": "BIRD",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x7f1296e5aa692a98d86eaae3ac1cd7723e74878d.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7f1296e5aa692a98d86eaae3ac1cd7723e74878d.png"
     },
     {
       "name": "FREN",
@@ -692,7 +692,7 @@
       "symbol": "FREN",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af.png"
     },
     {
       "name": "LION",
@@ -700,7 +700,7 @@
       "symbol": "LION",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x7969dc3c6e925bccbea9f7fc466a63c74f0115b8.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7969dc3c6e925bccbea9f7fc466a63c74f0115b8.png"
     },
     {
       "name": "YFX",
@@ -708,7 +708,7 @@
       "symbol": "YFX",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xf55a93b613d172b86c2ba3981a849dae2aecde2f.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf55a93b613d172b86c2ba3981a849dae2aecde2f.png"
     },
     {
       "name": "WTML",
@@ -716,7 +716,7 @@
       "symbol": "WTML",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x378043d0ac29def288017be291fa260e33c7fe86.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x378043d0ac29def288017be291fa260e33c7fe86.png"
     },
     {
       "name": "MOMO",
@@ -724,7 +724,7 @@
       "symbol": "MOMO",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xafb2997fe9a99022e61c7e01b974e0e3d7704b02.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xafb2997fe9a99022e61c7e01b974e0e3d7704b02.png"
     },
     {
       "name": "HGT",
@@ -732,7 +732,7 @@
       "symbol": "HGT",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x680052792714e10e1ef7cda551abca8667862053.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x680052792714e10e1ef7cda551abca8667862053.png"
     },
     {
       "name": "SAFEMOON",
@@ -740,7 +740,7 @@
       "symbol": "SAFEMOON",
       "decimals": 9,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3.png"
     },
     {
       "name": "ECP",
@@ -748,7 +748,7 @@
       "symbol": "ECP",
       "decimals": 9,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x375483cfa7fc18f6b455e005d835a8335fbdbb1f.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x375483cfa7fc18f6b455e005d835a8335fbdbb1f.png"
     },
     {
       "name": "SAFEMARS",
@@ -756,7 +756,7 @@
       "symbol": "SAFEMARS",
       "decimals": 9,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x3ad9594151886ce8538c1ff615efa2385a8c3a88.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3ad9594151886ce8538c1ff615efa2385a8c3a88.png"
     },
     {
       "name": "MSI",
@@ -764,7 +764,7 @@
       "symbol": "MSI",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xa0f23f46ac0b1d82fa212085782e0c597b8d7154.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa0f23f46ac0b1d82fa212085782e0c597b8d7154.png"
     },
     {
       "name": "XFORCE",
@@ -772,7 +772,7 @@
       "symbol": "XFORCE",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x0ab9bc77f365fc5ad4d98a81d464d4588c361776.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0ab9bc77f365fc5ad4d98a81d464d4588c361776.png"
     },
     {
       "name": "O3",
@@ -780,7 +780,7 @@
       "symbol": "O3",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xee9801669c6138e84bd50deb500827b776777d28.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xee9801669c6138e84bd50deb500827b776777d28.png"
     },
     {
       "name": "cCBD",
@@ -788,7 +788,7 @@
       "symbol": "cCBD",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x131ded61462cb0f8034656d9294f79247f72ad0b.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x131ded61462cb0f8034656d9294f79247f72ad0b.png"
     },
     {
       "name": "BGO",
@@ -796,7 +796,7 @@
       "symbol": "BGO",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x579a6277a6c2c63a5b25006f63bce5dc8d9c25e7.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x579a6277a6c2c63a5b25006f63bce5dc8d9c25e7.png"
     },
     {
       "name": "Ysoy",
@@ -804,7 +804,7 @@
       "symbol": "Ysoy",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x57488fcc3dc72edb0a4c06a356c2c43c08bdfb42.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x57488fcc3dc72edb0a4c06a356c2c43c08bdfb42.png"
     },
     {
       "name": "PEKC",
@@ -812,7 +812,7 @@
       "symbol": "PEKC",
       "decimals": 9,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x050787de0cf5da03d9387b344334d51cae5dd0fd.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x050787de0cf5da03d9387b344334d51cae5dd0fd.png"
     },
     {
       "name": "WENMOON",
@@ -820,7 +820,7 @@
       "symbol": "WENMOON",
       "decimals": 7,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xb93ba7dc61ecfced69067151fc00c41ca369a797.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xb93ba7dc61ecfced69067151fc00c41ca369a797.png"
     },
     {
       "name": "RABBIT",
@@ -828,7 +828,7 @@
       "symbol": "RABBIT",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x95a1199eba84ac5f19546519e287d43d2f0e1b41.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x95a1199eba84ac5f19546519e287d43d2f0e1b41.png"
     },
     {
       "name": "COW",
@@ -836,7 +836,7 @@
       "symbol": "COW",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x422e3af98bc1de5a1838be31a56f75db4ad43730.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x422e3af98bc1de5a1838be31a56f75db4ad43730.png"
     },
     {
       "name": "XY",
@@ -844,7 +844,7 @@
       "symbol": "XY",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x819f74886e145d97d24c4d72b889ec93e8247702.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x819f74886e145d97d24c4d72b889ec93e8247702.png"
     },
     {
       "name": "NEWB",
@@ -852,7 +852,7 @@
       "symbol": "NEWB",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x545f90dc35ca1e6129f1fed354b3e2df12034261.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x545f90dc35ca1e6129f1fed354b3e2df12034261.png"
     },
     {
       "name": "BHC",
@@ -860,7 +860,7 @@
       "symbol": "BHC",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4.png"
     },
     {
       "name": "SAVEANIMAL",
@@ -868,7 +868,7 @@
       "symbol": "SAVEANIMAL",
       "decimals": 9,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xaa2c290bf62b7d100d2d7f87b7223e3a71b737f7.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xaa2c290bf62b7d100d2d7f87b7223e3a71b737f7.png"
     },
     {
       "name": "WOO",
@@ -876,7 +876,7 @@
       "symbol": "WOO",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x4691937a7508860f876c9c0a2a617e7d9e945d4b.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4691937a7508860f876c9c0a2a617e7d9e945d4b.png"
     },
     {
       "name": "LEV",
@@ -884,7 +884,7 @@
       "symbol": "LEV",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xbc194e6f748a222754c3e8b9946922c09e7d4e91.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbc194e6f748a222754c3e8b9946922c09e7d4e91.png"
     },
     {
       "name": "Lss",
@@ -892,7 +892,7 @@
       "symbol": "Lss",
       "decimals": 0,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xf375f9d91809a5615331d7f28a5024804193ba0d.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf375f9d91809a5615331d7f28a5024804193ba0d.png"
     },
     {
       "name": "CIFI",
@@ -900,7 +900,7 @@
       "symbol": "CIFI",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x89f2a5463ef4e4176e57eef2b2fdd256bf4bc2bd.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x89f2a5463ef4e4176e57eef2b2fdd256bf4bc2bd.png"
     },
     {
       "name": "DPET",
@@ -908,7 +908,7 @@
       "symbol": "DPET",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xfb62ae373aca027177d1c18ee0862817f9080d08.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xfb62ae373aca027177d1c18ee0862817f9080d08.png"
     },
     {
       "name": "TENFI",
@@ -916,7 +916,7 @@
       "symbol": "TENFI",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xd15c444f1199ae72795eba15e8c1db44e47abf62.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd15c444f1199ae72795eba15e8c1db44e47abf62.png"
     },
     {
       "name": "LAS",
@@ -924,7 +924,7 @@
       "symbol": "LAS",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x735ebe3ed47877a11023b904054a0ffe44e91ab7.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x735ebe3ed47877a11023b904054a0ffe44e91ab7.png"
     },
     {
       "name": "EnergyX",
@@ -932,7 +932,7 @@
       "symbol": "EnergyX",
       "decimals": 8,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xbbe899c61198d1826a43e20ea19efc46e50c2b00.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbbe899c61198d1826a43e20ea19efc46e50c2b00.png"
     },
     {
       "name": "BONDLY",
@@ -940,7 +940,7 @@
       "symbol": "BONDLY",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x96058f8c3e16576d9bd68766f3836d9a33158f89.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x96058f8c3e16576d9bd68766f3836d9a33158f89.png"
     },
     {
       "name": "ARI",
@@ -948,7 +948,7 @@
       "symbol": "ARI",
       "decimals": 9,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xbe9605a0bf1ef8a4235e2c1da83dd3aa7702c7ce.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbe9605a0bf1ef8a4235e2c1da83dd3aa7702c7ce.png"
     },
     {
       "name": "LESS",
@@ -956,7 +956,7 @@
       "symbol": "LESS",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xb698ac9bc82c718d8eba9590564b9a5aa53d58e6.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xb698ac9bc82c718d8eba9590564b9a5aa53d58e6.png"
     },
     {
       "name": "bMXX",
@@ -964,7 +964,7 @@
       "symbol": "bMXX",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x4131b87f74415190425ccd873048c708f8005823.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4131b87f74415190425ccd873048c708f8005823.png"
     },
     {
       "name": "GSSIT",
@@ -972,7 +972,7 @@
       "symbol": "GSSIT",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xd20595346ca72f82be355e2a603bfa8b0fd86e33.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd20595346ca72f82be355e2a603bfa8b0fd86e33.png"
     },
     {
       "name": "BODA",
@@ -980,7 +980,7 @@
       "symbol": "BODA",
       "decimals": 9,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x81cfb5e400eb2caa319130a0dae3b32cfb19392d.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x81cfb5e400eb2caa319130a0dae3b32cfb19392d.png"
     },
     {
       "name": "RSD",
@@ -988,7 +988,7 @@
       "symbol": "RSD",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x61ed1c66239d29cc93c8597c6167159e8f69a823.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x61ed1c66239d29cc93c8597c6167159e8f69a823.png"
     },
     {
       "name": "TWIN",
@@ -996,7 +996,7 @@
       "symbol": "TWIN",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xaf83f292fced83032f52ced45ef7dbddb586441a.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xaf83f292fced83032f52ced45ef7dbddb586441a.png"
     },
     {
       "name": "OUP",
@@ -1004,7 +1004,7 @@
       "symbol": "OUP",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x07340f61633fc21b59edef1d4fb5c36cf1f098e2.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x07340f61633fc21b59edef1d4fb5c36cf1f098e2.png"
     },
     {
       "name": "CCF",
@@ -1012,7 +1012,7 @@
       "symbol": "CCF",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xf823f18d13df1ffdced206708d389dd455bb802b.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf823f18d13df1ffdced206708d389dd455bb802b.png"
     },
     {
       "name": "bFLUX",
@@ -1020,7 +1020,7 @@
       "symbol": "bFLUX",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x1ab6478b47270ff05af11a012ac17b098758e193.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1ab6478b47270ff05af11a012ac17b098758e193.png"
     },
     {
       "name": "DFN",
@@ -1028,7 +1028,7 @@
       "symbol": "DFN",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xcb52860adb0556999b13ddf58967a881d1aa1c10.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xcb52860adb0556999b13ddf58967a881d1aa1c10.png"
     },
     {
       "name": "PRV",
@@ -1036,7 +1036,7 @@
       "symbol": "PRV",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x7762a14082ab475c06d3868b385e46ae27017231.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7762a14082ab475c06d3868b385e46ae27017231.png"
     },
     {
       "name": "TRUXTR",
@@ -1044,7 +1044,7 @@
       "symbol": "TRUXTR",
       "decimals": 12,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xda004bdc11cdcadd3c75a66e117a26927d24b373.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xda004bdc11cdcadd3c75a66e117a26927d24b373.png"
     },
     {
       "name": "GMY",
@@ -1052,7 +1052,7 @@
       "symbol": "GMY",
       "decimals": 9,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x4b71bd5e1db6cce4179e175a3a2033e4f17b7432.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4b71bd5e1db6cce4179e175a3a2033e4f17b7432.png"
     },
     {
       "name": "CLUB",
@@ -1060,7 +1060,7 @@
       "symbol": "CLUB",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0xf378b36a55a52fb9181dffc26882a4b08a044361.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf378b36a55a52fb9181dffc26882a4b08a044361.png"
     }
   ]
 }
