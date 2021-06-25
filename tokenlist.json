@@ -1061,6 +1061,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xf378b36a55a52fb9181dffc26882a4b08a044361.png"
+    },
+    {
+      "name": "MIX",
+      "address": "0x398f7827dccbefe6990478876bbf3612d93baf05",
+      "symbol": "MIX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x398f7827dccbefe6990478876bbf3612d93baf05.png"
+    },
+    {
+      "name": "xMARK",
+      "address": "0x26a5dfab467d4f58fb266648cae769503cec9580",
+      "symbol": "xMARK",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x26a5dfab467d4f58fb266648cae769503cec9580.png"
     }
   ]
 }
