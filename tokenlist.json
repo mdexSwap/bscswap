@@ -1077,6 +1077,14 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x26a5dfab467d4f58fb266648cae769503cec9580.png"
+    },
+    {
+      "name": "A11",
+      "address": "0x745f99f9988e118c8203dc3fd5fd94a7a6c93302",
+      "symbol": "A11",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x745f99f9988e118c8203dc3fd5fd94a7a6c93302.png"
     }
   ]
 }
