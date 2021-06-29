@@ -1085,6 +1085,14 @@
       "decimals": 8,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x745f99f9988e118c8203dc3fd5fd94a7a6c93302.png"
+    },
+    {
+      "name": "CHA",
+      "address": "0xe6ef876a84c4c619c737f71d851c6cc40e257403",
+      "symbol": "CHA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe6ef876a84c4c619c737f71d851c6cc40e257403.png"
     }
   ]
 }
