@@ -1093,6 +1093,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xe6ef876a84c4c619c737f71d851c6cc40e257403.png"
+    },
+    {
+      "name": "YEFI",
+      "address": "0x193b8230f594f63da50876eaf362177d1dca4a45",
+      "symbol": "YEFI",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x193b8230f594f63da50876eaf362177d1dca4a45.png"
     }
   ]
 }
