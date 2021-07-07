@@ -1101,6 +1101,14 @@
       "decimals": 6,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x193b8230f594f63da50876eaf362177d1dca4a45.png"
+    },
+    {
+      "name": "DEP",
+      "address": "0xcaf5191fc480f43e4df80106c7695eca56e48b18",
+      "symbol": "DEP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xcaf5191fc480f43e4df80106c7695eca56e48b18.png"
     }
   ]
 }
