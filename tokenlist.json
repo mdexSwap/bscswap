@@ -1109,6 +1109,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xcaf5191fc480f43e4df80106c7695eca56e48b18.png"
+    },
+    {
+      "name": "YFIC",
+      "address": "0x2fc42d0f30ae678c8b4d3c04f77f176a36531b64",
+      "symbol": "YFIC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x2fc42d0f30ae678c8b4d3c04f77f176a36531b64.png"
     }
   ]
 }
