@@ -1117,6 +1117,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x2fc42d0f30ae678c8b4d3c04f77f176a36531b64.png"
+    },
+    {
+      "name": "CARROT",
+      "address": "0xa5043373edc09f3f7d87fe35ca933e0a7b59d005",
+      "symbol": "CARROT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa5043373edc09f3f7d87fe35ca933e0a7b59d005.png"
     }
   ]
 }
