@@ -1125,6 +1125,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xa5043373edc09f3f7d87fe35ca933e0a7b59d005.png"
+    },
+    {
+      "name": "TURTLE",
+      "address": "0xd02fa440e100412294871d3433be019756cb8db5",
+      "symbol": "TURTLE",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd02fa440e100412294871d3433be019756cb8db5.png"
     }
   ]
 }
