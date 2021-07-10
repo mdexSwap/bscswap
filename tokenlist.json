@@ -1133,6 +1133,22 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xd02fa440e100412294871d3433be019756cb8db5.png"
+    },
+    {
+      "name": "BCZZ",
+      "address": "0x2fb9376cff6fb7f5fe99665ae1ec2fddd5099134",
+      "symbol": "BCZZ",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x2fb9376cff6fb7f5fe99665ae1ec2fddd5099134.png"
+    },
+    {
+      "name": "bMYC",
+      "address": "0x6180d382913e0585062336e5fd5e85cec5ac6c78",
+      "symbol": "bMYC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6180d382913e0585062336e5fd5e85cec5ac6c78.png"
     }
   ]
 }
