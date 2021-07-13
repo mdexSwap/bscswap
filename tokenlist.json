@@ -1149,6 +1149,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x6180d382913e0585062336e5fd5e85cec5ac6c78.png"
+    },
+    {
+      "name": "DAWG",
+      "address": "0x221532ea2601a16e3abdc4efe4d5c325bbbba436",
+      "symbol": "DAWG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x221532ea2601a16e3abdc4efe4d5c325bbbba436.png"
     }
   ]
 }
