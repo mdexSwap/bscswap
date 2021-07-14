@@ -1157,6 +1157,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x221532ea2601a16e3abdc4efe4d5c325bbbba436.png"
+    },
+    {
+      "name": "TUSD",
+      "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x14016e85a25aeb13065688cafb43044c2ef86784.png"
     }
   ]
 }
