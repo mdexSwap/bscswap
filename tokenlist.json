@@ -1167,9 +1167,9 @@
       "logoURI":  "https://mdex.co/token-icons/bsc/0x14016e85a25aeb13065688cafb43044c2ef86784.png"
     },
     {
-      "name": "ST",
+      "name": "ETHST",
       "address": "0xeaa2badd888324100669481e46d2329796531ef1",
-      "symbol": "ST",
+      "symbol": "ETHST",
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xeaa2badd888324100669481e46d2329796531ef1.png"
