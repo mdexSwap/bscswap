@@ -1165,6 +1165,30 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x14016e85a25aeb13065688cafb43044c2ef86784.png"
+    },
+    {
+      "name": "ST",
+      "address": "0xeaa2badd888324100669481e46d2329796531ef1",
+      "symbol": "ST",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xeaa2badd888324100669481e46d2329796531ef1.png"
+    },
+    {
+      "name": "ET",
+      "address": "0x18b2978d7e4eac4a00c66ab00d68ba7e77141a79",
+      "symbol": "ET",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x18b2978d7e4eac4a00c66ab00d68ba7e77141a79.png"
+    },
+    {
+      "name": "Poke",
+      "address": "0x8ab6f50cdae1880b7dc0cbe49ee2e3cfacf592e2",
+      "symbol": "Poke",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8ab6f50cdae1880b7dc0cbe49ee2e3cfacf592e2.png"
     }
   ]
 }
