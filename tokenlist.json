@@ -1189,6 +1189,22 @@
       "decimals": 8,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x8ab6f50cdae1880b7dc0cbe49ee2e3cfacf592e2.png"
+    },
+    {
+      "name": "GNT",
+      "address": "0xf750a26eb0acf95556e8529e72ed530f3b60f348",
+      "symbol": "GNT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf750a26eb0acf95556e8529e72ed530f3b60f348.png"
+    },
+    {
+      "name": "SLTH",
+      "address": "0x5b9dbebbad94b8c6467af9e8a851bb120f9601c6",
+      "symbol": "SLTH",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5b9dbebbad94b8c6467af9e8a851bb120f9601c6.png"
     }
   ]
 }
