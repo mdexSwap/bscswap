@@ -1113,6 +1113,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xa6fd7b5c9eee30309b00b65436a284e2053251e5.png"
+    },
+    {
+      "name": "XPO",
+      "address": "0xebb59cebfb63f218db6b5094dc14abf34d56d35d",
+      "symbol": "XPO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xebb59cebfb63f218db6b5094dc14abf34d56d35d.png"
+    },
+    {
+      "name": "TREES",
+      "address": "0xd3b77ac07c963b8cead47000a5208434d9a8734d",
+      "symbol": "TREES",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd3b77ac07c963b8cead47000a5208434d9a8734d.png"
     }
   ]
 }
