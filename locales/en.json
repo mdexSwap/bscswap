@@ -179,5 +179,12 @@
   "Notice": "Notice",
   "Repurchase": "Repurchase & Burn",
   "Vulnerability": "Bug Bounty Campaign",
-  "MdexApplication": "MDEX Ecological Fund Application"
+  "MdexApplication": "MDEX Ecological Fund Application",
+
+  "text35": "The data is counted by DeBank, which summarizes the balance of the address in multiple blockchain networks.",
+  "importToken": "Import token",
+  "text36": "Anyone can create a BEP-20 token on BSC with any name, including creating fake versions of existing tokens and tokens that claim to represent projects that do not have a token.",
+  "text37": "If you purchase an arbitrary token, you may be unable to sell it back.",
+  "viewOn": "view on BscScan",
+  "IKnow": "I understand"
 }
