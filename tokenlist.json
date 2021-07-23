@@ -1129,6 +1129,22 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xd3b77ac07c963b8cead47000a5208434d9a8734d.png"
+    },
+    {
+      "name": "SAFUYIELD",
+      "address": "0xc74cd0042c837ce59210857504ebb0859e06aa22",
+      "symbol": "SAFUYIELD",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc74cd0042c837ce59210857504ebb0859e06aa22.png"
+    },
+    {
+      "name": "LKT",
+      "address": "0xde8fa069707b6322ad45d001425b617f4f1930bd",
+      "symbol": "LKT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xde8fa069707b6322ad45d001425b617f4f1930bd.png"
     }
   ]
 }
