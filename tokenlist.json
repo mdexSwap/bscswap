@@ -571,14 +571,6 @@
       "logoURI":  "https://mdex.co/token-icons/bsc/0x658a109c5900bc6d2357c87549b651670e5b0539.png"
     },
     {
-      "name": "ASAP",
-      "address": "0x3b73c1b2ea59835cbfcadade5462b6ab630d9890",
-      "symbol": "ASAP",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x3b73c1b2ea59835cbfcadade5462b6ab630d9890.png"
-    },
-    {
       "name": "BIRD",
       "address": "0x7f1296e5aa692a98d86eaae3ac1cd7723e74878d",
       "symbol": "BIRD",
@@ -1145,6 +1137,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xde8fa069707b6322ad45d001425b617f4f1930bd.png"
+    },
+    {
+      "name": "HAM",
+      "address": "0xb7b36ca86685af52186f1f9394e91d115a9da654",
+      "symbol": "HAM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xb7b36ca86685af52186f1f9394e91d115a9da654.png"
     }
   ]
 }
