@@ -1161,6 +1161,14 @@
       "decimals": 12,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x5a8316f515cbbcd703b71a5d58f92b4636087dc3.png"
+    },
+    {
+      "name": "SAME",
+      "address": "0xd53f8bd5e8e6114a29d12dfe264f2a565c18b825",
+      "symbol": "SAME",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd53f8bd5e8e6114a29d12dfe264f2a565c18b825.png"
     }
   ]
 }
