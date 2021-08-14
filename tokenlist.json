@@ -1193,6 +1193,70 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x028a52032a7075a42585c037f069c62b49ebaa3d.png"
+    },
+    {
+      "name": "ALPHA",
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa1faa113cbe53436df28ff0aee54275c13b40975.png"
+    },
+    {
+      "name": "IOTX",
+      "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
+      "symbol": "IOTX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9678e42cebeb63f23197d726b29b1cb20d0064e5.png"
+    },
+    {
+      "name": "VAI",
+      "address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
+      "symbol": "VAI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4bd17003473389a42daf6a0a729f6fdb328bbbd7.png"
+    },
+    {
+      "name": "TKO",
+      "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+      "symbol": "TKO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9f589e3eabe42ebc94a44727b3f3531c0c877809.png"
+    },
+    {
+      "name": "BABYCAKE",
+      "address": "0xdb8d30b74bf098af214e862c90e647bbb1fcc58c",
+      "symbol": "BABYCAKE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xdb8d30b74bf098af214e862c90e647bbb1fcc58c.png"
+    },
+    {
+      "name": "BabyDoge",
+      "address": "0xc748673057861a797275cd8a068abb95a902e8de",
+      "symbol": "BabyDoge",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc748673057861a797275cd8a068abb95a902e8de.png"
+    },
+    {
+      "name": "FARA",
+      "address": "0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1",
+      "symbol": "FARA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1.png"
+    },
+    {
+      "name": "MIST",
+      "address": "0x68e374f856bf25468d365e539b700b648bf94b67",
+      "symbol": "MIST",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x68e374f856bf25468d365e539b700b648bf94b67.png"
     }
   ]
 }
