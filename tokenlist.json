@@ -1249,6 +1249,46 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x68e374f856bf25468d365e539b700b648bf94b67.png"
+    },
+    {
+      "name": "OKS",
+      "address": "0x18acf236eb40c0d4824fb8f2582ebbecd325ef6a",
+      "symbol": "OKS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x18acf236eb40c0d4824fb8f2582ebbecd325ef6a.png"
+    },
+    {
+      "name": "EXZO",
+      "address": "0xf8fc63200e181439823251020d691312fdcf5090",
+      "symbol": "EXZO",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf8fc63200e181439823251020d691312fdcf5090.png"
+    },
+    {
+      "name": "BaNkr",
+      "address": "0x240eb70aafe740f753066a413ddad73b7c72b4e2",
+      "symbol": "BaNkr",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x240eb70aafe740f753066a413ddad73b7c72b4e2.png"
+    },
+    {
+      "name": "CP",
+      "address": "0x82c19905b036bf4e329740989dcf6ae441ae26c1",
+      "symbol": "CP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x82c19905b036bf4e329740989dcf6ae441ae26c1.png"
+    },
+    {
+      "name": "SKILL",
+      "address": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+      "symbol": "SKILL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab.png"
     }
   ]
 }
