@@ -1305,6 +1305,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x04c747b40be4d535fc83d09939fb0f626f32800b.png"
+    },
+    {
+      "name": "BAKE",
+      "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+      "symbol": "BAKE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
     }
   ]
 }
