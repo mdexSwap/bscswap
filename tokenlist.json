@@ -1289,6 +1289,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab.png"
+    },
+    {
+      "name": "BMON",
+      "address": "0x08ba0619b1e7a582e0bce5bbe9843322c954c340",
+      "symbol": "BMON",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x08ba0619b1e7a582e0bce5bbe9843322c954c340.png"
+    },
+    {
+      "name": "ITAM",
+      "address": "0x04c747b40be4d535fc83d09939fb0f626f32800b",
+      "symbol": "ITAM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x04c747b40be4d535fc83d09939fb0f626f32800b.png"
     }
   ]
 }
