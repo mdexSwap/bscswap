@@ -1313,6 +1313,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
+    },
+    {
+      "name": "LORY",
+      "address": "0xcd5d75dbe75449a9021b6c570a41959eb571c751",
+      "symbol": "LORY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xcd5d75dbe75449a9021b6c570a41959eb571c751.png"
+    },
+    {
+      "name": "BUNNY",
+      "address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+      "symbol": "BUNNY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51.png"
     }
   ]
 }
