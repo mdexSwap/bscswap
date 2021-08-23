@@ -88,7 +88,7 @@
   "text5": "个人奖励",
   "text6": "当前池子总奖励",
   "text7": "当前个人可提现奖励",
-  "charts": "行情",
+  "charts": "Info",
   "Slippagetolerance": "滑点",
   "enterAmount": "输入金额",
   "connectWallet": "连接钱包",
@@ -173,5 +173,6 @@
   "text36": "任何人都可以在 BSC 上以任何名称创建 BEP-20 代币，包括创建现有代币的伪造版本和声称代表没有代币的项目的代币。",
   "text37": "如果您购买相关代币，您可能无法将其卖出。",
   "viewOn": "在BscScan上查看",
-  "IKnow": "我了解"
+  "IKnow": "我了解",
+  "trade": "行情"
 }

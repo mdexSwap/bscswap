@@ -104,7 +104,7 @@
   "text5": "Personal Reward",
   "text6": "Pool‘s Rewards",
   "text7": "Withdrawable Rewards",
-  "charts": "Chart",
+  "charts": "Info",
   "Slippagetolerance": "Slippage Tolerance",
   "enterAmount": "Enter amount",
   "connectWallet": "Connect Wallet",
@@ -165,7 +165,7 @@
   "tab1": "Home",
   "tab2": "Swap",
   "tab3": "Farm",
-  "tab4": "Chart",
+  "tab4": "Charts",
   "tab5": "Boardroom",
   "langSet": "Language Settings",
   "crossChain": "Bridge",
@@ -186,5 +186,6 @@
   "text36": "Anyone can create a BEP-20 token on BSC with any name, including creating fake versions of existing tokens and tokens that claim to represent projects that do not have a token.",
   "text37": "If you purchase an arbitrary token, you may be unable to sell it back.",
   "viewOn": "view on BscScan",
-  "IKnow": "I understand"
+  "IKnow": "I understand",
+  "trade": "Charts"
 }
