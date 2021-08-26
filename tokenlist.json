@@ -1345,6 +1345,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x17b7163cf1dbd286e262ddc68b553d899b93f526.png"
+    },
+    {
+      "name": "CTK",
+      "address": "0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929",
+      "symbol": "CTK",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929.png"
+    },
+    {
+      "name": "TRX",
+      "address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
+      "symbol": "TRX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b.png"
     }
   ]
 }
