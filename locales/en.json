@@ -172,7 +172,7 @@
   "announcement": "Announcement",
   "Cooperation": "Cooperation",
   "rewardTip": "Transaction mining reward shall subject to the reward received",
-  "rewardText": "Tradding Reward",
+  "rewardText": "Trading Reward",
 
   "Apply": "Listing Token",
   "Fluidity": "Liquidity Mining Whitelist",
@@ -254,7 +254,7 @@
   "text75": "Export up to 1 month of data",
   "downloadData":  "Download data",
   "beginnerArea": "For MDEX new joiners",
-  "text76": "Refer your friends to enjoy up to 30% commission rewards",
+  "text76": "Refer your friends to enjoy up to 25% commission rewards",
   "myReferences": "My referee",
   "cashbackPercentage": "My rebate rate",
   "expirationDate": "Expiration date",
@@ -318,5 +318,6 @@
   "rebates": "Rebates(MDX)",
   "rebatesTips": "Your current undrawn commissions",
   "withdrawableRebates": "Withdrawable Rebates",
-  "withdrawableRebatesTips": "Rewards for the first 7 days are distributed every Tuesday"
+  "withdrawableRebatesTips": "Rewards for the first 7 days are distributed every Tuesday",
+  "successBinding": "Success Binding!"
 }
