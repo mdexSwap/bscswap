@@ -1337,6 +1337,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x3f526a5a8811cc1812d923d5dbb20e4b1c6028db.png"
+    },
+    {
+      "name": "QBT",
+      "address": "0x17b7163cf1dbd286e262ddc68b553d899b93f526",
+      "symbol": "QBT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x17b7163cf1dbd286e262ddc68b553d899b93f526.png"
     }
   ]
 }
