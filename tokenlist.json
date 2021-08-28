@@ -1361,6 +1361,30 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b.png"
+    },
+    {
+      "name": "DFY",
+      "address": "0xd98560689c6e748dc37bc410b4d3096b1aa3d8c2",
+      "symbol": "DFY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd98560689c6e748dc37bc410b4d3096b1aa3d8c2.png"
+    },
+    {
+      "name": "FINE",
+      "address": "0x4e6415a5727ea08aae4580057187923aec331227",
+      "symbol": "FINE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4e6415a5727ea08aae4580057187923aec331227.png"
+    },
+    {
+      "name": "SAFEHAMSTERS",
+      "address": "0xa016f295a5957cb80d03d8e5464a429007555124",
+      "symbol": "SAFEHAMSTERS",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa016f295a5957cb80d03d8e5464a429007555124.png"
     }
   ]
 }
