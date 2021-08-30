@@ -1385,6 +1385,14 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xa016f295a5957cb80d03d8e5464a429007555124.png"
+    },
+    {
+      "name": "Kala",
+      "address": "0x32299c93960bb583a43c2220dc89152391a610c5",
+      "symbol": "Kala",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x32299c93960bb583a43c2220dc89152391a610c5.png"
     }
   ]
 }
