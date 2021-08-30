@@ -1393,6 +1393,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x32299c93960bb583a43c2220dc89152391a610c5.png"
+    },
+    {
+      "name": "PRPT",
+      "address": "0x9895f9b3046d9070d9f2b0a7cbb1b3eb819314bc",
+      "symbol": "PRPT",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9895f9b3046d9070d9f2b0a7cbb1b3eb819314bc.png"
     }
   ]
 }
