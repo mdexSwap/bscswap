@@ -306,7 +306,6 @@
   "inviteFail": "Invitation failed, please try again later",
   "errorCode": "The invitation code is wrong, please re-enter",
   "extract": "extract",
-  "tradingTime": "Trading time",
   "noClaim": "No amount can be drawn at present",
   "extractSuccess": "Extraction of success",
   "comingSoon": "Coming soon",
