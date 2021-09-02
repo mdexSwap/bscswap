@@ -1401,6 +1401,46 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x9895f9b3046d9070d9f2b0a7cbb1b3eb819314bc.png"
+    },
+    {
+      "name": "SWAPP",
+      "address": "0x0efe961c733ff46ce34c56a73eba0c6a0e18e0f5",
+      "symbol": "SWAPP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0efe961c733ff46ce34c56a73eba0c6a0e18e0f5.png"
+    },
+    {
+      "name": "C98",
+      "address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
+      "symbol": "C98",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xaec945e04baf28b135fa7c640f624f8d90f1c3a6.png"
+    },
+    {
+      "name": "COS",
+      "address": "0x96dd399f9c3afda1f194182f71600f1b65946501",
+      "symbol": "COS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x96dd399f9c3afda1f194182f71600f1b65946501.png"
+    },
+    {
+      "name": "CTSI",
+      "address": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
+      "symbol": "CTSI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8da443f84fea710266c8eb6bc34b71702d033ef2.png"
+    },
+    {
+      "name": "COTI",
+      "address": "0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb",
+      "symbol": "COTI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb.png"
     }
   ]
 }
