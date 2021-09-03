@@ -1,21 +1,21 @@
 {
   "files": {
-    "static/js/0.f09f4e95.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/0.f09f4e95.chunk.js",
-    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/main.dc8cf97b.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/runtime-main.43892f92.js",
+    "static/js/0.baea9f06.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/0.baea9f06.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/main.2ca98b55.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/runtime-main.7fa8b5b6.js",
     "static/css/3.5c3239fa.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/css/3.5c3239fa.chunk.css",
-    "static/js/3.de86bf5f.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.de86bf5f.chunk.js",
-    "static/js/4.cfeea608.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.cfeea608.chunk.js",
-    "static/js/5.89dc5928.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/5.89dc5928.chunk.js",
-    "static/js/6.1255d7bb.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.1255d7bb.chunk.js",
-    "static/js/7.6f8ae2ce.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/7.6f8ae2ce.chunk.js",
-    "static/js/8.d7c859f1.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/8.d7c859f1.chunk.js",
+    "static/js/3.f886794c.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.f886794c.chunk.js",
+    "static/js/4.3ea28bb9.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.3ea28bb9.chunk.js",
+    "static/js/5.ff9c9403.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/5.ff9c9403.chunk.js",
+    "static/js/6.6988add1.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.6988add1.chunk.js",
+    "static/js/7.e64162b8.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/7.e64162b8.chunk.js",
+    "static/js/8.8ba499e6.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/8.8ba499e6.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/index.html",
-    "precache-manifest.f12075f298e4f177d9188b87e2d289ca.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/precache-manifest.f12075f298e4f177d9188b87e2d289ca.js",
+    "precache-manifest.d663ea03088c8ad9881e659b7a4d24ea.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/precache-manifest.d663ea03088c8ad9881e659b7a4d24ea.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/service-worker.js",
-    "static/js/3.de86bf5f.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.de86bf5f.chunk.js.LICENSE.txt",
-    "static/js/4.cfeea608.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.cfeea608.chunk.js.LICENSE.txt",
-    "static/js/6.1255d7bb.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.1255d7bb.chunk.js.LICENSE.txt",
+    "static/js/3.f886794c.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.f886794c.chunk.js.LICENSE.txt",
+    "static/js/4.3ea28bb9.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.3ea28bb9.chunk.js.LICENSE.txt",
+    "static/js/6.6988add1.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.6988add1.chunk.js.LICENSE.txt",
     "static/media/Bsc-banner-h5.png": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Bsc-banner-h5.88fa5021.png",
     "static/media/Bsc-banner-pc.png": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Bsc-banner-pc.8cbb9b47.png",
     "static/media/inter.css": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Inter.var.f065685b.woff2",
@@ -70,9 +70,9 @@
     "static/media/x.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/x.5b8e2186.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.43892f92.js",
+    "static/js/runtime-main.7fa8b5b6.js",
     "static/css/3.5c3239fa.chunk.css",
-    "static/js/3.de86bf5f.chunk.js",
-    "static/js/main.dc8cf97b.chunk.js"
+    "static/js/3.f886794c.chunk.js",
+    "static/js/main.2ca98b55.chunk.js"
   ]
 }
