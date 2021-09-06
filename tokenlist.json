@@ -1459,6 +1459,46 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb.png"
+    },
+    {
+      "name": "CELR",
+      "address": "0x1f9f6a696c6fd109cd3956f45dc709d2b3902163",
+      "symbol": "CELR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1f9f6a696c6fd109cd3956f45dc709d2b3902163.png"
+    },
+    {
+      "name": "NRV",
+      "address": "0x42f6f551ae042cbe50c739158b4f0cac0edb9096",
+      "symbol": "NRV",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x42f6f551ae042cbe50c739158b4f0cac0edb9096.png"
+    },
+    {
+      "name": "MATH",
+      "address": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
+      "symbol": "MATH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf218184af829cf2b0019f8e6f0b2423498a36983.png"
+    },
+    {
+      "name": "SFP",
+      "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+      "symbol": "SFP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb.png"
+    },
+    {
+      "name": "WRX",
+      "address": "0x8e17ed70334c87ece574c9d537bc153d8609e2a3",
+      "symbol": "WRX",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8e17ed70334c87ece574c9d537bc153d8609e2a3.png"
     }
   ]
 }
