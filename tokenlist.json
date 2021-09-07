@@ -1499,6 +1499,22 @@
       "decimals": 8,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x8e17ed70334c87ece574c9d537bc153d8609e2a3.png"
+    },
+    {
+      "name": "4Belt",
+      "address": "0x9cb73f20164e399958261c289eb5f9846f4d1404",
+      "symbol": "4Belt",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9cb73f20164e399958261c289eb5f9846f4d1404.png"
+    },
+    {
+      "name": "FIWA",
+      "address": "0x633237c6fa30fae46cc5bb22014da30e50a718cc",
+      "symbol": "FIWA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x633237c6fa30fae46cc5bb22014da30e50a718cc.png"
     }
   ]
 }
