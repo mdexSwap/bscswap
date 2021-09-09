@@ -183,8 +183,8 @@
 
   "text35": "The data is counted by DeBank, which summarizes the balance of the address in multiple blockchain networks.",
   "importToken": "Import token",
-  "text36": "Anyone can create a BEP-20 token on BSC with any name, including creating fake versions of existing tokens and tokens that claim to represent projects that do not have a token.",
-  "text37": "If you purchase an arbitrary token, you may be unable to sell it back.",
+  "text36": "Anyone can create tokens with any name on the chain, including counterfeiting tokens already in the market or impersonating other project owners to issue coins.",
+  "text37": "Please confirm that the token you purchased are correct, otherwise you may not be able to sell it.",
   "viewOn": "view on BscScan",
   "IKnow": "I understand",
   "trade": "Charts",
@@ -318,5 +318,21 @@
   "rebatesTips": "Your current undrawn commissions",
   "withdrawableRebates": "Withdrawable Rebates",
   "withdrawableRebatesTips": "Rewards for the first 7 days are distributed every Tuesday",
-  "successBinding": "Success Binding!"
+  "successBinding": "Success Binding!",
+  "scanTips": "Scan with your crypto wallet",
+  "unknown": "Unknown Source",
+  "addTokenWarning": "The current token is not whitelisted on MDEX, and there is a risk. If you purchase an arbitrary token, you may be unable to sell it back.",
+
+  "apply": "Application",
+  "tokenApply": "Listing Token",
+  "liquidityApply": "Liquidity Mining Whitelist",
+  "IMOApply": "IMO Application",
+  "FundApply": "MDEX Ecological Fund Application",
+  "nav": "guide",
+  "liquidityPool": "Pool",
+  "userGuide": "User Guide",
+  "about": "About",
+  "adjustmentPool": "Adjustment of Pool",
+  "contactUs": "Contact us",
+  "document": "Doc"
 }

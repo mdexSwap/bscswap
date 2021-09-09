@@ -170,8 +170,8 @@
 
   "text35": "数据由DeBank统计，汇总了该地址在多个区块链网络的余额。",
   "importToken": "导入代币",
-  "text36": "任何人都可以在 BSC 上以任何名称创建 BEP-20 代币，包括创建现有代币的伪造版本和声称代表没有代币的项目的代币。",
-  "text37": "如果您购买相关代币，您可能无法将其卖出。",
+  "text36": "任何人都可以在链上创建任意名称的代币，包括伪造市场已有的代币或冒充其他项目方进行发币。",
+  "text37": "请确认购买的币种是正确的，否则可能无法将其卖出。",
   "viewOn": "在BscScan上查看",
   "IKnow": "我了解",
   "trade": "行情",
@@ -304,5 +304,21 @@
   "rebatesTips": "你当前所有未提取的返现金额",
   "withdrawableRebates": "可提取返现",
   "withdrawableRebatesTips": "合约每周二发放前7天的奖励",
-  "successBinding": "成功绑定！"
+  "successBinding": "成功绑定！",
+  "scanTips": "请使用钱包扫描",
+  "unknown": "未知来源",
+  "addTokenWarning": "该币种来源未知，存在风险，购买后可能无法将其卖出。",
+
+  "apply": "申请",
+  "tokenApply": "上币申请",
+  "liquidityApply": "申请流动性激励",
+  "IMOApply": "IMO申请",
+  "FundApply": "MDEX生态基金申请",
+  "nav": "导航",
+  "liquidityPool": "流动性池",
+  "userGuide": "用户使用指南",
+  "about": "关于",
+  "adjustmentPool": "矿池调整",
+  "contactUs": "联系我们",
+  "document": "文档"
 }

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Telegram icon</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="组件库" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="底部" transform="translate(-431.000000, -152.000000)">
+            <g id="编组-16" transform="translate(358.000000, 50.000000)">
+                <g id="Telegram-icon" transform="translate(0.000000, 102.000000)" filter="url(#filter-1)">
+                    <g transform="translate(73.025641, 0.000000)">
+                        <path d="M10.1066275,0 C4.52353086,0 0,4.47580645 0,10 C0,15.5241935 4.52353086,20 10.1066275,20 C15.6897242,20 20.213255,15.5241935 20.213255,10 C20.213255,4.47580645 15.6897242,0 10.1066275,0 Z M15.0702857,6.85080645 L13.4116577,14.5846774 C13.2894001,15.1330645 12.9593046,15.266129 12.498801,15.0080645 L9.97214417,13.1653226 L8.75364351,14.3266129 C8.61916016,14.4596774 8.50505307,14.5725806 8.24423688,14.5725806 L8.42354801,12.0282258 L13.1060137,7.84274194 C13.3097764,7.66532258 13.061186,7.56451613 12.7922193,7.74193548 L7.00535996,11.3467742 L4.5113051,10.5766129 C3.96929645,10.4072581 3.95707069,10.0403226 4.62541219,9.78225806 L14.3693422,6.06451613 C14.8216953,5.90322581 15.2169948,6.1733871 15.0702857,6.85080645 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
