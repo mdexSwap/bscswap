@@ -1515,6 +1515,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x633237c6fa30fae46cc5bb22014da30e50a718cc.png"
+    },
+    {
+      "name": "xMDX",
+      "address": "0xf6a8291c34b3cce997144e276f3c975b862d7873",
+      "symbol": "xMDX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf6a8291c34b3cce997144e276f3c975b862d7873.png"
     }
   ]
 }
