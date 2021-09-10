@@ -1,59 +1,59 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "299569c83399ebe416bbeaf4b9bca983",
+    "revision": "22f4db96e23ab3a6b137e373bbde369e",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/index.html"
   },
   {
-    "revision": "391a83bab2e45c2b3be4",
+    "revision": "7e7a1fa9f20c17e86be8",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/css/3.5c3239fa.chunk.css"
   },
   {
-    "revision": "f247dacf58c85a17f92e",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/0.baea9f06.chunk.js"
+    "revision": "46f46a70695624ebb8ee",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/0.ee213a2f.chunk.js"
   },
   {
-    "revision": "391a83bab2e45c2b3be4",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.f886794c.chunk.js"
+    "revision": "7e7a1fa9f20c17e86be8",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.17a6c5ff.chunk.js"
   },
   {
     "revision": "f57b630e4ee6df5111cedb67bbdfcdca",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.f886794c.chunk.js.LICENSE.txt"
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.17a6c5ff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1fa757de46378e45345c",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.3ea28bb9.chunk.js"
+    "revision": "30942568f3561b50e835",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.2643739a.chunk.js"
   },
   {
     "revision": "caaa9c24a9c77eaead93960f555b5a26",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.3ea28bb9.chunk.js.LICENSE.txt"
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.2643739a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0535303536ae9a645061",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/5.ff9c9403.chunk.js"
+    "revision": "8fd149bd33fca3ef822d",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/5.52408f2c.chunk.js"
   },
   {
-    "revision": "ad1df782169a2e8eaddf",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.6988add1.chunk.js"
+    "revision": "5c338b659ae19f298263",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.1cdcf2b8.chunk.js"
   },
   {
     "revision": "c178649ae0de162657ef6caa733cc024",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.6988add1.chunk.js.LICENSE.txt"
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.1cdcf2b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "486d2b9d88c01f344b44",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/7.e64162b8.chunk.js"
+    "revision": "45f05746386b6bfcd483",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/7.a9f893ff.chunk.js"
   },
   {
-    "revision": "ebe1cf61af2773f65f22",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/8.8ba499e6.chunk.js"
+    "revision": "7e2c48b60e9fe02c79f7",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/8.32ec391f.chunk.js"
   },
   {
-    "revision": "f5e1177b15f4805bf9e2",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/main.1f263fa9.chunk.js"
+    "revision": "0746644a2b317fbd2a04",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/main.821b5024.chunk.js"
   },
   {
-    "revision": "2b1fcfc7186089f1bcaf",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/runtime-main.7fa8b5b6.js"
+    "revision": "4e40cf83f0a98a80f863",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/runtime-main.27b2f3e8.js"
   },
   {
     "revision": "88fa502138d73251cc8abc2b34b90723",
@@ -62,6 +62,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8cbb9b476dda7abbb5365c83223fed2b",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Bsc-banner-pc.8cbb9b47.png"
+  },
+  {
+    "revision": "67c6033720a7e7ce73b89890a05770bc",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Discord-hover.67c60337.svg"
+  },
+  {
+    "revision": "4aa396409e9f18474594e3a0324e3e97",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Discord.4aa39640.svg"
+  },
+  {
+    "revision": "e8b190b214ba57c6ffd5cca01d6b14c5",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Github-hover.e8b190b2.svg"
+  },
+  {
+    "revision": "57cea1ca27773d23c3cc8934e6056c49",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Github.57cea1ca.svg"
   },
   {
     "revision": "14a450a3d2fd191fcefa23b273baaf14",
@@ -220,6 +236,42 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Inter.var.f065685b.woff2"
   },
   {
+    "revision": "aa26bb14c593229033fdeea7646c59ff",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Medium-hover.aa26bb14.svg"
+  },
+  {
+    "revision": "6d44cd06adfa6600a8a88c284ae77d4d",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Medium.6d44cd06.svg"
+  },
+  {
+    "revision": "539b352b599c370eece4c5740bf17b33",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Telegram-hover.539b352b.svg"
+  },
+  {
+    "revision": "66e69c48cc5164d4718c7f28036efb12",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Telegram.66e69c48.svg"
+  },
+  {
+    "revision": "64dc0960dd6c7f5f5a739af5c2125219",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Twitter-hover.64dc0960.svg"
+  },
+  {
+    "revision": "04411a54584c7dfcdda1bf5ef83cb6c5",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Twitter.04411a54.svg"
+  },
+  {
+    "revision": "df86383869626ed1db9de6b5e274f4e3",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Weibo-hover.df863838.svg"
+  },
+  {
+    "revision": "59fb8e88f4b9f444ae6d9c937a52b33a",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Weibo.59fb8e88.svg"
+  },
+  {
+    "revision": "f2d0fc44320daa979a5a2d2f062194fe",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Weibo_h5.f2d0fc44.svg"
+  },
+  {
     "revision": "9579deaad915befb00b6a1aea4f301af",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/add-liquidity.9579deaa.svg"
   },
@@ -258,6 +310,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1ccc4e7d320bf3b075bc27a5948b3409",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/banner_invited_h5.1ccc4e7d.png"
+  },
+  {
+    "revision": "4bceeb2dca9d488c719887269917197b",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/bitkeepWallet.4bceeb2d.png"
   },
   {
     "revision": "904b44c2b22eb2d49f618396e6f2db1a",
@@ -396,6 +452,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/reward_pc.aa0728c4.png"
   },
   {
+    "revision": "569bb9251458be71c2d63aad1f231e69",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/safePalWalletIcon.569bb925.png"
+  },
+  {
     "revision": "be00fc4a29d03016e78b28c9943e3f51",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/spinner.be00fc4a.svg"
   },
@@ -410,6 +470,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8215855c185176eb79446ce8cc1f3998",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/walletConnectIcon.8215855c.svg"
+  },
+  {
+    "revision": "478aed082a904db75e077253269918f9",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/warning.478aed08.svg"
   },
   {
     "revision": "5b8e218668bfea1d44b887bd042f6a52",
