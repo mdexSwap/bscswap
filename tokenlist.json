@@ -1523,6 +1523,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xf6a8291c34b3cce997144e276f3c975b862d7873.png"
+    },
+    {
+      "name": "KISS",
+      "address": "0x6894b3a977fe0492617307348355c4f17be2c70d",
+      "symbol": "KISS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6894b3a977fe0492617307348355c4f17be2c70d.png"
+    },
+    {
+      "name": "LFD",
+      "address": "0xdeb1eaf085979a73ab0e85901d786cba991c2617",
+      "symbol": "LFD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xdeb1eaf085979a73ab0e85901d786cba991c2617.png"
     }
   ]
 }
