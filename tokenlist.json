@@ -1539,6 +1539,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xdeb1eaf085979a73ab0e85901d786cba991c2617.png"
+    },
+    {
+      "name": "BPET",
+      "address": "0x24d787e9b88cb62d74e961c1c1d78e4ee47618e5",
+      "symbol": "BPET",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x24d787e9b88cb62d74e961c1c1d78e4ee47618e5.png"
     }
   ]
 }
