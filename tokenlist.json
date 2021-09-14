@@ -1547,6 +1547,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x24d787e9b88cb62d74e961c1c1d78e4ee47618e5.png"
+    },
+    {
+      "name": "XWG",
+      "address": "0x6b23c89196deb721e6fd9726e6c76e4810a464bc",
+      "symbol": "XWG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6b23c89196deb721e6fd9726e6c76e4810a464bc.png"
     }
   ]
 }
