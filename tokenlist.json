@@ -1579,6 +1579,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700.png"
+    },
+    {
+      "name": "DVI",
+      "address": "0x758fb037a375f17c7e195cc634d77da4f554255b",
+      "symbol": "DVI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x758fb037a375f17c7e195cc634d77da4f554255b.png"
     }
   ]
 }
