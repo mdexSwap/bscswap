@@ -1555,6 +1555,30 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x6b23c89196deb721e6fd9726e6c76e4810a464bc.png"
+    },
+    {
+      "name": "MATIC",
+      "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xcc42724c6683b7e57334c4e856f4c9965ed682bd.png"
+    },
+    {
+      "name": "ELF",
+      "address": "0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9",
+      "symbol": "ELF",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9.png"
+    },
+    {
+      "name": "BSCPAD",
+      "address": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700",
+      "symbol": "BSCPAD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700.png"
     }
   ]
 }
