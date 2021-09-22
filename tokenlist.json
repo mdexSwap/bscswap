@@ -1595,6 +1595,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377.png"
+    },
+    {
+      "name": "Bzzone",
+      "address": "0x47fa20ba81333ba507d687913baf7c89432182a1",
+      "symbol": "Bzzone",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x47fa20ba81333ba507d687913baf7c89432182a1.png"
     }
   ]
 }
