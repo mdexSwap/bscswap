@@ -1603,6 +1603,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x47fa20ba81333ba507d687913baf7c89432182a1.png"
+    },
+    {
+      "name": "FSWAP",
+      "address": "0xd22246644d2be5d0427a8e474477d96677c3ec24",
+      "symbol": "FSWAP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd22246644d2be5d0427a8e474477d96677c3ec24.png"
     }
   ]
 }
