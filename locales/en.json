@@ -183,8 +183,8 @@
 
   "text35": "The data is counted by DeBank, which summarizes the balance of the address in multiple blockchain networks.",
   "importToken": "Import token",
-  "text36": "Anyone can create tokens with any name on the chain, including counterfeiting tokens already in the market or impersonating other project owners to issue coins.",
-  "text37": "Please confirm that the token you purchased are correct, otherwise you may not be able to sell it.",
+  "text36": "Crypto currencies are investment products of high risks. You shall be responsible for your investment choices. Mdex only functions as a decentralized exchange and will not guarantee earnings or compensate if losses occur.",
+  "text37": "Please make sure that the token type and the contract address are correct. Negligence may cause you losses from buying forgery tokens.",
   "viewOn": "view on BscScan",
   "IKnow": "I understand",
   "trade": "Charts",
@@ -321,7 +321,6 @@
   "successBinding": "Success Binding!",
   "scanTips": "Scan with your crypto wallet",
   "unknown": "Unknown Source",
-  "addTokenWarning": "The current token is not whitelisted on MDEX, and there is a risk. If you purchase an arbitrary token, you may be unable to sell it back.",
 
   "apply": "Application",
   "tokenApply": "Listing Token",
