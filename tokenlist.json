@@ -1611,6 +1611,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xd22246644d2be5d0427a8e474477d96677c3ec24.png"
+    },
+    {
+      "name": "KINE",
+      "address": "0xbfa9df9ed8805e657d0feab5d186c6a567752d7f",
+      "symbol": "KINE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbfa9df9ed8805e657d0feab5d186c6a567752d7f.png"
     }
   ]
 }
