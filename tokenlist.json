@@ -1620,6 +1620,7 @@
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xbfa9df9ed8805e657d0feab5d186c6a567752d7f.png"
     },
+    {
       "name": "CPD",
       "address": "0x2406dce4da5ab125a18295f4fb9fd36a0f7879a2",
       "symbol": "CPD",
