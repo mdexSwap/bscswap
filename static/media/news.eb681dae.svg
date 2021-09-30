@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>news</title>
+    <g id="组件库" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-1790.000000, -683.000000)">
+            <g id="编组-10" transform="translate(45.000000, 583.000000)">
+                <g id="编组-5备份" transform="translate(1725.000000, 75.000000)">
+                    <g id="编组-8备份" transform="translate(0.000000, 15.000000)">
+                        <g id="编组-7" transform="translate(20.000000, 8.000000)">
+                            <g id="news" transform="translate(0.000000, 2.000000)">
+                                <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+                                <g id="编组" transform="translate(1.000000, 1.800000)" stroke="#90909E" stroke-width="1.5">
+                                    <rect id="矩形" x="0" y="1.2" width="14" height="12" rx="1.5"></rect>
+                                    <line x1="3.5" y1="0" x2="3.5" y2="2.4" id="直线-2" stroke-linecap="round" stroke-linejoin="round"></line>
+                                    <line x1="10.5" y1="0" x2="10.5" y2="2.4" id="直线-2" stroke-linecap="round" stroke-linejoin="round"></line>
+                                    <line x1="3" y1="5.7" x2="11" y2="5.7" id="直线" stroke-linecap="round" stroke-linejoin="round"></line>
+                                    <line x1="3" y1="8.7" x2="8.47368421" y2="8.7" id="直线备份" stroke-linecap="round" stroke-linejoin="round"></line>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
