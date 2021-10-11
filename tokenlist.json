@@ -885,12 +885,12 @@
       "logoURI":  "https://mdex.co/token-icons/bsc/0xd20595346ca72f82be355e2a603bfa8b0fd86e33.png"
     },
     {
-      "name": "BODA",
-      "address": "0x81cfb5e400eb2caa319130a0dae3b32cfb19392d",
-      "symbol": "BODA",
-      "decimals": 9,
+      "name": "BODAV2",
+      "address": "0xdc847755343c3a2b94d6afc0aae57651e1b14064",
+      "symbol": "BODAV2",
+      "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x81cfb5e400eb2caa319130a0dae3b32cfb19392d.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xdc847755343c3a2b94d6afc0aae57651e1b14064.png"
     },
     {
       "name": "RSD",
@@ -1627,6 +1627,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x2406dce4da5ab125a18295f4fb9fd36a0f7879a2.png"
+    },
+    {
+      "name": "HOLDEX",
+      "address": "0xd85b5e9a7c33832dcdb554ec07cdcc56810b2e5a",
+      "symbol": "HOLDEX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd85b5e9a7c33832dcdb554ec07cdcc56810b2e5a.png"
     }
   ]
 }
