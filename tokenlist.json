@@ -1635,6 +1635,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xd85b5e9a7c33832dcdb554ec07cdcc56810b2e5a.png"
+    },
+    {
+      "name": "ELK",
+      "address": "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c",
+      "symbol": "ELK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c.png"
     }
   ]
 }
