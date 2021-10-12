@@ -1643,6 +1643,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c.png"
+    },
+    {
+      "name": "TLM",
+      "address": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
+      "symbol": "TLM",
+      "decimals": 4,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x2222227e22102fe3322098e4cbfe18cfebd57c95.png"
+    },
+    {
+      "name": "HERO",
+      "address": "0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13",
+      "symbol": "HERO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13.png"
     }
   ]
 }
