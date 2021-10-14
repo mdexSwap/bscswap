@@ -1659,6 +1659,30 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13.png"
+    },
+    {
+      "name": "ALP",
+      "address": "0x6775729fad1438116b2e3b4fb2878539795297a7",
+      "symbol": "ALP",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6775729fad1438116b2e3b4fb2878539795297a7.png"
+    },
+    {
+      "name": "GAMEFI",
+      "address": "0xa085f089e74019259adb8b91bab222429c1309ae",
+      "symbol": "GAMEFI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa085f089e74019259adb8b91bab222429c1309ae.png"
+    },
+    {
+      "name": "HEROES",
+      "address": "0x261510dd6257494eea1dda7618dbe8a7b87870dd",
+      "symbol": "HEROES",
+      "decimals": 12,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x261510dd6257494eea1dda7618dbe8a7b87870dd.png"
     }
   ]
 }
