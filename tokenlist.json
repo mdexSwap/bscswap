@@ -1683,6 +1683,14 @@
       "decimals": 12,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x261510dd6257494eea1dda7618dbe8a7b87870dd.png"
+    },
+    {
+      "name": "HAPPY",
+      "address": "0xf5d8a096cccb31b9d7bce5afe812be23e3d4690d",
+      "symbol": "HAPPY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf5d8a096cccb31b9d7bce5afe812be23e3d4690d.png"
     }
   ]
 }
