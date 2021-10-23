@@ -1691,6 +1691,46 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xf5d8a096cccb31b9d7bce5afe812be23e3d4690d.png"
+    },
+    {
+      "name": "WE",
+      "address": "0x0dd3a140346a94d403ac62385daaf5a86b50e752",
+      "symbol": "WE",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0dd3a140346a94d403ac62385daaf5a86b50e752.png"
+    },
+    {
+      "name": "PRB",
+      "address": "0x59ff585aa42939853e2587b07ee8f94017584a88",
+      "symbol": "PRB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x59ff585aa42939853e2587b07ee8f94017584a88.png"
+    },
+    {
+      "name": "SATOZ",
+      "address": "0xf4341fa52669cea0c1836095529a7e9b04b8b88d",
+      "symbol": "SATOZ",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf4341fa52669cea0c1836095529a7e9b04b8b88d.png"
+    },
+    {
+      "name": "PIZA",
+      "address": "0xfc646d0b564bf191b3d3adf2b620a792e485e6da",
+      "symbol": "PIZA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xfc646d0b564bf191b3d3adf2b620a792e485e6da.png"
+    },
+    {
+      "name": "MONI",
+      "address": "0x9573c88ae3e37508f87649f87c4dd5373c9f31e0",
+      "symbol": "MONI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9573c88ae3e37508f87649f87c4dd5373c9f31e0.png"
     }
   ]
 }
