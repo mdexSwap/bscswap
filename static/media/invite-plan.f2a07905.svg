@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>申请邀请计划</title>
+    <defs>
+        <linearGradient x1="75.2766466%" y1="18.540413%" x2="39.7171317%" y2="122.339364%" id="linearGradient-1">
+            <stop stop-color="#C1C1CF" offset="0%"></stop>
+            <stop stop-color="#868694" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="组件库" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="抽屉式滑页" transform="translate(-28.000000, -514.000000)">
+            <g id="编组-43" transform="translate(0.000000, 88.000000)">
+                <g id="编组-12" transform="translate(16.000000, 126.000000)">
+                    <g id="编组-17备份-8" transform="translate(12.000000, 288.000000)">
+                        <g id="申请邀请计划" transform="translate(0.000000, 12.000000)">
+                            <g id="编组" transform="translate(2.000000, 0.000000)">
+                                <path d="M13.6449464,11.5459952 C15.317052,10.3889264 16.4141509,8.49810648 16.4141509,6.34976823 C16.4141509,2.83975746 13.5144234,0 9.91974903,0 C6.32860233,0 3.42534719,2.83975746 3.42534719,6.33212998 C3.42534719,8.49810648 4.54008428,10.4206752 6.22982816,11.5601058 C2.83622981,13.115799 0,17.1549572 0,20.0088252 C0,25.3144093 20.0017731,25.3144093 20.0017731,20.1040717 C20.0052976,16.7704434 17.0879318,13.0523014 13.6449464,11.5459952 Z" id="路径" fill="url(#linearGradient-1)"></path>
+                                <path d="M8.63568479,8.2546987 L11.3766681,8.2546987 C11.4789699,8.2546987 11.5671611,8.34288992 11.5565782,8.44519174 C11.4613317,9.21774688 10.8051889,9.81744721 10.0079403,9.81744721 C9.21069158,9.81744721 8.55102121,9.21774688 8.45930234,8.44519174 C8.44166409,8.34288992 8.53338297,8.2546987 8.63568479,8.2546987 L8.63568479,8.2546987 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                <line x1="7.5" y1="18.1603371" x2="12.5" y2="18.1603371" id="直线-11" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                                <line x1="7.5" y1="18.1603371" x2="12.5" y2="18.1603371" id="直线-11" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(10.000000, 18.160337) rotate(90.000000) translate(-10.000000, -18.160337) "></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

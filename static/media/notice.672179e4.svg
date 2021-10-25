@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>公告icon</title>
+    <defs>
+        <linearGradient x1="50%" y1="1.80417375%" x2="50%" y2="99.8798077%" id="linearGradient-1">
+            <stop stop-color="#C1C1CF" offset="0%"></stop>
+            <stop stop-color="#868694" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="组件库" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="抽屉式滑页" transform="translate(-28.000000, -610.000000)">
+            <g id="编组-43" transform="translate(0.000000, 88.000000)">
+                <g id="编组-12" transform="translate(16.000000, 126.000000)">
+                    <g id="编组-17备份-7" transform="translate(12.000000, 384.000000)">
+                        <g id="公告icon" transform="translate(0.000000, 12.000000)">
+                            <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                            <g id="编组-16" transform="translate(2.000000, 3.000000)">
+                                <path d="M10.5,0 C11.7886644,-2.36723813e-16 12.8333333,1.04466892 12.8333333,2.33333333 L12.8333333,16.3333333 C12.8333333,17.6219977 11.7886644,18.6666667 10.5,18.6666667 C9.88301214,18.6666667 9.32195563,18.427196 8.90470558,18.0361299 L8.90519156,18.0384012 L5.11468062,14.4268608 C4.82282988,14.1487899 4.45376215,13.9654016 4.05586854,13.9007413 L1.65892579,13.5112224 C0.716411639,13.3420132 -3.28421273e-16,12.5213367 -8.8817842e-16,11.5333333 L-8.8817842e-16,7.13333333 C-1.00917393e-15,6.14532997 0.716411639,5.32465352 1.65809555,5.16244333 L1.65892579,5.15988901 L4.05648127,4.7667275 C4.45398937,4.70154241 4.82255032,4.51784383 5.11390729,4.23968398 L8.90519156,0.620127378 L8.90470558,0.630536779 C9.32195563,0.239470622 9.88301214,1.13338832e-16 10.5,0 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+                                <line x1="10" y1="13" x2="10" y2="14.9063595" id="直线-5" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></line>
+                                <line x1="15.8882836" y1="8.75" x2="20.8272036" y2="8.75" id="直线" stroke="#A5A5B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                                <line x1="15.8882836" y1="3.44537115" x2="18.0833333" y2="1.75" id="直线-2" stroke="#B9B9C7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                                <line x1="15.8882836" y1="15.75" x2="18.0833333" y2="14" id="直线-2备份" stroke="#90909E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(16.985808, 14.875000) scale(1, -1) translate(-16.985808, -14.875000) "></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

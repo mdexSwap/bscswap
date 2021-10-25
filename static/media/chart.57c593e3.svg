@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Chart</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+        <linearGradient x1="50%" y1="1.80417375%" x2="50%" y2="99.8798077%" id="linearGradient-3">
+            <stop stop-color="#C1C1CF" offset="0%"></stop>
+            <stop stop-color="#868694" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="组件库" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="抽屉式滑页" transform="translate(-28.000000, -274.000000)">
+            <g id="编组-43" transform="translate(0.000000, 88.000000)">
+                <g id="编组-12" transform="translate(16.000000, 126.000000)">
+                    <g id="编组-17备份-6" transform="translate(12.000000, 48.000000)">
+                        <g id="Chart" transform="translate(0.000000, 12.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="蒙版"></g>
+                            <g id="编组-4" mask="url(#mask-2)">
+                                <g transform="translate(3.000000, 4.000000)">
+                                    <path d="M13.9125125,15.4772125 C14.4647972,15.4772125 14.9125125,15.9249278 14.9125125,16.4772125 C14.9125125,16.9900483 14.5264723,17.4127197 14.0291336,17.4704848 L13.9125125,17.4772125 L3.9217625,17.4772125 C3.36947775,17.4772125 2.9217625,17.0294972 2.9217625,16.4772125 C2.9217625,15.9643767 3.30780269,15.5417053 3.80514137,15.4839402 L3.9217625,15.4772125 L13.9125125,15.4772125 Z M15,0 C16.6568542,-3.04359188e-16 18,1.34314575 18,3 L18,11 C18,12.6568542 16.6568542,14 15,14 L3,14 C1.34314575,14 -6.85272294e-16,12.6568542 0,11 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 L15,0 Z" id="形状结合" stroke="none" fill="url(#linearGradient-3)" fill-rule="evenodd"></path>
+                                    <path d="M3.85058083,10.467425 C3.49540437,10.8151824 4.89305129,9.48367342 8.04352159,6.47289794 L11.5111131,6.47289794 L14.4625735,3.5214375 L11.5111131,3.5214375" id="路径" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

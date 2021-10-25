@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="19px" viewBox="0 0 39 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>NEW</title>
+    <g id="组件库" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="导航" transform="translate(-1851.000000, -233.000000)">
+            <g id="编组-15" transform="translate(0.000000, 223.000000)">
+                <g id="NEW" transform="translate(1851.000000, 10.000000)">
+                    <rect id="矩形" fill="#F6454F" x="0" y="0" width="39" height="19" rx="6"></rect>
+                    <path d="M6.736,14 L6.736,8.612 L10.804,14 L12.532,14 L12.532,5.6 L10.732,5.6 L10.732,11 L6.652,5.6 L4.924,5.6 L4.924,14 L6.736,14 Z M20.908,14 L20.908,12.428 L16.276,12.428 L16.276,10.568 L20.32,10.568 L20.32,8.996 L16.276,8.996 L16.276,7.172 L20.776,7.172 L20.776,5.6 L14.38,5.6 L14.38,14 L20.908,14 Z M26.2,14 L27.928,8.012 L29.62,14 L31.576,14 L34.36,5.6 L32.416,5.6 L30.664,11.936 L28.888,5.6 L27.028,5.6 L25.276,11.936 L23.512,5.6 L21.472,5.6 L24.244,14 L26.2,14 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
