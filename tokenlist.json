@@ -1731,6 +1731,30 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x9573c88ae3e37508f87649f87c4dd5373c9f31e0.png"
+    },
+    {
+      "name": "BFG",
+      "address": "0xbb46693ebbea1ac2070e59b4d043b47e2e095f86",
+      "symbol": "BFG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbb46693ebbea1ac2070e59b4d043b47e2e095f86.png"
+    },
+    {
+      "name": "KUN",
+      "address": "0x1a2fb0af670d0234c2857fad35b789f8cb725584",
+      "symbol": "KUN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1a2fb0af670d0234c2857fad35b789f8cb725584.png"
+    },
+    {
+      "name": "ARV",
+      "address": "0x6679eb24f59dfe111864aec72b443d1da666b360",
+      "symbol": "ARV",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6679eb24f59dfe111864aec72b443d1da666b360.png"
     }
   ]
 }
