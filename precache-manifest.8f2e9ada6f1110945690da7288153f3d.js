@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f06e5db2513c4b4aa7a9e73386aae8bc",
+    "revision": "a5dec78f2071974078da117fe14c6186",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/index.html"
   },
   {
-    "revision": "f13fac5a77ae089e0db8",
+    "revision": "8e91a8078e4006ac07f6",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/css/3.5c3239fa.chunk.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/0.fadc2cb4.chunk.js"
   },
   {
-    "revision": "f13fac5a77ae089e0db8",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.c22cc80b.chunk.js"
+    "revision": "8e91a8078e4006ac07f6",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.0e7199c5.chunk.js"
   },
   {
     "revision": "f57b630e4ee6df5111cedb67bbdfcdca",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.c22cc80b.chunk.js.LICENSE.txt"
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.0e7199c5.chunk.js.LICENSE.txt"
   },
   {
     "revision": "0b6f165283e96f6f1e97",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/8.b9163efb.chunk.js"
   },
   {
-    "revision": "e90527122d827232abc5",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/main.8df0e4e2.chunk.js"
+    "revision": "2b2d04a6bc316caecc35",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/main.84d810f2.chunk.js"
   },
   {
     "revision": "b17a084b8e0f88e13db9",
