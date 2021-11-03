@@ -1755,6 +1755,30 @@
       "decimals": 8,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x6679eb24f59dfe111864aec72b443d1da666b360.png"
+    },
+    {
+      "name": "NFS",
+      "address": "0x64815277c6caf24c1c2b55b11c78ef393237455c",
+      "symbol": "NFS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x64815277c6caf24c1c2b55b11c78ef393237455c.png"
+    },
+    {
+      "name": "HASH",
+      "address": "0xeb1112ac78d537853150e2a07e8b765e29d3f019",
+      "symbol": "HASH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xeb1112ac78d537853150e2a07e8b765e29d3f019.png"
+    },
+    {
+      "name": "BG",
+      "address": "0x07abe236bb21e96c2e2319766745f782dcd0b0c8",
+      "symbol": "BG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x07abe236bb21e96c2e2319766745f782dcd0b0c8.png"
     }
   ]
 }
