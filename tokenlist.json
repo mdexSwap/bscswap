@@ -1779,6 +1779,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x07abe236bb21e96c2e2319766745f782dcd0b0c8.png"
+    },
+    {
+      "name": "DMT",
+      "address": "0x3eb05a201817f87c198930b86f40c6829340b4b7",
+      "symbol": "DMT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3eb05a201817f87c198930b86f40c6829340b4b7.png"
+    },
+    {
+      "name": "DUSD",
+      "address": "0x22fda23aed456f2de139c6240f0776ef031c8b6b",
+      "symbol": "DUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x22fda23aed456f2de139c6240f0776ef031c8b6b.png"
     }
   ]
 }
