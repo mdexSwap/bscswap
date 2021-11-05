@@ -1,59 +1,59 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5dec78f2071974078da117fe14c6186",
+    "revision": "46aea7447fc595911e84e8ce75406ced",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/index.html"
   },
   {
-    "revision": "8e91a8078e4006ac07f6",
+    "revision": "9a63973cc0c985d3223f",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/css/3.5c3239fa.chunk.css"
   },
   {
-    "revision": "3f284d4c0905d9a5e172",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/0.fadc2cb4.chunk.js"
+    "revision": "8d9e31799d9436667588",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/0.7b17d180.chunk.js"
   },
   {
-    "revision": "8e91a8078e4006ac07f6",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.0e7199c5.chunk.js"
+    "revision": "9a63973cc0c985d3223f",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.0d2636a2.chunk.js"
   },
   {
     "revision": "f57b630e4ee6df5111cedb67bbdfcdca",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.0e7199c5.chunk.js.LICENSE.txt"
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.0d2636a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0b6f165283e96f6f1e97",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.a03dd1d4.chunk.js"
+    "revision": "9a092e2e2a75f26fa192",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.7b36ed2c.chunk.js"
   },
   {
     "revision": "caaa9c24a9c77eaead93960f555b5a26",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.a03dd1d4.chunk.js.LICENSE.txt"
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.7b36ed2c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "12fde6ebcf74466b0e4e",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/5.051cf0fe.chunk.js"
+    "revision": "26f6a67b04bb51e3ae6a",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/5.b9b359f7.chunk.js"
   },
   {
-    "revision": "490de65bb4d10302e0fe",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.6e162d73.chunk.js"
+    "revision": "dbf56a90d0e5bca0d077",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.e4c19bd8.chunk.js"
   },
   {
     "revision": "c178649ae0de162657ef6caa733cc024",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.6e162d73.chunk.js.LICENSE.txt"
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.e4c19bd8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5796cb31a3fade6f4ec8",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/7.2008d318.chunk.js"
+    "revision": "540e09d6fb82ea2c295b",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/7.6ab93725.chunk.js"
   },
   {
-    "revision": "6bc9d647d960eea69dc1",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/8.b9163efb.chunk.js"
+    "revision": "9b7ece3b398aa5c8105a",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/8.7a826db5.chunk.js"
   },
   {
-    "revision": "2b2d04a6bc316caecc35",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/main.84d810f2.chunk.js"
+    "revision": "567920f65642a2ed325b",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/main.f841c24e.chunk.js"
   },
   {
-    "revision": "b17a084b8e0f88e13db9",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/runtime-main.dc9526a4.js"
+    "revision": "aff6e6eccc933490bc81",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/runtime-main.0d30052e.js"
   },
   {
     "revision": "88fa502138d73251cc8abc2b34b90723",
@@ -482,6 +482,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "291d423f8e80ac9e371c5c90681bff5e",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/poster.291d423f.png"
+  },
+  {
+    "revision": "e2b3737258318ed5c026abf5e37efe6e",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/pro.e2b37372.svg"
   },
   {
     "revision": "1ae4d9f4653371789d98b85139933d27",
