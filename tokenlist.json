@@ -1795,6 +1795,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x22fda23aed456f2de139c6240f0776ef031c8b6b.png"
+    },
+    {
+      "name": "SQUID",
+      "address": "0x87230146e138d3f296a9a77e497a2a83012e9bc5",
+      "symbol": "SQUID",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x87230146e138d3f296a9a77e497a2a83012e9bc5.png"
     }
   ]
 }
