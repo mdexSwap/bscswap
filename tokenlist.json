@@ -1795,6 +1795,30 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x22fda23aed456f2de139c6240f0776ef031c8b6b.png"
+    },
+    {
+      "name": "scUSD",
+      "address": "0x0e5c2b15666eee4b66788e45cf4da0392c070fa7",
+      "symbol": "scUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0e5c2b15666eee4b66788e45cf4da0392c070fa7.png"
+    },
+    {
+      "name": "NFTART",
+      "address": "0xf7844cb890f4c339c497aeab599abdc3c874b67a",
+      "symbol": "NFTART",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf7844cb890f4c339c497aeab599abdc3c874b67a.png"
+    },
+    {
+      "name": "PID",
+      "address": "0x1215ed20aa507578ca352e195016f289e7a17f3a",
+      "symbol": "PID",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1215ed20aa507578ca352e195016f289e7a17f3a.png"
     }
   ]
 }
