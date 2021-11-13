@@ -1819,6 +1819,38 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x1215ed20aa507578ca352e195016f289e7a17f3a.png"
+    },
+    {
+      "name": "ELMON",
+      "address": "0xe3233fdb23f1c27ab37bd66a19a1f1762fcf5f3f",
+      "symbol": "ELMON",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe3233fdb23f1c27ab37bd66a19a1f1762fcf5f3f.png"
+    },
+    {
+      "name": "PROT",
+      "address": "0xd3c9609b6cbc6ef02390f33c230590c38f9e5f9d",
+      "symbol": "PROT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd3c9609b6cbc6ef02390f33c230590c38f9e5f9d.png"
+    },
+    {
+      "name": "KART",
+      "address": "0x8bdd8dbcbdf0c066ca5f3286d33673aa7a553c10",
+      "symbol": "KART",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8bdd8dbcbdf0c066ca5f3286d33673aa7a553c10.png"
+    },
+    {
+      "name": "MILIT",
+      "address": "0xeea7c025b1eee9527d631094d45ff9ce5d830b6f",
+      "symbol": "MILIT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xeea7c025b1eee9527d631094d45ff9ce5d830b6f.png"
     }
   ]
 }
