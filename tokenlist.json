@@ -1851,6 +1851,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xeea7c025b1eee9527d631094d45ff9ce5d830b6f.png"
+    },
+    {
+      "name": "JGN",
+      "address": "0xc13b7a43223bb9bf4b69bd68ab20ca1b79d81c75",
+      "symbol": "JGN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc13b7a43223bb9bf4b69bd68ab20ca1b79d81c75.png"
     }
   ]
 }
