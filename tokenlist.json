@@ -1973,14 +1973,6 @@
       "logoURI":  "https://mdex.co/token-icons/bsc/0x617ba3d39e96c084e60c6db3f7b365a96ee4e555.png"
     },
     {
-      "name": "MONI",
-      "address": "0x9573c88ae3e37508f87649f87c4dd5373c9f31e0",
-      "symbol": "MONI",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x9573c88ae3e37508f87649f87c4dd5373c9f31e0.png"
-    },
-    {
       "name": "CATE",
       "address": "0xe4fae3faa8300810c835970b9187c268f55d998f",
       "symbol": "CATE",
