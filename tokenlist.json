@@ -1859,6 +1859,142 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xc13b7a43223bb9bf4b69bd68ab20ca1b79d81c75.png"
+    },
+    {
+      "name": "RACA",
+      "address": "0x12bb890508c125661e03b09ec06e404bc9289040",
+      "symbol": "RACA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x12bb890508c125661e03b09ec06e404bc9289040.png"
+    },
+    {
+      "name": "GM",
+      "address": "0xe2604c9561d490624aa35e156e65e590eb749519",
+      "symbol": "GM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe2604c9561d490624aa35e156e65e590eb749519.png"
+    },
+    {
+      "name": "BNBH",
+      "address": "0xd25631648e3ad4863332319e8e0d6f2a8ec6f267",
+      "symbol": "BNBH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd25631648e3ad4863332319e8e0d6f2a8ec6f267.png"
+    },
+    {
+      "name": "PIT",
+      "address": "0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50",
+      "symbol": "PIT",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50.png"
+    },
+    {
+      "name": "ETERNAL",
+      "address": "0xd44fd09d74cd13838f137b590497595d6b3feea4",
+      "symbol": "ETERNAL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd44fd09d74cd13838f137b590497595d6b3feea4.png"
+    },
+    {
+      "name": "Nora",
+      "address": "0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0",
+      "symbol": "Nora",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0.png"
+    },
+    {
+      "name": "BNX",
+      "address": "0x8c851d1a123ff703bd1f9dabe631b69902df5f97",
+      "symbol": "BNX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8c851d1a123ff703bd1f9dabe631b69902df5f97.png"
+    },
+    {
+      "name": "GZONE",
+      "address": "0xb6adb74efb5801160ff749b1985fd3bd5000e938",
+      "symbol": "GZONE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xb6adb74efb5801160ff749b1985fd3bd5000e938.png"
+    },
+    {
+      "name": "BCOIN",
+      "address": "0x00e1656e45f18ec6747f5a8496fd39b50b38396d",
+      "symbol": "BCOIN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x00e1656e45f18ec6747f5a8496fd39b50b38396d.png"
+    },
+    {
+      "name": "NFTL",
+      "address": "0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd",
+      "symbol": "NFTL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd.png"
+    },
+    {
+      "name": "CCAR",
+      "address": "0x50332bdca94673f33401776365b66cc4e81ac81d",
+      "symbol": "CCAR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x50332bdca94673f33401776365b66cc4e81ac81d.png"
+    },
+    {
+      "name": "VLXPAD",
+      "address": "0xb8e3bb633f7276cc17735d86154e0ad5ec9928c0",
+      "symbol": "VLXPAD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xb8e3bb633f7276cc17735d86154e0ad5ec9928c0.png"
+    },
+    {
+      "name": "CWT",
+      "address": "0x5a726a26edb0df8fd55f03cc30af8a7cea81e78d",
+      "symbol": "CWT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5a726a26edb0df8fd55f03cc30af8a7cea81e78d.png"
+    },
+    {
+      "name": "IDO",
+      "address": "0x617ba3d39e96c084e60c6db3f7b365a96ee4e555",
+      "symbol": "IDO",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x617ba3d39e96c084e60c6db3f7b365a96ee4e555.png"
+    },
+    {
+      "name": "MONI",
+      "address": "0x9573c88ae3e37508f87649f87c4dd5373c9f31e0",
+      "symbol": "MONI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9573c88ae3e37508f87649f87c4dd5373c9f31e0.png"
+    },
+    {
+      "name": "CATE",
+      "address": "0xe4fae3faa8300810c835970b9187c268f55d998f",
+      "symbol": "CATE",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe4fae3faa8300810c835970b9187c268f55d998f.png"
+    },
+    {
+      "name": "XL",
+      "address": "0x61ae5b63c8f7400c21613f882c9b0a8eec586a10",
+      "symbol": "XL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x61ae5b63c8f7400c21613f882c9b0a8eec586a10.png"
     }
   ]
 }
