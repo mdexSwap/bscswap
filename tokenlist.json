@@ -1987,6 +1987,30 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x61ae5b63c8f7400c21613f882c9b0a8eec586a10.png"
+    },
+    {
+      "name": "ASPO",
+      "address": "0x1a9b49e9f075c37fe5f86c916bac9deb33556d7e",
+      "symbol": "ASPO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1a9b49e9f075c37fe5f86c916bac9deb33556d7e.png"
+    },
+    {
+      "name": "CDT",
+      "address": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+      "symbol": "CDT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece.png"
+    },
+    {
+      "name": "ARCANE",
+      "address": "0x477565b356b3973d16e8cd837c6970613f13e24a",
+      "symbol": "ARCANE",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x477565b356b3973d16e8cd837c6970613f13e24a.png"
     }
   ]
 }
