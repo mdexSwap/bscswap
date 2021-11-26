@@ -2043,6 +2043,30 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x8263cd1601fe73c066bf49cc09841f35348e3be0.png"
+    },
+    {
+      "name": "THG",
+      "address": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
+      "symbol": "THG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9fd87aefe02441b123c3c32466cd9db4c578618f.png"
+    },
+    {
+      "name": "BLWA",
+      "address": "0x5c7c45e7c8febb2a16092fe32bc465e88d4389eb",
+      "symbol": "BLWA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5c7c45e7c8febb2a16092fe32bc465e88d4389eb.png"
+    },
+    {
+      "name": "FINA",
+      "address": "0x426c72701833fddbdfc06c944737c6031645c708",
+      "symbol": "FINA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x426c72701833fddbdfc06c944737c6031645c708.png"
     }
   ]
 }
