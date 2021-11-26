@@ -2067,6 +2067,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x426c72701833fddbdfc06c944737c6031645c708.png"
+    },
+    {
+      "name": "NABOX",
+      "address": "0x755f34709e369d37c6fa52808ae84a32007d1155",
+      "symbol": "NABOX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x755f34709e369d37c6fa52808ae84a32007d1155.png"
     }
   ]
 }
