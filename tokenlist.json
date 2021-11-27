@@ -2075,6 +2075,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x755f34709e369d37c6fa52808ae84a32007d1155.png"
+    },
+    {
+      "name": "DAR",
+      "address": "0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978",
+      "symbol": "DAR",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978.png"
     }
   ]
 }
