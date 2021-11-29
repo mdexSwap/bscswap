@@ -2083,6 +2083,30 @@
       "decimals": 6,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978.png"
+    },
+    {
+      "name": "Rici",
+      "address": "0x96a938d3a91e864cc9f342b8b5cfce06d0bc8cea",
+      "symbol": "Rici",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x96a938d3a91e864cc9f342b8b5cfce06d0bc8cea.png"
+    },
+    {
+      "name": "GYRO",
+      "address": "0x1b239abe619e74232c827fbe5e49a4c072bd869d",
+      "symbol": "GYRO",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1b239abe619e74232c827fbe5e49a4c072bd869d.png"
+    },
+    {
+      "name": "sGyro",
+      "address": "0xdc93eb0eb1bf2ac6da14b3ee54a8d7fbb15bb058",
+      "symbol": "sGyro",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xdc93eb0eb1bf2ac6da14b3ee54a8d7fbb15bb058.png"
     }
   ]
 }
