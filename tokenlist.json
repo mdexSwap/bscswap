@@ -2107,6 +2107,30 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xdc93eb0eb1bf2ac6da14b3ee54a8d7fbb15bb058.png"
+    },
+    {
+      "name": "HERO",
+      "address": "0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13",
+      "symbol": "HERO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13.png"
+    },
+    {
+      "name": "GODZ",
+      "address": "0xf0a8ecbce8caadb7a07d1fcd0f87ae1bd688df43",
+      "symbol": "GODZ",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf0a8ecbce8caadb7a07d1fcd0f87ae1bd688df43.png"
+    },
+    {
+      "name": "HTD",
+      "address": "0x5e2689412fae5c29bd575fbe1d5c1cd1e0622a8f",
+      "symbol": "HTD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5e2689412fae5c29bd575fbe1d5c1cd1e0622a8f.png"
     }
   ]
 }
