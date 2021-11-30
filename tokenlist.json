@@ -2123,6 +2123,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x5e2689412fae5c29bd575fbe1d5c1cd1e0622a8f.png"
+    },
+    {
+      "name": "DXCT",
+      "address": "0x5b1baec64af6dc54e6e04349315919129a6d3c23",
+      "symbol": "DXCT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5b1baec64af6dc54e6e04349315919129a6d3c23.png"
     }
   ]
 }
