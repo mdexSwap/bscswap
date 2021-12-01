@@ -364,5 +364,7 @@
   "text110": "Check my holdings",
   "text112": ". If their holdings meet the requirements, they will automatically become KOLs and enjoy the corresponding commision reward.",
   "text113": "(Update next day)",
-  "viewRules": "View rules"
+  "viewRules": "View rules",
+
+  "tex114": "The invitation rebate reward (HECO) during {{date}} has been distributed.Because of the data latency of the BSC block, the invitation  rebate reward on BSC has not been issued temporarily, and the distribution time will be released on the official MDEX announcement.We apologize for any inconvenience this may have caused and appreciate your understanding."
 }
