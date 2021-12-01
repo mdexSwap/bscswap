@@ -2101,9 +2101,9 @@
       "logoURI":  "https://mdex.co/token-icons/bsc/0x1b239abe619e74232c827fbe5e49a4c072bd869d.png"
     },
     {
-      "name": "sGyro",
+      "name": "sGYRO",
       "address": "0xdc93eb0eb1bf2ac6da14b3ee54a8d7fbb15bb058",
-      "symbol": "sGyro",
+      "symbol": "sGYRO",
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xdc93eb0eb1bf2ac6da14b3ee54a8d7fbb15bb058.png"
@@ -2131,6 +2131,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x5b1baec64af6dc54e6e04349315919129a6d3c23.png"
+    },
+    {
+      "name": "CSHIP",
+      "address": "0x6218079f1a5d50d3a8358093699b9943a662ef7c",
+      "symbol": "CSHIP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6218079f1a5d50d3a8358093699b9943a662ef7c.png"
     }
   ]
 }
