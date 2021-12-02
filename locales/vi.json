@@ -151,7 +151,7 @@
   "invalidpair": "Cặp không hợp lệ",
   "createpool": "Tạo pool.",
   "Loading": "Đang tải",
-  "text30": "Bằng cách tăng thanh khoản, bạn sẽ nhận được phần thưởng MDX. Nếu bạn cung cấp các giao dịch thanh khoản không hỗ trợ tính thanh khoản để có được MDX, bạn sẽ không thể nhận được phần thưởng MDX vào lúc này.",
+  "text30": "By adding liquidity you'll earn 0.2% of all trades on this pair proportional to your share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.",
   "transactionSubmitted": "Giao dịch đã được gửi",
   "text31": "Tổng số mã thông báo pool của bạn:",
   "text32": "Pool mã thông báo trong pool phần thưởng:",
@@ -338,5 +338,7 @@
   "MDEXDomain": "Tên miền mới nhất của MDEX",
   "text93": "Tiền điện tử là sản phẩm đầu tư có rủi ro cao. Bạn phải chịu trách nhiệm về các lựa chọn đầu tư của mình. Mdex chỉ hoạt động như một sàn giao dịch phi tập trung và sẽ không đảm bảo thu nhập hoặc bồi thường nếu tổn thất xảy ra.",
   "invitePlan": "Tham gia hệ thống giới thiệu",
-  "text94": "The invitation commision from November 5th to 7th, which was not distributed due to the block lag, has been paid out together with the commision this week."
+  "text94": "The invitation commision from November 5th to 7th, which was not distributed due to the block lag, has been paid out together with the commision this week.",
+
+  "text115": "Each transaction needs to pay a 0.3% transaction fee, of which\n-Liquidity providers: 0.2%\n-Contribution to the repurchase fund pool: 0.07%\n-Contribution to reward pool of the boardroom: 0.03%"
 }

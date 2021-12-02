@@ -118,7 +118,7 @@
   "minimumreceived": "Minimum received",
   "maximumSold": "Maximum sold",
   "Impact": "Price Impact",
-  "liquidityFee": "Trade Fee",
+  "liquidityFee": "Liquidity Provider Fee：",
   "text8": "Output is estimated. You will receive at least",
   "text9": "or the transaction will revert.",
   "text10": "Input is estimated. You will sell at most",
@@ -151,7 +151,7 @@
   "invalidpair": "Invalid pair",
   "createpool": "Create pool.",
   "Loading": "Loading",
-  "text30": "By increasing liquidity, you will get MDX rewards. If you provide liquidity transactions that do not support liquidity to obtain MDX, you will not be able to get MDX rewards for the time being.",
+  "text30": "By adding liquidity you'll earn 0.2% of all trades on this pair proportional to your share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.",
   "transactionSubmitted": "Transaction Submitted",
   "text31": "Your total pool tokens:",
   "text32": "Pool tokens in rewards pool:",
@@ -366,5 +366,6 @@
   "text113": "(Update next day)",
   "viewRules": "View rules",
 
-  "tex114": "The invitation rebate reward (HECO) during {{date}} has been distributed.Because of the data latency of the BSC block, the invitation  rebate reward on BSC has not been issued temporarily, and the distribution time will be released on the official MDEX announcement.We apologize for any inconvenience this may have caused and appreciate your understanding."
+  "tex114": "The invitation rebate reward (HECO) during {{date}} has been distributed.Because of the data latency of the BSC block, the invitation  rebate reward on BSC has not been issued temporarily, and the distribution time will be released on the official MDEX announcement.We apologize for any inconvenience this may have caused and appreciate your understanding.",
+  "text115": "Each transaction needs to pay a 0.3% transaction fee, of which\n-Liquidity providers: 0.2%\n-Contribution to the repurchase fund pool: 0.07%\n-Contribution to reward pool of the boardroom: 0.03%"
 }
