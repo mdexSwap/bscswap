@@ -2139,6 +2139,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x6218079f1a5d50d3a8358093699b9943a662ef7c.png"
+    },
+    {
+      "name": "ZUKI",
+      "address": "0xe81257d932280ae440b17afc5f07c8a110d21432",
+      "symbol": "ZUKI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe81257d932280ae440b17afc5f07c8a110d21432.png"
     }
   ]
 }
