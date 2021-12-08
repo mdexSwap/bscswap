@@ -2147,6 +2147,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xe81257d932280ae440b17afc5f07c8a110d21432.png"
+    },
+    {
+      "name": "MAHA",
+      "address": "0xce86f7fcd3b40791f63b86c3ea3b8b355ce2685b",
+      "symbol": "MAHA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xce86f7fcd3b40791f63b86c3ea3b8b355ce2685b.png"
+    },
+    {
+      "name": "HC",
+      "address": "0xa6e78ad3c9b4a79a01366d01ec4016eb3075d7a0",
+      "symbol": "HC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa6e78ad3c9b4a79a01366d01ec4016eb3075d7a0.png"
     }
   ]
 }
