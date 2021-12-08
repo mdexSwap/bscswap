@@ -1349,14 +1349,6 @@
       "logoURI":  "https://mdex.co/token-icons/bsc/0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51.png"
     },
     {
-      "name": "XTM",
-      "address": "0x3f526a5a8811cc1812d923d5dbb20e4b1c6028db",
-      "symbol": "XTM",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x3f526a5a8811cc1812d923d5dbb20e4b1c6028db.png"
-    },
-    {
       "name": "QBT",
       "address": "0x17b7163cf1dbd286e262ddc68b553d899b93f526",
       "symbol": "QBT",
