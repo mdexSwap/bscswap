@@ -2155,6 +2155,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xa6e78ad3c9b4a79a01366d01ec4016eb3075d7a0.png"
+    },
+    {
+      "name": "BABY",
+      "address": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657",
+      "symbol": "BABY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657.png"
     }
   ]
 }
