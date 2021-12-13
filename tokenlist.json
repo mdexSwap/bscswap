@@ -2163,6 +2163,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657.png"
+    },
+    {
+      "name": "SIP",
+      "address": "0x9e5965d28e8d44cae8f9b809396e0931f9df71ca",
+      "symbol": "SIP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9e5965d28e8d44cae8f9b809396e0931f9df71ca.png"
     }
   ]
 }
