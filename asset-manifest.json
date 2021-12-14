@@ -1,21 +1,21 @@
 {
   "files": {
-    "static/js/0.3204f26f.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/0.3204f26f.chunk.js",
-    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/main.e47d85b1.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/runtime-main.2e469d25.js",
+    "static/js/0.ae484113.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/0.ae484113.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/main.8afc46fd.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/runtime-main.710f393f.js",
     "static/css/3.5c3239fa.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/css/3.5c3239fa.chunk.css",
-    "static/js/3.1188bccc.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.1188bccc.chunk.js",
-    "static/js/4.61675201.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.61675201.chunk.js",
-    "static/js/5.7f428079.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/5.7f428079.chunk.js",
-    "static/js/6.e4b84b87.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.e4b84b87.chunk.js",
+    "static/js/3.a5df94f3.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.a5df94f3.chunk.js",
+    "static/js/4.636cbd63.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.636cbd63.chunk.js",
+    "static/js/5.e03a8ffc.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/5.e03a8ffc.chunk.js",
+    "static/js/6.14b56e63.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.14b56e63.chunk.js",
     "static/js/7.d311e8db.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/7.d311e8db.chunk.js",
     "static/js/8.782b8050.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/8.782b8050.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/index.html",
-    "precache-manifest.1eeb2495ca3e6dc9388f20abf3e7b14b.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/precache-manifest.1eeb2495ca3e6dc9388f20abf3e7b14b.js",
+    "precache-manifest.ff3c842db5360a6d188b63a07c9a8da9.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/precache-manifest.ff3c842db5360a6d188b63a07c9a8da9.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/service-worker.js",
-    "static/js/3.1188bccc.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.1188bccc.chunk.js.LICENSE.txt",
-    "static/js/4.61675201.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.61675201.chunk.js.LICENSE.txt",
-    "static/js/6.e4b84b87.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.e4b84b87.chunk.js.LICENSE.txt",
+    "static/js/3.a5df94f3.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/3.a5df94f3.chunk.js.LICENSE.txt",
+    "static/js/4.636cbd63.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/4.636cbd63.chunk.js.LICENSE.txt",
+    "static/js/6.14b56e63.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/js/6.14b56e63.chunk.js.LICENSE.txt",
     "static/media/Bsc-banner-h5.png": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Bsc-banner-h5.88fa5021.png",
     "static/media/Bsc-banner-pc.png": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Bsc-banner-pc.8cbb9b47.png",
     "static/media/Discord-hover.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/Discord-hover.67c60337.svg",
@@ -86,7 +86,6 @@
     "static/media/plus-blue.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/plus-blue.e8021e51.svg",
     "static/media/plus-grey.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/plus-grey.d8e0be7d.svg",
     "static/media/poster.png": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/poster.291d423f.png",
-    "static/media/pro.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/pro.e2b37372.svg",
     "static/media/question-mark.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/question-mark.1ae4d9f4.svg",
     "static/media/question.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/question.a46e8bc1.svg",
     "static/media/quotes.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/quotes.a24e0d06.svg",
@@ -103,9 +102,9 @@
     "static/media/x.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/bscswap@main/static/media/x.5b8e2186.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e469d25.js",
+    "static/js/runtime-main.710f393f.js",
     "static/css/3.5c3239fa.chunk.css",
-    "static/js/3.1188bccc.chunk.js",
-    "static/js/main.e47d85b1.chunk.js"
+    "static/js/3.a5df94f3.chunk.js",
+    "static/js/main.8afc46fd.chunk.js"
   ]
 }
