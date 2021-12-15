@@ -2171,6 +2171,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x9e5965d28e8d44cae8f9b809396e0931f9df71ca.png"
+    },
+    {
+      "name": "Zoo",
+      "address": "0x1d229b958d5ddfca92146585a8711aecbe56f095",
+      "symbol": "Zoo",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1d229b958d5ddfca92146585a8711aecbe56f095.png"
     }
   ]
 }
