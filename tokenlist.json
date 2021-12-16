@@ -2179,6 +2179,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x1d229b958d5ddfca92146585a8711aecbe56f095.png"
+    },
+    {
+      "name": "TOP",
+      "address": "0x16de6497292ca52d10038c641bd1d518113a51dc",
+      "symbol": "TOP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x16de6497292ca52d10038c641bd1d518113a51dc.png"
+    },
+    {
+      "name": "GER",
+      "address": "0x0e9b29aa5aed3d65867db8b980484c8c49a7f915",
+      "symbol": "GER",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0e9b29aa5aed3d65867db8b980484c8c49a7f915.png"
     }
   ]
 }
