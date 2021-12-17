@@ -2195,6 +2195,30 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x0e9b29aa5aed3d65867db8b980484c8c49a7f915.png"
+    },
+    {
+      "name": "SSS",
+      "address": "0xc3028fbc1742a16a5d69de1b334cbce28f5d7eb3",
+      "symbol": "SSS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc3028fbc1742a16a5d69de1b334cbce28f5d7eb3.png"
+    },
+    {
+      "name": "SHEESHA",
+      "address": "0x232fb065d9d24c34708eedbf03724f2e95abe768",
+      "symbol": "SHEESHA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x232fb065d9d24c34708eedbf03724f2e95abe768.png"
+    },
+    {
+      "name": "RGOLD",
+      "address": "0x0496ccd13c9848f9c7d1507d1dd86a360b51b596",
+      "symbol": "RGOLD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0496ccd13c9848f9c7d1507d1dd86a360b51b596.png"
     }
   ]
 }
