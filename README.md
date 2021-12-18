@@ -1,4 +1,4 @@
-# bscswap
+# bscswap [![pages-build-deployment](https://github.com/mdexSwap/bscswap/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/mdexSwap/bscswap/actions/workflows/pages/pages-build-deployment)
 
 ```
 factory:
