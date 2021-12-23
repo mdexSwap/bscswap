@@ -2219,6 +2219,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x0496ccd13c9848f9c7d1507d1dd86a360b51b596.png"
+    },
+    {
+      "name": "VBN",
+      "address": "0x4b41ca61f5fbe12ddba38bc2d8bacc5f68fd491f",
+      "symbol": "VBN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4b41ca61f5fbe12ddba38bc2d8bacc5f68fd491f.png"
     }
   ]
 }
