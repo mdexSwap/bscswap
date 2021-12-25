@@ -2235,6 +2235,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x1fd991fb6c3102873ba68a4e6e6a87b3a5c10271.png"
+    },
+    {
+      "name": "WAG",
+      "address": "0x7fa7df4996ac59f398476892cfb195ed38543520",
+      "symbol": "WAG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7fa7df4996ac59f398476892cfb195ed38543520.png"
     }
   ]
 }
