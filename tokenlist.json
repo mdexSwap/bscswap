@@ -2227,6 +2227,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x4b41ca61f5fbe12ddba38bc2d8bacc5f68fd491f.png"
+    },
+    {
+      "name": "ATL",
+      "address": "0x1fd991fb6c3102873ba68a4e6e6a87b3a5c10271",
+      "symbol": "ATL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1fd991fb6c3102873ba68a4e6e6a87b3a5c10271.png"
     }
   ]
 }
