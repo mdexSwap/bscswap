@@ -2243,6 +2243,38 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x7fa7df4996ac59f398476892cfb195ed38543520.png"
+    },
+    {
+      "name": "SYN",
+      "address": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
+      "symbol": "SYN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa4080f1778e69467e905b8d6f72f6e441f9e9484.png"
+    },
+    {
+      "name": "COGI",
+      "address": "0x6cb755c4b82e11e727c05f697c790fdbc4253957",
+      "symbol": "COGI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6cb755c4b82e11e727c05f697c790fdbc4253957.png"
+    },
+    {
+      "name": "WNOW",
+      "address": "0x56aa0237244c67b9a854b4efe8479cca0b105289",
+      "symbol": "WNOW",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x56aa0237244c67b9a854b4efe8479cca0b105289.png"
+    },
+    {
+      "name": "CB",
+      "address": "0xf66a8a197d5cb0e2799d79be115208899332a0ba",
+      "symbol": "CB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf66a8a197d5cb0e2799d79be115208899332a0ba.png"
     }
   ]
 }
