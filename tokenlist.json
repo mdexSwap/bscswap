@@ -2275,6 +2275,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xf66a8a197d5cb0e2799d79be115208899332a0ba.png"
+    },
+    {
+      "name": "PACOCA",
+      "address": "0x55671114d774ee99d653d6c12460c780a67f1d18",
+      "symbol": "PACOCA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x55671114d774ee99d653d6c12460c780a67f1d18.png"
     }
   ]
 }
