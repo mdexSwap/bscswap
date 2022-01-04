@@ -2283,6 +2283,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x55671114d774ee99d653d6c12460c780a67f1d18.png"
+    },
+    {
+      "name": "SALE",
+      "address": "0x04f73a09e2eb410205be256054794fb452f0d245",
+      "symbol": "SALE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x04f73a09e2eb410205be256054794fb452f0d245.png"
     }
   ]
 }
