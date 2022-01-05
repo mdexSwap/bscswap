@@ -2291,6 +2291,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x04f73a09e2eb410205be256054794fb452f0d245.png"
+    },
+    {
+      "name": "LAC",
+      "address": "0xe6f079e74000a0afc517c1eff9624d866d163b75",
+      "symbol": "LAC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe6f079e74000a0afc517c1eff9624d866d163b75.png"
+    },
+    {
+      "name": "MON",
+      "address": "0x5e4f0f6fac92e76e41a0d043df565fe8fbfc1de3",
+      "symbol": "MON",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5e4f0f6fac92e76e41a0d043df565fe8fbfc1de3.png"
     }
   ]
 }
