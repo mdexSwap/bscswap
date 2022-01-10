@@ -2307,6 +2307,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x5e4f0f6fac92e76e41a0d043df565fe8fbfc1de3.png"
+    },
+    {
+      "name": "MTW",
+      "address": "0xfce3efebc79d21a6b7cc7f3a7216e66e81f4b23b",
+      "symbol": "MTW",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xfce3efebc79d21a6b7cc7f3a7216e66e81f4b23b.png"
     }
   ]
 }
