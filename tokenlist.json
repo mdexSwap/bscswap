@@ -2315,6 +2315,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xfce3efebc79d21a6b7cc7f3a7216e66e81f4b23b.png"
+    },
+    {
+      "name": "AVN",
+      "address": "0xbf151f63d8d1287db5fc7a3bc104a9c38124cdeb",
+      "symbol": "AVN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbf151f63d8d1287db5fc7a3bc104a9c38124cdeb.png"
     }
   ]
 }
