@@ -2323,6 +2323,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xbf151f63d8d1287db5fc7a3bc104a9c38124cdeb.png"
+    },
+    {
+      "name": "FHTN",
+      "address": "0x87be0b856960f57fb0104ef0922cd1dacbd37f64",
+      "symbol": "FHTN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x87be0b856960f57fb0104ef0922cd1dacbd37f64.png"
+    },
+    {
+      "name": "SPC",
+      "address": "0xa2f017966d967ec697c7a20cf9d0b43cb8d4ff1d",
+      "symbol": "SPC",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa2f017966d967ec697c7a20cf9d0b43cb8d4ff1d.png"
     }
   ]
 }
