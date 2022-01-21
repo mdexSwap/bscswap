@@ -2339,6 +2339,22 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xa2f017966d967ec697c7a20cf9d0b43cb8d4ff1d.png"
+    },
+    {
+      "name": "LEPA",
+      "address": "0xa4050aa9b76ccdae1a6a8b2f3e8627cdc1546d86",
+      "symbol": "LEPA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa4050aa9b76ccdae1a6a8b2f3e8627cdc1546d86.png"
+    },
+    {
+      "name": "KLV",
+      "address": "0xf78cd79b6938c882a388278ee15a2e7d17fd229f",
+      "symbol": "KLV",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf78cd79b6938c882a388278ee15a2e7d17fd229f.png"
     }
   ]
 }
