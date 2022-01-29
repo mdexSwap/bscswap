@@ -2355,6 +2355,14 @@
       "decimals": 6,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xf78cd79b6938c882a388278ee15a2e7d17fd229f.png"
+    },
+    {
+      "name": "IVS",
+      "address": "0x0310fe5aebe72308154ad01bf5ec80011cfbfc9c",
+      "symbol": "IVS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0310fe5aebe72308154ad01bf5ec80011cfbfc9c.png"
     }
   ]
 }
