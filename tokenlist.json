@@ -2363,6 +2363,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x0310fe5aebe72308154ad01bf5ec80011cfbfc9c.png"
+    },
+    {
+      "name": "DogeKing",
+      "address": "0x641ec142e67ab213539815f67e4276975c2f8d50",
+      "symbol": "DogeKing",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x641ec142e67ab213539815f67e4276975c2f8d50.png"
     }
   ]
 }
