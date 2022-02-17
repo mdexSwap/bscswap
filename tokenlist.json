@@ -2371,6 +2371,30 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x641ec142e67ab213539815f67e4276975c2f8d50.png"
+    },
+    {
+      "name": "MSC",
+      "address": "0xeacad6c99965cde0f31513dd72de79fa24610767",
+      "symbol": "MSC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xeacad6c99965cde0f31513dd72de79fa24610767.png"
+    },
+    {
+      "name": "SPG",
+      "address": "0x0ecaf010fc192e2d5cbeb4dfb1fee20fbd733aa1",
+      "symbol": "SPG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0ecaf010fc192e2d5cbeb4dfb1fee20fbd733aa1.png"
+    },
+    {
+      "name": "DOME",
+      "address": "0x475bfaa1848591ae0e6ab69600f48d828f61a80e",
+      "symbol": "DOME",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x475bfaa1848591ae0e6ab69600f48d828f61a80e.png"
     }
   ]
 }
