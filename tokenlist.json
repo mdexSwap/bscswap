@@ -2395,6 +2395,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x475bfaa1848591ae0e6ab69600f48d828f61a80e.png"
+    },
+    {
+      "name": "Oppa",
+      "address": "0xe3861027f1867f25d9b0313ee633485121ddb40b",
+      "symbol": "Oppa",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe3861027f1867f25d9b0313ee633485121ddb40b.png"
     }
   ]
 }
