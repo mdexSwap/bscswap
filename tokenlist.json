@@ -2403,6 +2403,22 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xe3861027f1867f25d9b0313ee633485121ddb40b.png"
+    },
+    {
+      "name": "Froyo",
+      "address": "0xe369fec23380f9f14ffd07a1dc4b7c1a9fdd81c9",
+      "symbol": "Froyo",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe369fec23380f9f14ffd07a1dc4b7c1a9fdd81c9.png"
+    },
+    {
+      "name": "MEER",
+      "address": "0xba552586ea573eaa3436f04027ff4effd0c0abbb",
+      "symbol": "MEER",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xba552586ea573eaa3436f04027ff4effd0c0abbb.png"
     }
   ]
 }
