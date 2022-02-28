@@ -2451,6 +2451,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x477bc8d23c634c154061869478bce96be6045d12.png"
+    },
+    {
+      "name": "METAN",
+      "address": "0x879d239bcc0356cf9df8c90442488bce99554c66",
+      "symbol": "METAN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x879d239bcc0356cf9df8c90442488bce99554c66.png"
     }
   ]
 }
