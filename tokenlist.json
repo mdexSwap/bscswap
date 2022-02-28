@@ -2419,6 +2419,38 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xba552586ea573eaa3436f04027ff4effd0c0abbb.png"
+    },
+    {
+      "name": "CATS",
+      "address": "0x3b3691d4c3ec75660f203f41adc6296a494404d0",
+      "symbol": "CATS",
+      "decimals": 0,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3b3691d4c3ec75660f203f41adc6296a494404d0.png"
+    },
+    {
+      "name": "MPL",
+      "address": "0xba007b6170c602c08545ff97395677408688d3a2",
+      "symbol": "MPL",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xba007b6170c602c08545ff97395677408688d3a2.png"
+    },
+    {
+      "name": "LIBERO",
+      "address": "0x0dfcb45eae071b3b846e220560bbcdd958414d78",
+      "symbol": "LIBERO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0dfcb45eae071b3b846e220560bbcdd958414d78.png"
+    },
+    {
+      "name": "SFUND",
+      "address": "0x477bc8d23c634c154061869478bce96be6045d12",
+      "symbol": "SFUND",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x477bc8d23c634c154061869478bce96be6045d12.png"
     }
   ]
 }
