@@ -2459,6 +2459,30 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x879d239bcc0356cf9df8c90442488bce99554c66.png"
+    },
+    {
+      "name": "KUNCI",
+      "address": "0x6cf271270662be1c4fc1b7bb7d7d7fc60cc19125",
+      "symbol": "KUNCI",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6cf271270662be1c4fc1b7bb7d7d7fc60cc19125.png"
+    },
+    {
+      "name": "SPRT",
+      "address": "0x56156fb7860d7eb0b4b1a5356c5354b295194a45",
+      "symbol": "SPRT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x56156fb7860d7eb0b4b1a5356c5354b295194a45.png"
+    },
+    {
+      "name": "ACT",
+      "address": "0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d",
+      "symbol": "ACT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d.png"
     }
   ]
 }
