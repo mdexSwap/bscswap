@@ -2483,6 +2483,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d.png"
+    },
+    {
+      "name": "SFD",
+      "address": "0x95d2dfea6f81ee9a6f23bc0b45d5204e548c7f69",
+      "symbol": "SFD",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x95d2dfea6f81ee9a6f23bc0b45d5204e548c7f69.png"
+    },
+    {
+      "name": "WAL",
+      "address": "0xd306c124282880858a634e7396383ae58d37c79c",
+      "symbol": "WAL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd306c124282880858a634e7396383ae58d37c79c.png"
     }
   ]
 }
