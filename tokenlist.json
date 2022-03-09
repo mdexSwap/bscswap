@@ -2499,6 +2499,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xd306c124282880858a634e7396383ae58d37c79c.png"
+    },
+    {
+      "name": "CBT",
+      "address": "0x7c73967dc8c804ea028247f5a953052f0cd5fd58",
+      "symbol": "CBT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7c73967dc8c804ea028247f5a953052f0cd5fd58.png"
+    },
+    {
+      "name": "UANG",
+      "address": "0xedd18ee4808a9e75a2e11d1e1a0aa68b12c97140",
+      "symbol": "UANG",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xedd18ee4808a9e75a2e11d1e1a0aa68b12c97140.png"
     }
   ]
 }
