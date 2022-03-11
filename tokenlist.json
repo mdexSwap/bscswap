@@ -2515,6 +2515,14 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xedd18ee4808a9e75a2e11d1e1a0aa68b12c97140.png"
+    },
+    {
+      "name": "MPL",
+      "address": "0x900826d622229d5cd25d8917c41155b051f92d1d",
+      "symbol": "MPL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x900826d622229d5cd25d8917c41155b051f92d1d.png"
     }
   ]
 }
