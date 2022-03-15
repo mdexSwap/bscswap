@@ -2531,6 +2531,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x3b0e967ce7712ec68131a809db4f78ce9490e779.png"
+    },
+    {
+      "name": "OSW",
+      "address": "0xa21b0f29bc488df22bbd76b9fda8539ba9c11fdc",
+      "symbol": "OSW",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa21b0f29bc488df22bbd76b9fda8539ba9c11fdc.png"
     }
   ]
 }
