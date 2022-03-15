@@ -2523,6 +2523,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x900826d622229d5cd25d8917c41155b051f92d1d.png"
+    },
+    {
+      "name": "SON",
+      "address": "0x3b0e967ce7712ec68131a809db4f78ce9490e779",
+      "symbol": "SON",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3b0e967ce7712ec68131a809db4f78ce9490e779.png"
     }
   ]
 }
