@@ -2539,6 +2539,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xa21b0f29bc488df22bbd76b9fda8539ba9c11fdc.png"
+    },
+    {
+      "name": "INAZ",
+      "address": "0x6e551e88d0ed3ebd56f6b1f42b03bf9e4d68c47f",
+      "symbol": "INAZ",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6e551e88d0ed3ebd56f6b1f42b03bf9e4d68c47f.png"
     }
   ]
 }
