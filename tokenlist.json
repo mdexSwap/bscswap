@@ -2547,6 +2547,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x6e551e88d0ed3ebd56f6b1f42b03bf9e4d68c47f.png"
+    },
+    {
+      "name": "ASTAR",
+      "address": "0x9eeddb9da3bcbfdcfbf075441a9e14c6a8899999",
+      "symbol": "ASTAR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9eeddb9da3bcbfdcfbf075441a9e14c6a8899999.png"
     }
   ]
 }
