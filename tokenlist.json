@@ -2579,6 +2579,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xb0d502e938ed5f4df2e681fe6e419ff29631d62b.png"
+    },
+    {
+      "name": "MARK",
+      "address": "0x6ea5f827130e81c6b82b6b852b7f0b505110e939",
+      "symbol": "MARK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6ea5f827130e81c6b82b6b852b7f0b505110e939.png"
     }
   ]
 }
