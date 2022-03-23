@@ -2587,6 +2587,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x6ea5f827130e81c6b82b6b852b7f0b505110e939.png"
+    },
+    {
+      "name": "MIT",
+      "address": "0xe6906717f129427eebade5406de68cadd57aa0c0",
+      "symbol": "MIT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe6906717f129427eebade5406de68cadd57aa0c0.png"
+    },
+    {
+      "name": "DPAD",
+      "address": "0x4dcaaa68170053afbbde15774931adba09272a55",
+      "symbol": "DPAD",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4dcaaa68170053afbbde15774931adba09272a55.png"
     }
   ]
 }
