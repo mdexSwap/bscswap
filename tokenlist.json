@@ -2603,6 +2603,14 @@
       "decimals": 8,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x4dcaaa68170053afbbde15774931adba09272a55.png"
+    },
+    {
+      "name": "LOOP",
+      "address": "0xce186ad6430e2fe494a22c9edbd4c68794a28b35",
+      "symbol": "LOOP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xce186ad6430e2fe494a22c9edbd4c68794a28b35.png"
     }
   ]
 }
