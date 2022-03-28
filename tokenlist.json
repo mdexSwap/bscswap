@@ -2611,6 +2611,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xce186ad6430e2fe494a22c9edbd4c68794a28b35.png"
+    },
+    {
+      "name": "CFY",
+      "address": "0xd8bf8c31dc7cb21d34fe5bc5cfceaf21e29f22f6",
+      "symbol": "CFY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd8bf8c31dc7cb21d34fe5bc5cfceaf21e29f22f6.png"
     }
   ]
 }
