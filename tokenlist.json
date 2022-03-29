@@ -2619,6 +2619,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xd8bf8c31dc7cb21d34fe5bc5cfceaf21e29f22f6.png"
+    },
+    {
+      "name": "ZORO",
+      "address": "0x05ad901cf196cbdceab3f8e602a47aadb1a2e69d",
+      "symbol": "ZORO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x05ad901cf196cbdceab3f8e602a47aadb1a2e69d.png"
+    },
+    {
+      "name": "SpacePi",
+      "address": "0x69b14e8d3cebfdd8196bfe530954a0c226e5008e",
+      "symbol": "SpacePi",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x69b14e8d3cebfdd8196bfe530954a0c226e5008e.png"
     }
   ]
 }
