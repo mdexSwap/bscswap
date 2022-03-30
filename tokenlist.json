@@ -2635,6 +2635,14 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x69b14e8d3cebfdd8196bfe530954a0c226e5008e.png"
+    },
+    {
+      "name": "DIGIS",
+      "address": "0x0ff81f18bcb9519ac6027c732d196945ca4d2a9a",
+      "symbol": "DIGIS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0ff81f18bcb9519ac6027c732d196945ca4d2a9a.png"
     }
   ]
 }
