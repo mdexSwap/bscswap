@@ -2643,6 +2643,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x0ff81f18bcb9519ac6027c732d196945ca4d2a9a.png"
+    },
+    {
+      "name": "LMV",
+      "address": "0xafc15d3e7ae22bf2c6d4e0855ad576cf31592d2b",
+      "symbol": "LMV",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xafc15d3e7ae22bf2c6d4e0855ad576cf31592d2b.png"
     }
   ]
 }
