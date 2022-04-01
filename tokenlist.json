@@ -1,5 +1,5 @@
 {
-  "name": "MDEX token List",
+  "name": "MDEX BSC token List",
   "timestamp": "2020-08-11T22:55:13.889Z",
   "version": {
     "major": 1,
@@ -10,30 +10,10 @@
   "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
   "keywords": [
     "MDEX",
-    "default"
+    "default",
+    "BSC"
   ],
   "tokens": [
-    {
-      "name": "AAA",
-      "address": "0x108a277F3CB612bB868Ae825Bd78FaD58d2FB8E9",
-      "symbol": "AAA",
-      "decimals": 18,
-      "chainId": 97
-    },
-    {
-      "name": "BBB",
-      "address": "0xa874f94083c739E40BB75D3AC2d1dF4C3134f461",
-      "symbol": "BBB",
-      "decimals": 18,
-      "chainId": 97
-    },
-    {
-      "name": "CCC",
-      "address": "0xc67dd064d70C6f391598cB979521488dc13aE416",
-      "symbol": "CCC",
-      "decimals": 18,
-      "chainId": 97
-    },
     {
       "name": "Wrapped BNB",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
