@@ -2631,6 +2631,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xafc15d3e7ae22bf2c6d4e0855ad576cf31592d2b.png"
+    },
+    {
+      "name": "TRK",
+      "address": "0xa2e3e2817f00822f3c1e71a604eca4196af923d6",
+      "symbol": "TRK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa2e3e2817f00822f3c1e71a604eca4196af923d6.png"
     }
   ]
 }
