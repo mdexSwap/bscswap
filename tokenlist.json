@@ -2639,6 +2639,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xa2e3e2817f00822f3c1e71a604eca4196af923d6.png"
+    },
+    {
+      "name": "DXL",
+      "address": "0xe66eed5872b05b58fde34aabdd19449e84374383",
+      "symbol": "DXL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe66eed5872b05b58fde34aabdd19449e84374383.png"
     }
   ]
 }
