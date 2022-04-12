@@ -2647,6 +2647,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xe66eed5872b05b58fde34aabdd19449e84374383.png"
+    },
+    {
+      "name": "GMM",
+      "address": "0x5b6bf0c7f989de824677cfbd507d9635965e9cd3",
+      "symbol": "GMM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5b6bf0c7f989de824677cfbd507d9635965e9cd3.png"
     }
   ]
 }
