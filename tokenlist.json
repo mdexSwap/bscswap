@@ -2655,6 +2655,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x5b6bf0c7f989de824677cfbd507d9635965e9cd3.png"
+    },
+    {
+      "name": "MTRG",
+      "address": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
+      "symbol": "MTRG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbd2949f67dcdc549c6ebe98696449fa79d988a9f.png"
     }
   ]
 }
