@@ -2663,6 +2663,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xbd2949f67dcdc549c6ebe98696449fa79d988a9f.png"
+    },
+    {
+      "name": "GMT",
+      "address": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1",
+      "symbol": "GMT",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1.png"
     }
   ]
 }
