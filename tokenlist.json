@@ -2671,6 +2671,14 @@
       "decimals": 8,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1.png"
+    },
+    {
+      "name": "MIND",
+      "address": "0xaeadf3de0b0bba4d137c35d64e67a7691366c1db",
+      "symbol": "MIND",
+      "decimals": 5,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xaeadf3de0b0bba4d137c35d64e67a7691366c1db.png"
     }
   ]
 }
