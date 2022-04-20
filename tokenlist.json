@@ -2679,6 +2679,14 @@
       "decimals": 5,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xaeadf3de0b0bba4d137c35d64e67a7691366c1db.png"
+    },
+    {
+      "name": "PLATO",
+      "address": "0xf2572fdacf09bfae08ff7d35423870b5a8ac26b7",
+      "symbol": "PLATO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf2572fdacf09bfae08ff7d35423870b5a8ac26b7.png"
     }
   ]
 }
