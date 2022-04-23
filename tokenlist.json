@@ -2687,6 +2687,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xf2572fdacf09bfae08ff7d35423870b5a8ac26b7.png"
+    },
+    {
+      "name": "DEMEN",
+      "address": "0x1fcd9e866324607512444103d2b8cd8d03c81998",
+      "symbol": "DEMEN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1fcd9e866324607512444103d2b8cd8d03c81998.png"
     }
   ]
 }
