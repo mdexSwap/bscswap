@@ -2695,6 +2695,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x1fcd9e866324607512444103d2b8cd8d03c81998.png"
+    },
+    {
+      "name": "VIM",
+      "address": "0x5bcd91c734d665fe426a5d7156f2ad7d37b76e30",
+      "symbol": "VIM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5bcd91c734d665fe426a5d7156f2ad7d37b76e30.png"
     }
   ]
 }
