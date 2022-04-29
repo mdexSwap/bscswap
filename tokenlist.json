@@ -2703,6 +2703,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x5bcd91c734d665fe426a5d7156f2ad7d37b76e30.png"
+    },
+    {
+      "name": "ELFT",
+      "address": "0x26b9a652e7d45fff08f2229a835862cdc811e54a",
+      "symbol": "ELFT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x26b9a652e7d45fff08f2229a835862cdc811e54a.png"
+    },
+    {
+      "name": "GST",
+      "address": "0x4a2c860cec6471b9f5f5a336eb4f38bb21683c98",
+      "symbol": "GST",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4a2c860cec6471b9f5f5a336eb4f38bb21683c98.png"
     }
   ]
 }
