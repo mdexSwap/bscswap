@@ -2735,6 +2735,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x3f56e0c36d275367b8c502090edf38289b3dea0d.png"
+    },
+    {
+      "name": "LUNA",
+      "address": "0x156ab3346823b651294766e23e6cf87254d68962",
+      "symbol": "LUNA",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x156ab3346823b651294766e23e6cf87254d68962.png"
+    },
+    {
+      "name": "UST",
+      "address": "0x3d4350cd54aef9f9b2c29435e0fa809957b3f30a",
+      "symbol": "UST",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3d4350cd54aef9f9b2c29435e0fa809957b3f30a.png"
     }
   ]
 }
