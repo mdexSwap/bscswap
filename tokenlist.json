@@ -2746,11 +2746,11 @@
     },
     {
       "name": "UST",
-      "address": "0x3d4350cd54aef9f9b2c29435e0fa809957b3f30a",
+      "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
       "symbol": "UST",
       "decimals": 6,
       "chainId": 56,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x3d4350cd54aef9f9b2c29435e0fa809957b3f30a.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x23396cf899ca06c4472205fc903bdb4de249d6fc.png"
     }
   ]
 }
