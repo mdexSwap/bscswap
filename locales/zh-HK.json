@@ -300,11 +300,11 @@
   "inviteReward": "邀請獎勵",
   "date": "日期",
   "withdrawableCommission": "可提取佣金",
-  "text92": "合約每週二發放前7天的獎勵",
+  "text92": "每月10日之前發放上個自然月的全部返佣獎勵",
   "rebates": "返現",
   "rebatesTips": "你當前所有未提取的返現金額",
   "withdrawableRebates": "可提取返現",
-  "withdrawableRebatesTips": "合約每週二發放前7天的獎勵",
+  "withdrawableRebatesTips": "每月10日之前發放上個自然月的全部返佣獎勵。",
   "successBinding": "成功綁定！",
   "scanTips": "請使用錢包掃描",
   "unknown": "未知來源",
@@ -355,5 +355,6 @@
 
   "tex114": "{{date}}日期間，HECO鏈邀請返佣獎勵已經發放完畢。受BSC區塊數據落後影響，BSC鏈邀請返佣獎勵暫時無法發放。具體發放時間請留意MDEX官方通知，對於給您造成的不便，敬請諒解。",
   "text115": "每筆交易需要支付0.3%手續費，其中\n-流動性提供者將獲得：0.2% \n-注入待回購銷毀池：0.07% \n-注入董事會待獎勵池：0.03%",
-  "limit": "限價交易"
+  "limit": "限價交易",
+  "vote": "投票挖礦"
 }

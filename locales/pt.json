@@ -323,11 +323,11 @@
 
   "date": "Data",
   "withdrawableCommission": "Comissão retirável",
-  "text92": "As recompensas para os primeiros 7 dias são distribuídas todas as terças-feiras",
+  "text92": "Antes do dia 10 de cada mês, todos os descontos de comissão do mês anterior serão emitidos",
   "rebates": "Descontos",
   "rebatesTips": "Suas comissões atuais não sacadas",
   "withdrawableRebates": "Descontos retiráveis",
-  "withdrawableRebatesTips": "As recompensas para os primeiros 7 dias são distribuídas todas as terças-feiras",
+  "withdrawableRebatesTips": "Antes do dia 10 de cada mês, todos os descontos de comissão do mês anterior serão emitidos",
   "successBinding": "Vinculado com sucesso!",
   "scanTips": "Digitalize com sua carteira de criptomoeda",
   "unknown": "Fonte desconhecida",
