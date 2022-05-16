@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>投票挖矿</title>
+    <g id="组件库" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="导航" transform="translate(-1771.000000, -323.000000)">
+            <g id="编组-15" transform="translate(0.000000, 223.000000)">
+                <g id="编组-10" transform="translate(1751.000000, 75.000000)">
+                    <g id="编组-8备份-6" transform="translate(0.000000, 15.000000)">
+                        <g id="编组-7" transform="translate(20.000000, 8.000000)">
+                            <g id="投票挖矿" transform="translate(0.000000, 2.000000)">
+                                <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+                                <path d="M1,7 L1,13 C1,14.1045695 1.8954305,15 3,15 L13,15 C14.1045695,15 15,14.1045695 15,13 L15,7 L15,7" id="路径-11" stroke="#90909E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <line x1="4.93682923" y1="11.5260625" x2="11.0735129" y2="11.5260625" id="路径-12" stroke="#90909E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                                <circle id="椭圆形" stroke="#90909E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" cx="8" cy="5" r="4"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
