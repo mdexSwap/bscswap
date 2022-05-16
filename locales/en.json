@@ -313,11 +313,11 @@
   "inviteReward": "Invite Reward",
   "date": "Date",
   "withdrawableCommission": "Withdrawable commission",
-  "text92": "Rewards for the first 7 days are distributed every Tuesday",
+  "text92": "Before the 10th of each month, all the commission rebates of the previous calendar month will be issued",
   "rebates": "Rebates",
   "rebatesTips": "Your current undrawn commissions",
   "withdrawableRebates": "Withdrawable Rebates",
-  "withdrawableRebatesTips": "Rewards for the first 7 days are distributed every Tuesday",
+  "withdrawableRebatesTips": "Before the 10th of each month, all the commission rebates of the previous calendar month will be issued",
   "successBinding": "Success Binding!",
   "scanTips": "Scan with your crypto wallet",
   "unknown": "Unknown Source",
@@ -368,5 +368,6 @@
 
   "tex114": "The invitation rebate reward (HECO) during {{date}} has been distributed.Because of the data latency of the BSC block, the invitation  rebate reward on BSC has not been issued temporarily, and the distribution time will be released on the official MDEX announcement.We apologize for any inconvenience this may have caused and appreciate your understanding.",
   "text115": "Each transaction needs to pay a 0.3% transaction fee, of which\n-Liquidity providers: 0.2%\n-Contribution to the repurchase fund pool: 0.07%\n-Contribution to reward pool of the boardroom: 0.03%",
-  "limit": "Limit order"
+  "limit": "Limit order",
+  "voting": "Voting mining"
 }
