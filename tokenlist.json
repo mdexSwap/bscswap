@@ -2751,6 +2751,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x23396cf899ca06c4472205fc903bdb4de249d6fc.png"
+    },
+    {
+      "name": "FGD",
+      "address": "0x0566b9a8ffb8908682796751eed00722da967be0",
+      "symbol": "FGD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0566b9a8ffb8908682796751eed00722da967be0.png"
     }
   ]
 }
