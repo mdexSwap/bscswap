@@ -2774,7 +2774,7 @@
       "symbol": "BEE",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0xe070cca5cdfb3f2b434fb91eaf67fa2084f324d7.png"
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xe070cca5cdfb3f2b434fb91eaf67fa2084f324d7.png"
     },
     {
       "name": "FIT",
@@ -2782,7 +2782,7 @@
       "symbol": "FIT",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x77922a521182a719a48ba650ac2a040269888888.png"
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x77922a521182a719a48ba650ac2a040269888888.png"
     }
   ]
 }
