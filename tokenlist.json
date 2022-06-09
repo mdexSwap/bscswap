@@ -2783,6 +2783,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x77922a521182a719a48ba650ac2a040269888888.png"
+    },
+    {
+      "name": "HOL",
+      "address": "0x3738762b74df5891e958f244c7f8176478bc5360",
+      "symbol": "HOL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x3738762b74df5891e958f244c7f8176478bc5360.png"
     }
   ]
 }
