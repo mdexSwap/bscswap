@@ -2791,6 +2791,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x3738762b74df5891e958f244c7f8176478bc5360.png"
+    },
+    {
+      "name": "MOVEZ",
+      "address": "0x039cd22cb49084142d55fcd4b6096a4f51ffb3b4",
+      "symbol": "MOVEZ",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x039cd22cb49084142d55fcd4b6096a4f51ffb3b4.png"
     }
   ]
 }
