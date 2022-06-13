@@ -2799,6 +2799,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x039cd22cb49084142d55fcd4b6096a4f51ffb3b4.png"
+    },
+    {
+      "name": "TRIAS",
+      "address": "0xa4838122c683f732289805fc3c207febd55babdd",
+      "symbol": "TRIAS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xa4838122c683f732289805fc3c207febd55babdd.png"
     }
   ]
 }
