@@ -2823,6 +2823,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xe13eb199b7ce7f0b211b4e937a18d2ae4e459710.png"
+    },
+    {
+      "name": "TIFI",
+      "address": "0x17e65e6b9b166fb8e7c59432f0db126711246bc0",
+      "symbol": "TIFI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x17e65e6b9b166fb8e7c59432f0db126711246bc0.png"
+    },
+    {
+      "name": "ANTA",
+      "address": "0x9eaf5369c9a9809bad8716591f9b2f68124ccd63",
+      "symbol": "ANTA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x9eaf5369c9a9809bad8716591f9b2f68124ccd63.png"
     }
   ]
 }
