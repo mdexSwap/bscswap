@@ -2839,6 +2839,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x9eaf5369c9a9809bad8716591f9b2f68124ccd63.png"
+    },
+    {
+      "name": "GBS",
+      "address": "0x2339d8326ec793af7b9e854776a58812430d3a62",
+      "symbol": "GBS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x2339d8326ec793af7b9e854776a58812430d3a62.png"
     }
   ]
 }
