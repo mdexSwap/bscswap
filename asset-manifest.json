@@ -1,21 +1,21 @@
 {
   "files": {
-    "static/js/0.3204f26f.chunk.js": "/static/js/0.3204f26f.chunk.js",
-    "main.js": "/static/js/main.439f816c.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.7989e6a5.js",
+    "static/js/0.2c622faf.chunk.js": "/static/js/0.2c622faf.chunk.js",
+    "main.js": "/static/js/main.ac9c8bdb.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.e14aece8.js",
     "static/css/3.9149a91a.chunk.css": "/static/css/3.9149a91a.chunk.css",
-    "static/js/3.df7c786a.chunk.js": "/static/js/3.df7c786a.chunk.js",
-    "static/js/4.879cd490.chunk.js": "/static/js/4.879cd490.chunk.js",
-    "static/js/5.6886a219.chunk.js": "/static/js/5.6886a219.chunk.js",
-    "static/js/6.a6681a6b.chunk.js": "/static/js/6.a6681a6b.chunk.js",
-    "static/js/7.b36505b4.chunk.js": "/static/js/7.b36505b4.chunk.js",
-    "static/js/8.b96e073e.chunk.js": "/static/js/8.b96e073e.chunk.js",
+    "static/js/3.130bc6c4.chunk.js": "/static/js/3.130bc6c4.chunk.js",
+    "static/js/4.05338791.chunk.js": "/static/js/4.05338791.chunk.js",
+    "static/js/5.b7512e80.chunk.js": "/static/js/5.b7512e80.chunk.js",
+    "static/js/6.26e4a20b.chunk.js": "/static/js/6.26e4a20b.chunk.js",
+    "static/js/7.382d7f76.chunk.js": "/static/js/7.382d7f76.chunk.js",
+    "static/js/8.99beb20e.chunk.js": "/static/js/8.99beb20e.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.096e5006435340eb7a5ebc5aa36fb49c.js": "/precache-manifest.096e5006435340eb7a5ebc5aa36fb49c.js",
+    "precache-manifest.31ad10849e335974c36a3f29d96eac37.js": "/precache-manifest.31ad10849e335974c36a3f29d96eac37.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/3.df7c786a.chunk.js.LICENSE.txt": "/static/js/3.df7c786a.chunk.js.LICENSE.txt",
-    "static/js/4.879cd490.chunk.js.LICENSE.txt": "/static/js/4.879cd490.chunk.js.LICENSE.txt",
-    "static/js/6.a6681a6b.chunk.js.LICENSE.txt": "/static/js/6.a6681a6b.chunk.js.LICENSE.txt",
+    "static/js/3.130bc6c4.chunk.js.LICENSE.txt": "/static/js/3.130bc6c4.chunk.js.LICENSE.txt",
+    "static/js/4.05338791.chunk.js.LICENSE.txt": "/static/js/4.05338791.chunk.js.LICENSE.txt",
+    "static/js/6.26e4a20b.chunk.js.LICENSE.txt": "/static/js/6.26e4a20b.chunk.js.LICENSE.txt",
     "static/media/Bsc-banner-h5.png": "/static/media/Bsc-banner-h5.88fa5021.png",
     "static/media/Bsc-banner-pc.png": "/static/media/Bsc-banner-pc.8cbb9b47.png",
     "static/media/Discord-hover.svg": "/static/media/Discord-hover.67c60337.svg",
@@ -83,6 +83,7 @@
     "static/media/new.svg": "/static/media/new.19aecd3a.svg",
     "static/media/news.svg": "/static/media/news.eb681dae.svg",
     "static/media/notice.svg": "/static/media/notice.d7ffac46.svg",
+    "static/media/okx_wallet.png": "/static/media/okx_wallet.025d264e.png",
     "static/media/plus-blue.svg": "/static/media/plus-blue.e8021e51.svg",
     "static/media/plus-grey.svg": "/static/media/plus-grey.d8e0be7d.svg",
     "static/media/poster.png": "/static/media/poster.291d423f.png",
@@ -103,9 +104,9 @@
     "static/media/x.svg": "/static/media/x.5b8e2186.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7989e6a5.js",
+    "static/js/runtime-main.e14aece8.js",
     "static/css/3.9149a91a.chunk.css",
-    "static/js/3.df7c786a.chunk.js",
-    "static/js/main.439f816c.chunk.js"
+    "static/js/3.130bc6c4.chunk.js",
+    "static/js/main.ac9c8bdb.chunk.js"
   ]
 }
