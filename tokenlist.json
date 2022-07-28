@@ -2855,6 +2855,22 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x42bfa18f3f7d82bd7240d8ce5935d51679c5115d.png"
+    },
+    {
+      "name": "SOCA",
+      "address": "0x6598463d6cbe4b51e9977437bf1200df4c45286c",
+      "symbol": "SOCA",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x6598463d6cbe4b51e9977437bf1200df4c45286c.png"
+    },
+    {
+      "name": "APC",
+      "address": "0x2aa504586d6cab3c59fa629f74c586d78b93a025",
+      "symbol": "APC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x2aa504586d6cab3c59fa629f74c586d78b93a025.png"
     }
   ]
 }
