@@ -2871,6 +2871,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x2aa504586d6cab3c59fa629f74c586d78b93a025.png"
+    },
+    {
+      "name": "OLE",
+      "address": "0xa865197a84e780957422237b5d152772654341f3",
+      "symbol": "OLE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xa865197a84e780957422237b5d152772654341f3.png"
     }
   ]
 }
