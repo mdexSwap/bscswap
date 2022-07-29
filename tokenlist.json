@@ -2879,6 +2879,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xa865197a84e780957422237b5d152772654341f3.png"
+    },
+    {
+      "name": "ETC",
+      "address": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
+      "symbol": "ETC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x3d6545b08693dae087e957cb1180ee38b9e3c25e.png"
     }
   ]
 }
