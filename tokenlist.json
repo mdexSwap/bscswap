@@ -1138,11 +1138,11 @@
     },
     {
       "name": "HAM",
-      "address": "0xb7b36ca86685af52186f1f9394e91d115a9da654",
+      "address": "0x679d5b2d94f454c950d683d159b87aa8eae37c9e",
       "symbol": "HAM",
-      "decimals": 18,
+      "decimals": 7,
       "chainId": 56,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0xb7b36ca86685af52186f1f9394e91d115a9da654.png"
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x679d5b2d94f454c950d683d159b87aa8eae37c9e.png"
     },
     {
       "name": "TRE",
