@@ -2887,6 +2887,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x3d6545b08693dae087e957cb1180ee38b9e3c25e.png"
+    },
+    {
+      "name": "PLAY",
+      "address": "0x5ecbad49898f06fdbaa01282bc6edb83f217f365",
+      "symbol": "PLAY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x5ecbad49898f06fdbaa01282bc6edb83f217f365.png"
+    },
+    {
+      "name": "FND",
+      "address": "0x264387ad73d19408e34b5d5e13a93174a35cea33",
+      "symbol": "FND",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x264387ad73d19408e34b5d5e13a93174a35cea33.png"
     }
   ]
 }
