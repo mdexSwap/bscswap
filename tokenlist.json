@@ -2903,6 +2903,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x264387ad73d19408e34b5d5e13a93174a35cea33.png"
+    },
+    {
+      "name": "BWRC",
+      "address": "0xbce2b12e3aa25225ed716c09c464df528b1e5916",
+      "symbol": "BWRC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xbce2b12e3aa25225ed716c09c464df528b1e5916.png"
     }
   ]
 }
