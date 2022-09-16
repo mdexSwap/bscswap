@@ -2911,6 +2911,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xbce2b12e3aa25225ed716c09c464df528b1e5916.png"
+    },
+    {
+      "name": "MFT",
+      "address": "0xdb1a277e6e0c2cc1eba6f340de1addf19c9971f3",
+      "symbol": "MFT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xdb1a277e6e0c2cc1eba6f340de1addf19c9971f3.png"
     }
   ]
 }
