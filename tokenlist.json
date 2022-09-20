@@ -2919,6 +2919,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xdb1a277e6e0c2cc1eba6f340de1addf19c9971f3.png"
+    },
+    {
+      "name": "TAP",
+      "address": "0x35bedbf9291b22218a0da863170dcc9329ef2563",
+      "symbol": "TAP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x35bedbf9291b22218a0da863170dcc9329ef2563.png"
     }
   ]
 }
