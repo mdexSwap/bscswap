@@ -2927,6 +2927,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x35bedbf9291b22218a0da863170dcc9329ef2563.png"
+    },
+    {
+      "name": "BBC",
+      "address": "0x37e5da11b6a4dc6d2f7abe232cdd30b0b8fc63b1",
+      "symbol": "BBC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x37e5da11b6a4dc6d2f7abe232cdd30b0b8fc63b1.png"
     }
   ]
 }
