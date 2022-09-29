@@ -2935,6 +2935,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x37e5da11b6a4dc6d2f7abe232cdd30b0b8fc63b1.png"
+    },
+    {
+      "name": "MGLD",
+      "address": "0x87ae87773345fa023e7d1556b1159af6b74cbb57",
+      "symbol": "MGLD",
+      "decimals": 4,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x87ae87773345fa023e7d1556b1159af6b74cbb57.png"
     }
   ]
 }
