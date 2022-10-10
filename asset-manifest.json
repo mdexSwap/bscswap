@@ -1,21 +1,21 @@
 {
   "files": {
     "static/js/0.2c622faf.chunk.js": "/static/js/0.2c622faf.chunk.js",
-    "main.js": "/static/js/main.ac9c8bdb.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.e14aece8.js",
+    "main.js": "/static/js/main.1140ed26.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.c6e6f465.js",
     "static/css/3.9149a91a.chunk.css": "/static/css/3.9149a91a.chunk.css",
-    "static/js/3.130bc6c4.chunk.js": "/static/js/3.130bc6c4.chunk.js",
-    "static/js/4.05338791.chunk.js": "/static/js/4.05338791.chunk.js",
-    "static/js/5.b7512e80.chunk.js": "/static/js/5.b7512e80.chunk.js",
-    "static/js/6.26e4a20b.chunk.js": "/static/js/6.26e4a20b.chunk.js",
+    "static/js/3.4b6954af.chunk.js": "/static/js/3.4b6954af.chunk.js",
+    "static/js/4.d821e558.chunk.js": "/static/js/4.d821e558.chunk.js",
+    "static/js/5.45d34848.chunk.js": "/static/js/5.45d34848.chunk.js",
+    "static/js/6.ef45fbe4.chunk.js": "/static/js/6.ef45fbe4.chunk.js",
     "static/js/7.382d7f76.chunk.js": "/static/js/7.382d7f76.chunk.js",
     "static/js/8.99beb20e.chunk.js": "/static/js/8.99beb20e.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.31ad10849e335974c36a3f29d96eac37.js": "/precache-manifest.31ad10849e335974c36a3f29d96eac37.js",
+    "precache-manifest.56c174f6ad3f6be3532cc4f6ec52aaa0.js": "/precache-manifest.56c174f6ad3f6be3532cc4f6ec52aaa0.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/3.130bc6c4.chunk.js.LICENSE.txt": "/static/js/3.130bc6c4.chunk.js.LICENSE.txt",
-    "static/js/4.05338791.chunk.js.LICENSE.txt": "/static/js/4.05338791.chunk.js.LICENSE.txt",
-    "static/js/6.26e4a20b.chunk.js.LICENSE.txt": "/static/js/6.26e4a20b.chunk.js.LICENSE.txt",
+    "static/js/3.4b6954af.chunk.js.LICENSE.txt": "/static/js/3.4b6954af.chunk.js.LICENSE.txt",
+    "static/js/4.d821e558.chunk.js.LICENSE.txt": "/static/js/4.d821e558.chunk.js.LICENSE.txt",
+    "static/js/6.ef45fbe4.chunk.js.LICENSE.txt": "/static/js/6.ef45fbe4.chunk.js.LICENSE.txt",
     "static/media/Bsc-banner-h5.png": "/static/media/Bsc-banner-h5.88fa5021.png",
     "static/media/Bsc-banner-pc.png": "/static/media/Bsc-banner-pc.8cbb9b47.png",
     "static/media/Discord-hover.svg": "/static/media/Discord-hover.67c60337.svg",
@@ -42,7 +42,6 @@
     "static/media/banner_invite_h5.png": "/static/media/banner_invite_h5.f2b24ab4.png",
     "static/media/banner_invited.png": "/static/media/banner_invited.3ec6cf14.png",
     "static/media/banner_invited_h5.png": "/static/media/banner_invited_h5.1ccc4e7d.png",
-    "static/media/beta.svg": "/static/media/beta.acd65e40.svg",
     "static/media/bitkeepWallet.png": "/static/media/bitkeepWallet.74630884.png",
     "static/media/blue-loader.svg": "/static/media/blue-loader.904b44c2.svg",
     "static/media/bsc-beta.svg": "/static/media/bsc-beta.eace2138.svg",
@@ -63,6 +62,7 @@
     "static/media/faq.svg": "/static/media/faq.bad34f87.svg",
     "static/media/fluidity.svg": "/static/media/fluidity.95e38393.svg",
     "static/media/fund.svg": "/static/media/fund.aae00e39.svg",
+    "static/media/futures.svg": "/static/media/futures.0e6c0ce6.svg",
     "static/media/guide1.png": "/static/media/guide1.edd22c9e.png",
     "static/media/guide2.png": "/static/media/guide2.6f767149.png",
     "static/media/guide3.png": "/static/media/guide3.dad0f8a7.png",
@@ -104,9 +104,9 @@
     "static/media/x.svg": "/static/media/x.5b8e2186.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e14aece8.js",
+    "static/js/runtime-main.c6e6f465.js",
     "static/css/3.9149a91a.chunk.css",
-    "static/js/3.130bc6c4.chunk.js",
-    "static/js/main.ac9c8bdb.chunk.js"
+    "static/js/3.4b6954af.chunk.js",
+    "static/js/main.1140ed26.chunk.js"
   ]
 }
