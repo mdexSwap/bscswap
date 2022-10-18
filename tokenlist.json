@@ -2943,6 +2943,14 @@
       "decimals": 4,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x87ae87773345fa023e7d1556b1159af6b74cbb57.png"
+    },
+    {
+      "name": "BSCS",
+      "address": "0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d",
+      "symbol": "BSCS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d.png"
     }
   ]
 }
