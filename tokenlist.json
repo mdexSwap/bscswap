@@ -2951,6 +2951,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d.png"
+    },
+    {
+      "name": "SNS",
+      "address": "0xd5cbae3f69b0640724a6532cc81be9c798a755a7",
+      "symbol": "SNS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xd5cbae3f69b0640724a6532cc81be9c798a755a7.png"
     }
   ]
 }
