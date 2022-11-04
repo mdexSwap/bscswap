@@ -2959,6 +2959,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xd5cbae3f69b0640724a6532cc81be9c798a755a7.png"
+    },
+    {
+      "name": "GALA",
+      "address": "0x7ddee176f665cd201f93eede625770e2fd911990",
+      "symbol": "GALA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x7ddee176f665cd201f93eede625770e2fd911990.png"
     }
   ]
 }
