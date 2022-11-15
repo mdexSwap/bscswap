@@ -2975,14 +2975,6 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x4b0f1812e5df2a09796481ff14017e6005508003.png"
-    },
-    {
-      "name": "SFP",
-      "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
-      "symbol": "SFP",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb.png"
     }
   ]
 }
