@@ -2975,6 +2975,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x4b0f1812e5df2a09796481ff14017e6005508003.png"
+    },
+    {
+      "name": "PROS",
+      "address": "0xed8c8aa8299c10f067496bb66f8cc7fb338a3405",
+      "symbol": "PROS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xed8c8aa8299c10f067496bb66f8cc7fb338a3405.png"
     }
   ]
 }
