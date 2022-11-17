@@ -2991,6 +2991,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x59c49b54d4425c7ff1e49f40958a14d48cc87c26.png"
+    },
+    {
+      "name": "LAZIO",
+      "address": "0x77d547256a2cd95f32f67ae0313e450ac200648d",
+      "symbol": "LAZIO",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x77d547256a2cd95f32f67ae0313e450ac200648d.png"
     }
   ]
 }
