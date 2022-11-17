@@ -2983,6 +2983,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xed8c8aa8299c10f067496bb66f8cc7fb338a3405.png"
+    },
+    {
+      "name": "MC",
+      "address": "0x59c49b54d4425c7ff1e49f40958a14d48cc87c26",
+      "symbol": "MC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x59c49b54d4425c7ff1e49f40958a14d48cc87c26.png"
     }
   ]
 }
