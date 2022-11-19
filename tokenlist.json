@@ -2999,6 +2999,14 @@
       "decimals": 8,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x77d547256a2cd95f32f67ae0313e450ac200648d.png"
+    },
+    {
+      "name": "VOLT",
+      "address": "0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac",
+      "symbol": "VOLT",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac.png"
     }
   ]
 }
