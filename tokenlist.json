@@ -3007,6 +3007,14 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac.png"
+    },
+    {
+      "name": "GART",
+      "address": "0x6d830e1d0179b4fe656683c9d14c05f8cd95db75",
+      "symbol": "GART",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x6d830e1d0179b4fe656683c9d14c05f8cd95db75.png"
     }
   ]
 }
