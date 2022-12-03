@@ -3015,6 +3015,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x6d830e1d0179b4fe656683c9d14c05f8cd95db75.png"
+    },
+    {
+      "name": "SQUA",
+      "address": "0xb82beb6ee0063abd5fc8e544c852237aa62cbb14",
+      "symbol": "SQUA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xb82beb6ee0063abd5fc8e544c852237aa62cbb14.png"
     }
   ]
 }
