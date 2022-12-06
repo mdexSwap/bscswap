@@ -3023,6 +3023,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xb82beb6ee0063abd5fc8e544c852237aa62cbb14.png"
+    },
+    {
+      "name": "BTCMT",
+      "address": "0x410a56541bd912f9b60943fcb344f1e3d6f09567",
+      "symbol": "BTCMT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x410a56541bd912f9b60943fcb344f1e3d6f09567.png"
     }
   ]
 }
