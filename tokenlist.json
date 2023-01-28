@@ -3039,6 +3039,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x086ddd008e20dd74c4fb216170349853f8ca8289.png"
+    },
+    {
+      "name": "Fwc",
+      "address": "0x6d3a160b86edcd46d8f9bba25c2f88cccade19fc",
+      "symbol": "Fwc",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x6d3a160b86edcd46d8f9bba25c2f88cccade19fc.png"
+    },
+    {
+      "name": "CC",
+      "address": "0x07766485a3e29145c1a5b63b7f267d82bd520f2e",
+      "symbol": "CC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x07766485a3e29145c1a5b63b7f267d82bd520f2e.png"
     }
   ]
 }
