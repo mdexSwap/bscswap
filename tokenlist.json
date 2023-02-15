@@ -3055,6 +3055,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x07766485a3e29145c1a5b63b7f267d82bd520f2e.png"
+    },
+    {
+      "name": "kiwi",
+      "address": "0xba625fdcc8d35e43e9b9e337779d4e4794a80dac",
+      "symbol": "kiwi",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xba625fdcc8d35e43e9b9e337779d4e4794a80dac.png"
     }
   ]
 }
