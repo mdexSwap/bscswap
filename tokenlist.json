@@ -3071,6 +3071,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x55eca618a100b004c291949abef1bd15e60ae564.png"
+    },
+    {
+      "name": "VIDEO",
+      "address": "0x20bbff517598d6926418a6abfc5b51350b4139aa",
+      "symbol": "VIDEO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x20bbff517598d6926418a6abfc5b51350b4139aa.png"
     }
   ]
 }
