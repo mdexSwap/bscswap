@@ -3079,6 +3079,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x20bbff517598d6926418a6abfc5b51350b4139aa.png"
+    },
+    {
+      "name": "wDZOO",
+      "address": "0x56d06a78ef8e95d6043341f24759e2834be6f97b",
+      "symbol": "wDZOO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x56d06a78ef8e95d6043341f24759e2834be6f97b.png"
     }
   ]
 }
