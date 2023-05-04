@@ -3103,6 +3103,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xf307910a4c7bbc79691fd374889b36d8531b08e3.png"
+    },
+    {
+      "name": "EDU",
+      "address": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
+      "symbol": "EDU",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xbdeae1ca48894a1759a8374d63925f21f2ee2639.png"
     }
   ]
 }
