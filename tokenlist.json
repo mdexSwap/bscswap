@@ -3111,6 +3111,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xbdeae1ca48894a1759a8374d63925f21f2ee2639.png"
+    },
+    {
+      "name": "WED",
+      "address": "0xddbb3e6f8413d0e3adc700a731da304aec97bcbb",
+      "symbol": "WED",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xddbb3e6f8413d0e3adc700a731da304aec97bcbb.png"
     }
   ]
 }
