@@ -3119,6 +3119,14 @@
       "decimals": 9,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xddbb3e6f8413d0e3adc700a731da304aec97bcbb.png"
+    },
+    {
+      "name": "BNBx",
+      "address": "0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275",
+      "symbol": "BNBx",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275.png"
     }
   ]
 }
