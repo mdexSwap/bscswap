@@ -3127,6 +3127,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275.png"
+    },
+    {
+      "name": "LSD",
+      "address": "0xcd1b51b87a8a7137d6421ba5a976225187a26777",
+      "symbol": "LSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xcd1b51b87a8a7137d6421ba5a976225187a26777.png"
     }
   ]
 }
